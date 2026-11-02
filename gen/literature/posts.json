@@ -2823,5 +2823,480 @@
     }
    ]
   }
+ },
+ {
+  "slug": "kif2c-agonist-dsb-repair-progeria-lifespan",
+  "title": "Small-molecule targeting of kinesin-13 KIF2C enhances double-strand break DNA repair and slows down aging",
+  "authors": [
+   "Joana C. Macedo",
+   "Maria M. da Silva",
+   "Carlos Sousa-Soares",
+   "Joana Magalhães",
+   "M. Inês Ala",
+   "Rui Ribeiro",
+   "Monika Barroso-Vilares",
+   "Mafalda Galhardo",
+   "Mafalda Sousa",
+   "Elsa D. Silva",
+   "Andrei Seluanov",
+   "Vera Gorbunova",
+   "Paula Sampaio",
+   "Francisco Vasques-Nóvoa",
+   "Diana S. Nascimento",
+   "Elsa Logarinho"
+  ],
+  "journal": "Nature Communications",
+  "pubDate": "2026-11-01",
+  "doi": "10.1038/s41467-026-79165-6",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1038/s41467-026-79165-6",
+   "source": "Crossref license metadata, fetched 2026-11-02 (CC BY-NC-ND 4.0)"
+  },
+  "whyItMatters": "A drug that boosts a DNA-repair helper protein improved double-strand break repair in aged and progeria cells and extended health and lifespan in progeria mice.",
+  "synopsis": {
+   "why": "DNA damage builds up as we age, and many researchers see it as one of the central drivers of aging rather than just a side effect. The most dangerous kind is the double-strand break, where both strands of the DNA helix are cut. If damage really pushes aging forward, then helping cells repair it better should slow aging down. That idea is hard to test, because there are few safe ways to boost DNA repair with a drug. This team had earlier found that a protein called KIF2C, a member of the kinesin-13 family of motor proteins that work on microtubules, helps with DNA repair and is switched down in aged cells. Here they ask whether turning KIF2C activity back up can counter DNA damage and ease signs of aging.",
+   "did": "According to the abstract, the researchers used a small-molecule agonist, a drug-like compound that increases KIF2C activity. They tested it in aged cells and in cells from patients with two genetic conditions marked by widespread DNA damage and early aging: Hutchinson-Gilford progeria syndrome (HGPS), a rare disease of very fast aging in children, and Down syndrome (DS). They looked at how well cells repaired double-strand breaks, at the structure of the cell nucleus, and at patterns of gene activity. They also studied the mechanism, focusing on infoldings of the nuclear envelope (the membrane around the nucleus) that are pushed in by microtubules from the surrounding cytoplasm. Finally, they injected the compound under the skin of progeria mice and followed their aging signs, healthspan and lifespan.",
+   "found": "The KIF2C agonist improved double-strand break repair in both HGPS and DS cells and in aged cells. The authors report that it works by restoring the nuclear envelope infoldings driven by cytoplasmic microtubules, which they link to better repair. Better repair went along with a more normal nuclear structure and improved gene-activity signatures in the patient cells. In progeria mice, the injected compound reduced aging-related features and extended both healthspan and lifespan. The authors describe this as a geroprotective approach, meaning one that protects against aging, and argue that it shows boosting genome stability can delay aging.",
+   "limits": "This synopsis is based on the abstract only, although the paper is open access, so doses, effect sizes and statistics are not given here. The animal results come from progeria mice, which age unusually fast because of a specific genetic defect; that does not show the drug would slow normal aging in healthy animals or people. Down syndrome and progeria cells were studied in the lab, not in patients. The abstract does not report side effects or long-term safety of raising KIF2C activity, and boosting a protein involved in cell division could carry risks that need separate study.",
+   "terms": [
+    {
+     "term": "Double-strand break",
+     "definition": "DNA damage where both strands of the helix are cut, the most dangerous kind for a cell."
+    },
+    {
+     "term": "KIF2C",
+     "definition": "A kinesin-13 motor protein that remodels microtubules and also helps DNA repair."
+    },
+    {
+     "term": "Agonist",
+     "definition": "A compound that switches on or increases the activity of a target protein."
+    },
+    {
+     "term": "Hutchinson-Gilford progeria syndrome",
+     "definition": "A rare genetic disease that causes very rapid aging in children."
+    },
+    {
+     "term": "Nuclear envelope",
+     "definition": "The double membrane that surrounds and protects the cell's nucleus."
+    },
+    {
+     "term": "Geroprotective",
+     "definition": "Describes a treatment that slows aging or protects against its effects."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.1038/s41467-026-79165-6",
+  "firstAuthor": "Joana C. Macedo",
+  "authorsShort": "Joana C. Macedo et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1.5
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "polk-polymerase-kappa-neuron-genome-maintenance",
+  "title": "DNA polymerase kappa supports repair-associated DNA synthesis and genome maintenance in postmitotic neurons",
+  "authors": [
+   "Gunjan Goyal",
+   "Premkumar Palanisamy",
+   "Ainesh Paul",
+   "Vijay L Roy",
+   "Paolo Cifani",
+   "Anirban Paul",
+   "Shilpi Paul"
+  ],
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-01",
+  "doi": "10.64898/2026.10.01.756094",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.10.01.756094",
+   "source": "bioRxiv preprints are free to read"
+  },
+  "whyItMatters": "A DNA polymerase best known in dividing cells turns out to help neurons keep their DNA in repair, and boosting it eased damage and Alzheimer's-related signs in lab neurons.",
+  "synopsis": {
+   "why": "Neurons are postmitotic: once mature, they stop dividing and have to last a lifetime. That means they cannot replace damaged DNA by copying it into new cells, so they rely on constant DNA repair. Many repair routes need a polymerase, an enzyme that fills in fresh DNA where damaged pieces were cut out. Which polymerases do this job in neurons is still poorly understood. Failing genome maintenance in neurons is thought to contribute to brain aging and to diseases like Alzheimer's, so finding the enzymes involved could point to new ways to protect the aging brain.",
+   "did": "According to the abstract, the team studied DNA polymerase kappa (POLK), a so-called translesion synthesis polymerase that can copy across damaged DNA and has mostly been studied in dividing cells. They used primary mouse cortical neurons and human forebrain neurons made from induced pluripotent stem cells. They checked where POLK sits in the nucleus relative to newly made DNA and repair proteins, including a tagged form of PCNA (ubiquitinated PCNA) that marks repair activity. They then lowered POLK levels, and separately raised them, and measured DNA synthesis, signs of stress and senescence, inflammation, and stress signalling. They also tested neurons with a genetic background that raises Alzheimer's disease risk.",
+   "found": "POLK was found close to newly made DNA and to repair-associated proteins, including ubiquitinated PCNA. Lowering POLK reduced DNA synthesis in both mouse and human neurons. It also led to changes in the nucleus and other cell structures, a senescence-like stress state linked to the protein p21, inflammatory responses, and more staining for p38 MAPK, a stress signalling protein. In neurons with the Alzheimer's-risk background, POLK loss also increased double-stranded DNA in the cytoplasm, where it does not belong, and increased tau phosphorylation, a hallmark of Alzheimer's disease. Raising POLK did the opposite: it increased DNA synthesis and reduced DNA damage signals, p38 MAPK staining, cytoplasmic DNA and Alzheimer's-relevant features. The authors conclude that POLK has a role in keeping neuronal genomes intact.",
+   "limits": "This is a preprint and has not yet been peer reviewed. This synopsis is based on the abstract only. All the work was done in neurons grown in dishes, not in aging animals or human brains, so whether POLK matters for brain aging in the body is not yet shown. The abstract does not give effect sizes, and 'senescence-like' stress in neurons is not the same as classic senescence in dividing cells. Raising POLK in cultured cells is far from a therapy; translesion polymerases can also make mistakes when they copy DNA.",
+   "terms": [
+    {
+     "term": "Postmitotic",
+     "definition": "Describes a cell, such as a mature neuron, that no longer divides."
+    },
+    {
+     "term": "DNA polymerase",
+     "definition": "An enzyme that builds new DNA strands, used in copying and in repair."
+    },
+    {
+     "term": "Translesion synthesis",
+     "definition": "Copying DNA straight across a damaged spot instead of stopping there."
+    },
+    {
+     "term": "PCNA",
+     "definition": "A ring-shaped protein that holds polymerases on DNA; a tagged form signals repair."
+    },
+    {
+     "term": "Induced pluripotent stem cells",
+     "definition": "Adult cells reprogrammed into stem cells that can be turned into neurons or other types."
+    },
+    {
+     "term": "Tau phosphorylation",
+     "definition": "Extra phosphate tags on the protein tau, a feature of Alzheimer's disease."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.64898/2026.10.01.756094",
+  "firstAuthor": "Gunjan Goyal",
+  "authorsShort": "Gunjan Goyal et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "sirt5-r-loops-osteoblast-aging-osteoporosis",
+  "title": "PRMT6–SIRT5–HADHA signaling safeguards osteoblasts from R-loop-induced DNA damage during age-related osteoporosis",
+  "authors": [
+   "Xinman Song",
+   "Shanshan Huang",
+   "Xiaoxuan Guo",
+   "Chunna Gao",
+   "Guangna Yue",
+   "Lifei Chen",
+   "Zhaohan Du",
+   "Jia Xu",
+   "Xinquan Jiang",
+   "Xiaowei Liu",
+   "Shaohai Wang"
+  ],
+  "journal": "Cell Death Discovery",
+  "pubDate": "2026-10-31",
+  "doi": "10.1038/s41420-026-03354-x",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1038/s41420-026-03354-x",
+   "source": "Crossref license metadata, fetched 2026-11-02 (CC BY 4.0)"
+  },
+  "whyItMatters": "In aging mice, losing the enzyme SIRT5 let RNA-DNA tangles called R-loops pile up and damage DNA in bone-forming cells, and putting SIRT5 back eased bone loss.",
+  "synopsis": {
+   "why": "Age-related osteoporosis happens when the body makes too little new bone and the inner, spongy (trabecular) bone thins out. Bone-forming cells called osteoblasts decline in number and function with age, and more of them become senescent. Genome instability and ongoing DNA damage are thought to be part of this decline. One source of DNA damage is the R-loop, a structure in which newly made RNA sticks back onto its DNA template. Too many R-loops can cause clashes between reading genes and copying DNA, leading to breaks. How osteoblasts keep R-loops under control as they age was largely unknown. This study looks at SIRT5, a mitochondrial enzyme that removes chemical tags called succinyl groups from proteins.",
+   "did": "According to the abstract, the researchers first combined public single-cell RNA sequencing data from mouse bone marrow to track age changes in the osteoblast lineage. They then studied naturally aged mice and mice lacking either Sirt5 or Prmt6 (another enzyme), measuring bone with micro-CT scans and tissue staining. In the lab, they aged primary osteoblasts by repeated division or stressed them with hydrogen peroxide. They used RNA sequencing, proteomics that measure protein succinylation, a mapping method for R-loops (S9.6 CUT&Tag), and protein and imaging tests. To test cause and effect, they used a virus (AAV5) to add back Sirt5 in mice and in cells.",
+   "found": "The proportion of osteoblasts fell with age, along with Sirt5 levels. Mice lacking Sirt5 lost more trabecular bone, made less bone, showed lower bone-formation markers (Runx2, ALPL, OCN), lower ALP activity, higher senescence markers (p16, p21) and more senescent cells. Without Sirt5, succinyl tags built up across proteins, including at several sites on HADHA, a fat-metabolism enzyme, whose levels dropped. R-loops rose broadly near the start sites of genes, with more S9.6 and γH2AX signal, a marker of DNA breaks, and more DNA damage. Mice lacking Prmt6 had lower Sirt5 and looked similar, with bone thinning and more R-loops. Adding back Sirt5 restored HADHA, reduced R-loops and senescence features in stressed or Prmt6-deficient cells, and eased trabecular bone loss.",
+   "limits": "This synopsis is based on the abstract only, although the paper is open access, so numbers and statistics are not given here. The work is in mice and mouse cells; whether the same pathway drives human osteoporosis is not shown. The abstract links R-loops and DNA damage to bone loss, but it does not show how much of the bone effect comes from R-loops rather than other changes caused by losing Sirt5 or Prmt6. Gene-removal mice lack the enzyme from birth, which differs from gradual decline in normal aging.",
+   "terms": [
+    {
+     "term": "R-loop",
+     "definition": "A structure where newly made RNA pairs back with its DNA template, which can lead to DNA breaks."
+    },
+    {
+     "term": "Osteoblast",
+     "definition": "A cell that builds new bone."
+    },
+    {
+     "term": "Trabecular bone",
+     "definition": "The spongy, honeycomb-like bone inside the ends of long bones and the spine."
+    },
+    {
+     "term": "Succinylation",
+     "definition": "A chemical tag added to proteins that can change how they work; SIRT5 removes it."
+    },
+    {
+     "term": "γH2AX",
+     "definition": "A modified histone that marks sites of DNA double-strand breaks."
+    },
+    {
+     "term": "AAV5",
+     "definition": "A harmless virus type used as a vehicle to deliver a gene into cells."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.1038/s41420-026-03354-x",
+  "firstAuthor": "Xinman Song",
+  "authorsShort": "Xinman Song et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "5hmc-hydroxymethylation-aging-epigenome-review",
+  "title": "Beyond 5mC: 5hmC in the aging epigenome",
+  "authors": [
+   "Anna Reale",
+   "Dario Di Bari",
+   "Katsiaryna Karpach",
+   "Giuseppe Zardo",
+   "Angiolina Catizone",
+   "Michele Zampieri"
+  ],
+  "journal": "Experimental Gerontology",
+  "pubDate": "2026-10-31",
+  "doi": "10.1016/j.exger.2026.113374",
+  "pmid": "42966422",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1016/j.exger.2026.113374",
+   "source": "OpenAlex API, fetched 2026-11-02 (Crossref lists CC BY-NC-ND 4.0)"
+  },
+  "whyItMatters": "Epigenetic clocks read standard DNA methylation, but a related mark, 5hmC, also shifts with age in its own way and might explain what clocks are really measuring.",
+  "synopsis": {
+   "why": "Epigenetic clocks estimate biological age from DNA methylation, mostly the mark called 5-methylcytosine (5mC). They are among the most promising measures of how fast someone is aging, yet nobody fully understands what drives the methylation changes they track. One overlooked piece is that 5mC can be chemically oxidised by TET enzymes into other forms, chiefly 5-hydroxymethylcytosine (5hmC), as well as 5-formylcytosine and 5-carboxylcytosine. These forms were long seen just as steps on the way to removing methylation, but they may carry their own signals. Standard methylation tests often cannot tell 5mC and 5hmC apart, which matters for interpreting clocks.",
+   "did": "This is a review article. According to the abstract, the authors gather current evidence on these oxidised forms of 5mC in mammalian aging, with most attention on 5hmC. They look at how overall 5hmC levels and their spread across the genome change with age, which parts of the genome are affected, how 5hmC changes compare with 5mC changes, and what roles 5hmC might play in cells and tissues.",
+   "found": "The review reports that aging is linked to changes in overall 5hmC levels and in its genome-wide pattern, and that these changes depend on context, such as tissue type. Regions whose 5hmC changes with age turn up in genes, regulatory elements, repetitive sequences and transposable elements (jumping genes). 5hmC and 5mC changes often occur in different places in the genome, which the authors read as a sign that they are partly independent processes. They suggest 5hmC may help control how stable gene activity is, cell identity, inflammation and how vulnerable tissues are. They argue that understanding the TET and 5hmC pathway could improve how epigenetic aging is interpreted and could support clocks built on 5hmC and strategies for healthy aging.",
+   "limits": "This synopsis is based on the abstract only, although the article is listed as open access. As a review, it summarises other studies and does not present new data; the abstract does not say how studies were chosen. The described changes are context-dependent, so general statements about 5hmC and aging may not hold in every tissue. 5hmC-based clocks are proposed here, not shown to work better than existing ones.",
+   "terms": [
+    {
+     "term": "5mC",
+     "definition": "5-methylcytosine, the standard DNA methylation mark read by most epigenetic clocks."
+    },
+    {
+     "term": "5hmC",
+     "definition": "5-hydroxymethylcytosine, an oxidised form of 5mC made by TET enzymes."
+    },
+    {
+     "term": "TET enzymes",
+     "definition": "Enzymes that oxidise 5mC, a step that can lead to removal of methylation."
+    },
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates age from DNA methylation levels at selected sites."
+    },
+    {
+     "term": "Transposable element",
+     "definition": "A stretch of DNA that can copy or move itself to new places in the genome."
+    },
+    {
+     "term": "Differentially hydroxymethylated region",
+     "definition": "A stretch of DNA whose 5hmC level differs between groups, such as young and old."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.1016/j.exger.2026.113374",
+  "firstAuthor": "Anna Reale",
+  "authorsShort": "Anna Reale et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "line-1-retrotransposons-cardiac-aging",
+  "title": "The Hidden Genome Awakens: LINE-1 Retrotransposons as Emerging Regulators of Cardiac Aging and Inflammation",
+  "authors": [
+   "Sheng Kang"
+  ],
+  "journal": "QJM: An International Journal of Medicine",
+  "pubDate": "2026-10-30",
+  "doi": "10.1093/qjmed/hcag309",
+  "pmid": "42968377",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref license metadata, fetched 2026-11-02 (standard publisher reuse terms; no open licence listed)"
+  },
+  "whyItMatters": "A review proposing that 'jumping genes' called LINE-1, woken up as the genome's protective packaging erodes with age, may drive inflammation and scarring in the aging heart.",
+  "synopsis": {
+   "why": "The aging heart stiffens and scars (fibrosis), pumps less well, and loses some of its ability to repair itself, and this drives much of the illness and death from heart disease in older people. Known hallmarks such as worn-out mitochondria, cellular senescence and chronic low-grade inflammation are all involved, but what sets them off upstream is not clear. A large share of the human genome is made of LINE-1 elements, ancient 'jumping genes' that can copy themselves. Normally they are kept silent by DNA methylation and tightly packed chromatin. This article asks whether their reawakening with age links several aging hallmarks in the heart.",
+   "did": "This is a review and perspective article by a single author. According to the abstract, it brings together emerging evidence on LINE-1 elements and age-related inflammation, proposes a framework for how LINE-1 might drive cardiac aging, and discusses possible treatments.",
+   "found": "The article describes how age-related erosion of epigenetic control, loss of tightly packed chromatin and instability of the nucleus can let LINE-1 elements switch back on, leading to a build-up of LINE-1-derived DNA and RNA in cells. This stray DNA can trigger the cGAS-STING pathway, a sensor that normally detects viral DNA, which sets off long-lasting type I interferon responses, NF-κB activation and a stronger senescence-associated secretory phenotype (SASP), the inflammatory signals released by senescent cells. In the heart, the author proposes, ongoing LINE-1 and cGAS-STING activity may contribute to heart muscle cell dysfunction, activation of scar-forming fibroblasts, immune changes and worsening fibrosis. The article frames LINE-1 reactivation as a point where epigenetic instability, genomic stress and inflammaging come together, and reviews strategies such as blocking LINE-1 reverse transcription, blocking STING signalling and restoring epigenetic control.",
+   "limits": "Only the abstract was available; the article is behind a paywall. This is a single-author review that proposes a framework, and several of its links are framed as possibilities ('may contribute') rather than proven steps in the human heart. The abstract does not say how evidence was selected or how much comes from animal or cell studies versus human hearts. Treatments discussed are emerging ideas, not tested therapies for cardiac aging.",
+   "terms": [
+    {
+     "term": "LINE-1",
+     "definition": "Long Interspersed Nuclear Element-1, a self-copying 'jumping gene' making up a large share of the genome."
+    },
+    {
+     "term": "Retrotransposon",
+     "definition": "A genetic element that copies itself via RNA and reinserts the copy into DNA."
+    },
+    {
+     "term": "cGAS-STING",
+     "definition": "A cell alarm system that senses DNA in the wrong place and triggers inflammation."
+    },
+    {
+     "term": "Heterochromatin",
+     "definition": "Tightly packed DNA that keeps genes and repeats switched off."
+    },
+    {
+     "term": "SASP",
+     "definition": "Senescence-associated secretory phenotype: inflammatory signals released by senescent cells."
+    },
+    {
+     "term": "Inflammaging",
+     "definition": "The chronic, low-grade inflammation that builds up with age."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.1093/qjmed/hcag309",
+  "firstAuthor": "Sheng Kang",
+  "authorsShort": "Sheng Kang",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "mind-diet-epigenetic-aging-hrs",
+  "title": "Concordance with the MIND diet is associated with lower subsequent epigenetic aging",
+  "authors": [
+   "Vivian Hsing-Chun Wang",
+   "Jordan Weiss",
+   "Yian Y Gu",
+   "Jeannette M. Beasley",
+   "Emily Johnston",
+   "Arjun Masurkar",
+   "Daniel Wronski",
+   "Donglan S Zhang"
+  ],
+  "journal": "medRxiv (preprint)",
+  "pubDate": "2026-11-01",
+  "doi": "10.64898/2026.10.30.26365745",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.10.30.26365745",
+   "source": "medRxiv preprints are free to read"
+  },
+  "whyItMatters": "In 1,740 older Americans, eating closer to the brain-focused MIND diet went with slightly slower epigenetic aging three years later on three different clocks.",
+  "synopsis": {
+   "why": "Diet is one of the most commonly suggested ways to slow biological aging, but evidence that a specific eating pattern relates to later changes in aging markers is limited. The MIND diet (Mediterranean-DASH Intervention for Neurodegenerative Delay) combines features of the Mediterranean and DASH diets with a focus on brain health. Epigenetic clocks, built from DNA methylation, give a way to measure biological aging. This study asks whether people who followed the MIND diet more closely showed lower epigenetic aging a few years later.",
+   "did": "According to the abstract, the researchers used the Health and Retirement Study, a large long-running study of older Americans. They linked diet information collected in 2013 to DNA methylation measured in 2016 in 1,740 participants. They scored how closely each person's diet matched MIND and related it to three epigenetic aging measures: PhenoAge acceleration, GrimAge acceleration and methylation Pace of Aging. They adjusted for other factors, corrected for multiple testing, and checked the results with additional adjustment for body-mass index, with weighting for how participants were selected, with a different causal estimation method (targeted maximum likelihood estimation), and with causal forests, a machine-learning method to look for subgroups who might benefit more.",
+   "found": "Per one standard deviation higher MIND score, PhenoAge acceleration was 0.4 years lower (95% CI -0.8 to -0.1), GrimAge acceleration was 0.3 years lower (-0.5 to -0.1), and methylation Pace of Aging was 0.0054 lower (-0.0098 to -0.0010). All three stayed significant after correcting for multiple tests (q of 0.026 or less). The links held after adjusting for body-mass index and after selection weighting. The alternative causal method gave consistent results. The causal-forest analysis, tested in held-out and repeated-split samples, found no reproducible evidence that some subgroups benefited more than others. The authors conclude that closer MIND adherence is associated with lower later epigenetic aging and that molecular aging is a useful middle step for studying diet and aging.",
+   "limits": "This is a preprint and has not yet been peer reviewed. This synopsis is based on the abstract only. The study is observational: people who eat better may differ in many other ways, so it cannot prove the diet caused slower aging, even with careful statistics. Diet was measured once and self-reported. Methylation was measured once, three years later, so the study does not show a change in aging speed within each person. The differences are small, a fraction of a year, and the abstract does not link them to health outcomes.",
+   "terms": [
+    {
+     "term": "MIND diet",
+     "definition": "An eating pattern blending Mediterranean and DASH diets, aimed at brain health."
+    },
+    {
+     "term": "Epigenetic age acceleration",
+     "definition": "How much older or younger a person's methylation-based age is than their actual age."
+    },
+    {
+     "term": "GrimAge",
+     "definition": "An epigenetic clock trained to predict lifespan and health risks."
+    },
+    {
+     "term": "PhenoAge",
+     "definition": "An epigenetic clock trained on a biological age built from clinical blood tests."
+    },
+    {
+     "term": "Pace of Aging",
+     "definition": "A methylation measure of how fast a person is aging right now, in years per year."
+    },
+    {
+     "term": "Observational study",
+     "definition": "Research that watches people as they are, without assigning a treatment."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.64898/2026.10.30.26365745",
+  "firstAuthor": "Vivian Hsing-Chun Wang",
+  "authorsShort": "Vivian Hsing-Chun Wang et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
  }
 ]
