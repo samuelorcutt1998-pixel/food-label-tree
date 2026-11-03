@@ -3298,5 +3298,233 @@
    "journalTier": 1
   },
   "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "chromosomal-mosaicism-aging-tissues-smaht",
+  "title": "Recurrent mitotic error and purifying selection shape chromosomal mosaicism across human tissues",
+  "authors": [
+   "David Tang",
+   "Nolan Kamitaki",
+   "Yichen Si",
+   "Corinne E Sexton",
+   "William C Feng",
+   "Alexander D Veit",
+   "Hye-Jung E Chun",
+   "Peter J Park",
+   "Po-Ru Loh"
+  ],
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-02",
+  "doi": "10.64898/2026.10.27.760146",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.10.27.760146",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata, fetched 2026-11-03: CC BY-NC-ND 4.0)"
+  },
+  "whyItMatters": "Deep sequencing of 19 healthy tissues from 25 older donors maps where large chromosome errors pile up with age, and shows the body weeds most of them out.",
+  "synopsis": {
+   "why": "Every time a cell divides it has to copy and split its chromosomes perfectly. Sometimes it does not, and a daughter cell ends up missing a chromosome, carrying an extra one, or losing a large chunk of one. These large changes are called mosaic chromosomal alterations, because only some cells in the body carry them, like tiles in a mosaic. Scientists know a lot about them in cancer and in blood, where they are part of clonal hematopoiesis, the age-related expansion of mutated blood cell families. Much less is known about how common they are in healthy solid organs such as the heart, lung or glands, and how that changes as people age. Because genomic instability is considered one of the hallmarks of aging, a map of these errors across the body helps show where chromosome damage accumulates and whether the body tolerates it.",
+   "did": "According to the abstract, the team used very deep whole-genome sequencing (more than 200-fold coverage) produced by the Somatic Mosaicism across Human Tissues (SMaHT) Network, a large research consortium. The data covered 19 different tissues from 25 donors aged 42 to over 89, for a total of 722 tissue samples. They searched these samples for chromosome changes longer than one million DNA letters, for losses of the sex chromosomes (X and Y), and for copy-neutral loss of heterozygosity, a change where a cell keeps the normal amount of DNA but both copies of a region come from the same parent.",
+   "found": "The researchers found 1,008 large mosaic changes on the non-sex chromosomes, and losses of the sex chromosomes turned up everywhere. Unexpectedly, loss of the Y chromosome in men was highest in the lung, adrenal gland and heart, reaching roughly 5 to 10 percent of cells in elderly donors. Those same tissues tended to show more X loss in women, which the authors read as a gradient in how often cell division goes wrong from tissue to tissue. Changes in whole chromosome number showed tissue-specific patterns suggesting that the body usually selects against cells carrying them. The adrenal gland was an exception, with low levels of such errors almost everywhere. The testis rarely had extra or missing chromosomes, but it often showed copy-neutral loss of heterozygosity, hinting at more frequent swapping between paired chromosomes in sperm stem cells. Repeated X losses in women's tissues favoured one parental copy over the other, which the authors explain through a mix of genetic and epigenetic effects. Overall, they conclude that the chromosome landscape of aging tissues is shaped by genetics and recurring errors, and that most of these errors are kept in check by purifying selection, the removal of less fit cells.",
+   "limits": "This is a preprint, so it has not yet been checked by independent peer reviewers, and the findings could change. The study included 25 donors, which is a small number of people even though many tissues were sampled from each, and all donors were middle-aged or older, so it cannot show directly how these changes build up from youth. The abstract describes patterns and the authors' interpretation of selection; it does not report effects on health or disease. This synopsis was written from the abstract only.",
+   "terms": [
+    {
+     "term": "Mosaic chromosomal alteration",
+     "definition": "A large gain, loss or rearrangement of chromosome material that is present in only some of a person's cells."
+    },
+    {
+     "term": "Aneuploidy",
+     "definition": "Having the wrong number of chromosomes in a cell, usually from an error during cell division."
+    },
+    {
+     "term": "Loss of Y (or X)",
+     "definition": "A cell dropping one of its sex chromosomes; loss of Y in blood is a well-known marker that rises with age in men."
+    },
+    {
+     "term": "Copy-neutral loss of heterozygosity",
+     "definition": "A change where a cell keeps two copies of a DNA region, but both now come from the same parent."
+    },
+    {
+     "term": "Purifying selection",
+     "definition": "The tendency for cells carrying harmful changes to be outcompeted or removed, keeping their numbers low."
+    },
+    {
+     "term": "SMaHT Network",
+     "definition": "Somatic Mosaicism across Human Tissues, a research consortium cataloguing DNA changes that arise in the body's cells after conception."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.64898/2026.10.27.760146",
+  "firstAuthor": "David Tang",
+  "authorsShort": "David Tang et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "nrf2-skin-mutations-aging-uvb",
+  "title": "NRF2 plays a significant role in the suppression of genotoxicity during aging whereas its protective role for acute UVB genotoxicity is limited to mutation induction suppression",
+  "authors": [
+   "Hironobu Ikehata",
+   "Masayuki Yamamoto"
+  ],
+  "journal": "Mutagenesis",
+  "pubDate": "2026-11-02",
+  "doi": "10.1093/mutage/geag037",
+  "pmid": "42969801",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref license metadata, fetched 2026-11-03: publisher standard reuse terms, no open licence listed; OpenAlex lookup failed"
+  },
+  "whyItMatters": "In mouse skin, losing the antioxidant switch NRF2 made DNA mutations pile up faster with age, while barely changing mutations from a burst of UV light.",
+  "synopsis": {
+   "why": "Our cells constantly make reactive oxygen species, chemically aggressive molecules that are a by-product of normal metabolism and are also produced by outside stresses such as ultraviolet (UV) light from the sun. These molecules can damage DNA, and damaged DNA can turn into permanent mutations. The slow build-up of mutations in body tissues is thought to contribute to aging and to cancer. NRF2 is a master switch protein that turns on many of the cell's antioxidant defences. A natural question is how much NRF2 actually protects DNA, and whether that protection matters more against a sudden hit like sunburn or against the quiet, lifelong stress of normal metabolism.",
+   "did": "According to the abstract, the researchers studied mice that lack the Nrf2 gene and compared them with normal mice. The mice carried a bacterial gene called lacZ as a mutation reporter: because this gene sits in the mouse DNA but does nothing for the animal, scientists can recover it and count and characterise the mutations it has picked up. The team looked at the epidermis, the outer layer of the skin, in two situations: after acute exposures to UVB light, and over the natural course of aging. They compared how many mutations appeared, what kinds of mutations they were, and where they fell within the reporter gene.",
+   "found": "After acute UVB exposure, the abstract reports no significant differences between Nrf2-deficient and normal mice in how many mutations appeared, in the types of mutations, or in their positions in the reporter gene. The researchers did see one difference: a phase they call mutation induction suppression, in which the rise in mutations levels off at higher UVB doses, behaved differently, and the effect was more pronounced in the Nrf2-deficient skin. They saw little sign that reactive oxygen species drove the DNA damage after the acute exposure. In contrast, the age-related build-up of mutations was significantly higher in skin lacking Nrf2 than in normal skin. The authors conclude that NRF2 protects the skin mainly by helping tissue recover after acute UV damage and, more importantly, by limiting the DNA-damaging effects of the body's own oxidants during chronic aging.",
+   "limits": "The study was done in mice, in one tissue (the outer skin), and it uses an artificial bacterial reporter gene to count mutations, which may not behave exactly like the body's own genes. The abstract does not give the ages of the mice, the size of the differences or the number of animals, so it is hard to judge how large the effect is. It does not show whether the extra mutations changed skin aging or cancer risk. The full paper is paywalled and this synopsis was written from the abstract only.",
+   "terms": [
+    {
+     "term": "NRF2",
+     "definition": "A transcription factor, a protein that switches on many genes involved in antioxidant and detoxification defences."
+    },
+    {
+     "term": "Reactive oxygen species (ROS)",
+     "definition": "Chemically reactive oxygen-containing molecules made during normal metabolism and by stresses like UV light; they can damage DNA."
+    },
+    {
+     "term": "Genotoxicity",
+     "definition": "Damage to the genetic material of a cell that can lead to mutations."
+    },
+    {
+     "term": "lacZ reporter mice",
+     "definition": "Mice carrying a bacterial gene used purely as a target for counting mutations in their tissues."
+    },
+    {
+     "term": "UVB",
+     "definition": "The shorter-wavelength part of sunlight's ultraviolet range, a major cause of sunburn and skin DNA damage."
+    },
+    {
+     "term": "Mutation induction suppression",
+     "definition": "The authors' term for a phase where mutation numbers stop rising as fast as the UVB dose increases."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.1093/mutage/geag037",
+  "firstAuthor": "Hironobu Ikehata",
+  "authorsShort": "Hironobu Ikehata, Masayuki Yamamoto",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "parp-cd38-nad-immune-aging-review",
+  "title": "PARP-CD38-Driven NAD+ Loss in Immune Aging: An Emerging Mechanistic Framework",
+  "authors": [
+   "Ali U",
+   "Tan R",
+   "Ding S",
+   "Ji S"
+  ],
+  "journal": "Aging and Disease",
+  "pubDate": "2026-10-17",
+  "doi": "10.14336/ad.2026.0890",
+  "pmid": "42970312",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://www.aginganddisease.org/EN/PDF/10.14336/AD.2026.0890",
+   "source": "OpenAlex API, fetched 2026-11-03"
+  },
+  "whyItMatters": "A review proposing how the DNA-repair enzyme PARP and the enzyme CD38 together drain the cell fuel NAD+ in aging immune cells, and why that matters for anti-aging drugs.",
+  "synopsis": {
+   "why": "As the immune system ages it becomes both weaker and more inflamed, a state often called inflammaging. One idea links this to NAD+, a molecule cells need for energy and for many repair jobs. A family of enzymes called PARPs uses up NAD+ when they respond to DNA damage, especially PARP1, the main enzyme that flags broken DNA for repair. Another enzyme, CD38, also breaks down NAD+ and becomes more common in inflamed, aged tissues. NAD+ boosting supplements and PARP-blocking drugs are both being explored, so understanding how DNA-damage responses, NAD+ and immune aging fit together matters for anyone weighing these approaches.",
+   "did": "This is a review article, so the authors did not run new experiments. According to the abstract, they gathered existing research and proposed a framework they call a context-dependent PARP-CD38-NAD+-inflammaging hierarchy. They looked beyond PARP1 at other members of the family and at how NAD+ is kept in separate pools inside the cell, each with its own enzymes for making and moving it.",
+   "found": "The authors note that PARP1 accounts for about 85 to 90 percent of PARP activity in the nucleus and is the main consumer of NAD+ during acute DNA damage, while CD38 is the main NAD+-destroying enzyme and rises in inflamed, aged tissue. They point out that NAD+ is held in distinct compartments, such as the cytosol and the mitochondria, with different regulators. They highlight recent human data that challenge the idea that NAD+ declines everywhere with age: one study found that an 85 percent drop in muscle NAD+ did not impair function, and whole-blood NAD+ did not change with age. From this they argue that NAD+ decline is specific to tissues and compartments, and that blood NAD+ is not a reliable marker. They list other PARPs tied to aging of particular tissues in models, including PARP2 in mouse heart muscle cells, PARP3 in the gut, PARP16 in blood vessels and PARP9 and PARP14 in Alzheimer's models, while noting their roles in human immune aging are not yet measured. PARP inhibitors and NAD+ precursors show promise, they write, but carry risks including genomic instability, blood-cell toxicity, promoting senescence and inconsistent benefit.",
+   "limits": "As a review and proposed framework, it does not test its own hypothesis, and the authors say key questions remain open: whether PARP activity in blood immune cells predicts immune aging, how sex differences play in, and whether partly blocking PARP could save NAD+ without harming DNA repair. Several of the cited links come from animal or disease models rather than people. This synopsis was written from the abstract only, although the full review is free to read.",
+   "terms": [
+    {
+     "term": "NAD+",
+     "definition": "Nicotinamide adenine dinucleotide, a molecule cells use for energy metabolism and as fuel for some repair and signalling enzymes."
+    },
+    {
+     "term": "PARP1",
+     "definition": "Poly(ADP-ribose) polymerase 1, an enzyme that detects DNA breaks and helps start repair, using up NAD+ as it works."
+    },
+    {
+     "term": "CD38",
+     "definition": "An enzyme on immune and other cells that breaks down NAD+; it becomes more abundant in inflamed, aging tissue."
+    },
+    {
+     "term": "Inflammaging",
+     "definition": "The chronic, low-grade inflammation that tends to build up with age."
+    },
+    {
+     "term": "PARP inhibitor",
+     "definition": "A drug that blocks PARP enzymes; used in some cancers and being studied for its effects on NAD+."
+    },
+    {
+     "term": "NAD+ precursor",
+     "definition": "A supplement or compound, such as nicotinamide riboside, that the body can turn into NAD+."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.14336/ad.2026.0890",
+  "firstAuthor": "Ali U",
+  "authorsShort": "Ali U et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
  }
 ]
