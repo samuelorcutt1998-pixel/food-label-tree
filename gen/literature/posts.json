@@ -3526,5 +3526,237 @@
    "journalTier": 1
   },
   "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "identity-methylation-division-not-dna-damage",
+  "title": "Loss of cell-identity DNA methylation tracks division history, not DNA damage",
+  "authors": [
+   "Naor Sagy",
+   "Nadav Benedek",
+   "Daniel Zvi Bar"
+  ],
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-03",
+  "doi": "10.64898/2026.11.03.763914",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.03.763914",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata, fetched 2026-11-04: CC BY 4.0)"
+  },
+  "whyItMatters": "A direct test of the idea that DNA damage ages cells by erasing their epigenetic identity finds that repeated cell division, not radiation damage, wears that identity down in human skin cells.",
+  "synopsis": {
+   "why": "Every cell in the body carries the same DNA, but a skin cell and a liver cell use it differently. Part of what keeps each cell type distinct is DNA methylation, small chemical tags on DNA that help set which genes stay on or off. One influential theory of aging says that DNA damage, and the repair work it triggers, slowly scrambles these tags so that cells lose the information that tells them what they are. If that were true, protecting DNA would also protect cell identity. This preprint sets out to test that specific proposed cause directly, while making clear it is not testing the broader idea that aging involves some loss of epigenetic information.",
+   "did": "According to the abstract, the team built a panel of 9,150 CpG sites (places in DNA that can carry a methylation tag) where human skin fibroblasts differ most from twenty other primary cell types, since those are the sites where identity should be easiest to measure. They noticed that many of these sites mainly record how much a cell has divided, so they separated that layer from true identity marks. They then scored each treatment as the share of identity information lost beyond matched background sites. In 24 matched fibroblast cultures they compared replicative exhaustion (cells dividing until they stop), activation of the cancer gene RAS, a senescence-inducing dose of X-rays, and senescence caused by the chemotherapy drug doxorubicin.",
+   "found": "Most of the panel behaved as a record of proliferation rather than identity, matching the gradual loss of methylation in late-replicating DNA that builds up when cells are grown in culture. Replicative exhaustion cost 24.3 percent of the identity information and RAS activation cost 5.4 percent. A senescence-inducing dose of X-rays cost nothing, at minus 0.5 percent, with identity sites if anything moving slightly further away from other cell types. The authors say their design could have detected a loss as small as 0.4 percent, so they treat this as a real negative result rather than a lack of power. Senescence induced by doxorubicin or by irradiation did not shift the panel either, and cells that kept dividing after irradiation moved further from other cell types rather than collapsing toward them. Their conclusion is that, in human fibroblasts, loss of identity information follows prolonged division, not acute DNA damage.",
+   "limits": "This is a preprint and has not yet been through peer review. The work uses one cell type, skin fibroblasts, grown in the lab, and tests acute damage from X-rays and a drug rather than the slow, lifelong damage that happens in a living body, so it may not settle what happens in aging tissues. The identity measure is the authors' own method. This synopsis was written from the abstract only, although the full preprint is free to read.",
+   "terms": [
+    {
+     "term": "DNA methylation",
+     "definition": "Small chemical tags on DNA that help control which genes are active, without changing the DNA sequence."
+    },
+    {
+     "term": "CpG site",
+     "definition": "A spot in DNA where the letter C is followed by G; these are the main places methylation tags are added."
+    },
+    {
+     "term": "Fibroblast",
+     "definition": "A common connective-tissue cell, often grown in the lab from skin samples."
+    },
+    {
+     "term": "Replicative exhaustion",
+     "definition": "The point at which cultured cells have divided so many times that they permanently stop."
+    },
+    {
+     "term": "Senescence",
+     "definition": "A state in which a cell stops dividing for good but stays alive and active."
+    },
+    {
+     "term": "Epigenetic information theory of aging",
+     "definition": "The idea that aging is driven by cells gradually losing the epigenetic marks that define their type and function."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.64898/2026.11.03.763914",
+  "firstAuthor": "Naor Sagy",
+  "authorsShort": "Naor Sagy, Nadav Benedek, Daniel Zvi Bar",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "terra-telomere-dysfunction-review",
+  "title": "TERRA: an induced responder to telomere dysfunction",
+  "authors": [
+   "Fabio Bento",
+   "Marta Andolfato",
+   "Brian Luke",
+   "Claus M Azzalin"
+  ],
+  "journal": "EMBO Reports",
+  "pubDate": "2026-11-03",
+  "doi": "10.1038/s44319-026-00978-z",
+  "pmid": "42977825",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "open",
+   "isOpen": true,
+   "url": "https://doi.org/10.1038/s44319-026-00978-z",
+   "source": "Crossref license metadata, fetched 2026-11-04: CC BY 4.0"
+  },
+  "whyItMatters": "A review arguing that TERRA, an RNA made at chromosome tips, works like a dial that first tries to fix damaged telomeres and, if that fails, pushes the cell into senescence.",
+  "synopsis": {
+   "why": "Telomeres are protective caps of repeated DNA at the ends of our chromosomes. They shorten as cells divide and can be damaged, and short or damaged telomeres are one of the recognised hallmarks of aging because they can stop cells dividing or make them inflammatory. Telomeres are not silent: they are copied into an RNA called TERRA, short for telomeric repeat-containing RNA. For years TERRA was seen as a permanent, built-in part of telomeres. Understanding what it really does could explain how cells decide between repairing a worn-out chromosome end and retiring the cell, a decision that matters for both aging and cancer.",
+   "did": "This is a review and perspective article, so the authors did not run new experiments. According to the abstract, they bring together experimental evidence from yeasts and mammals on when TERRA is made, what it interacts with, and what happens to cells when its levels change. They then propose a model for TERRA's role.",
+   "found": "The authors argue that TERRA is not a constant fixture but a stress signal made specifically at telomeres that are not working properly. Its levels change as telomeres shorten or become damaged, and it helps call in the right repair route through contacts with shelterin (the protein complex that protects telomeres), with chromatin regulators and with DNA repair factors. It also does this through the controlled formation of R-loops, structures where the RNA pairs with the DNA. In cells without telomerase, the enzyme that can lengthen telomeres, a brief rise in TERRA and R-loops encourages telomeres to be lengthened by copying from another DNA template. In cells with telomerase, TERRA seems to steer the enzyme toward the shortest telomeres. When damage is not resolved, however, lasting TERRA production and persistent R-loops drive cells toward senescence, inflammatory signalling and cell death. The authors propose that TERRA acts as a molecular rheostat, or dial: short, well-placed bursts restore the chromosome end, while long-term build-up removes damaged cells from the dividing pool.",
+   "limits": "As a review, this proposes a model rather than proving it, and the authors themselves say the key next step is to define how cells set these switch points. Much of the underlying evidence comes from yeast and cultured cells, so how the model applies to aging human tissues is still open. This synopsis was written from the abstract only, although the full review is free to read.",
+   "terms": [
+    {
+     "term": "Telomere",
+     "definition": "The repeated DNA cap at each end of a chromosome that protects it and shortens with cell division."
+    },
+    {
+     "term": "TERRA",
+     "definition": "Telomeric repeat-containing RNA, an RNA copied from telomere DNA."
+    },
+    {
+     "term": "Shelterin",
+     "definition": "A group of proteins that binds telomeres and shields them from being treated as broken DNA."
+    },
+    {
+     "term": "R-loop",
+     "definition": "A structure where an RNA strand pairs with one strand of DNA, leaving the other DNA strand loose."
+    },
+    {
+     "term": "Telomerase",
+     "definition": "An enzyme that adds DNA repeats to telomeres; active in stem cells and most cancers."
+    },
+    {
+     "term": "Rheostat",
+     "definition": "A dial-like control; here, the idea that the amount and timing of TERRA decides the outcome."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.1038/s44319-026-00978-z",
+  "firstAuthor": "Fabio Bento",
+  "authorsShort": "Fabio Bento et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "epigenetic-aging-covid-pandemic-longitudinal",
+  "title": "Epigenetic aging during the COVID-19 pandemic: A prospective longitudinal study with prepandemic baseline data in children, adolescents, and adults",
+  "authors": [
+   "Alicia M Schowe",
+   "Mirko Ruks",
+   "Charlotte K L Disselkamp",
+   "Dmitry V Kuznetsov",
+   "Jana Instinske",
+   "Theresa Rohm",
+   "Andreas J Forstner",
+   "Markus M Nöthen",
+   "Bastian Mönkediek",
+   "Christian Kandler",
+   "Darina Czamara",
+   "Elisabeth B Binder"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pubDate": "2026-11-03",
+  "doi": "10.1073/pnas.2604211123",
+  "pmid": "42975933",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open",
+   "isOpen": true,
+   "url": "https://doi.org/10.1073/pnas.2604211123",
+   "source": "Crossref license metadata, fetched 2026-11-04: CC BY 4.0"
+  },
+  "whyItMatters": "Saliva DNA from about 1,000 German children, teens and young adults, collected before and during the pandemic, showed epigenetic clocks ticking faster, especially in teens who felt more burdened.",
+  "synopsis": {
+   "why": "Long-term psychological stress is a known risk factor for diseases that come with aging. Epigenetic clocks, tools that estimate biological age from patterns of DNA methylation tags, are increasingly used as early warning signs of that risk. The COVID-19 pandemic, with lockdowns, school closures and worry, was a stress felt by whole populations at once. Most studies of stress and epigenetic aging measure people only after the fact, so they cannot say what changed. A study with samples taken just before the pandemic offers a rare chance to see whether biological aging measures actually shifted, and who was most affected.",
+   "did": "According to the abstract, the researchers used prospective longitudinal data from 1,028 people in Germany: 359 children (average age 9.5), 385 adolescents (average 15.5) and 284 adults (average 24.3). Saliva for DNA was collected before the first lockdown measures in March 2020 and again after the second phase of measures in 2021. They applied four epigenetic clocks, DunedinPACE, GrimAge2, Horvath and PedBE, and tested whether any changes were linked to objective pandemic stressors, to how burdened people felt, and to existing risk factors for poorer physical and mental health.",
+   "found": "Epigenetic age acceleration rose significantly on the PedBE and GrimAge2 clocks, and the pace of aging measured by DunedinPACE also increased, across all three age groups. These changes were linked to physical health before the pandemic and to parents' socioeconomic status, but not to objective pandemic stressors. In adolescents, a higher perceived burden from the pandemic went along with a larger increase in pace of aging. The authors conclude that existing risk factors for poorer health were accompanied by measurable increases in epigenetic aging during the pandemic, and that adolescence may be a particularly sensitive period for its psychological burden.",
+   "limits": "The study has no comparison group that lived through the same period without a pandemic, so it cannot fully separate pandemic effects from normal changes over a year of growth and development, which matter a lot in children and teens. Clocks were measured in saliva, and epigenetic clocks are estimates whose link to later disease in young people is not yet proven. The abstract reports statistical effect sizes but not what they mean in years of biological age. This synopsis was written from the abstract only, although the full paper is free to read.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates biological age from DNA methylation at many sites in the genome."
+    },
+    {
+     "term": "Epigenetic age acceleration",
+     "definition": "When a clock's estimate of age runs ahead of a person's actual age."
+    },
+    {
+     "term": "DunedinPACE",
+     "definition": "A clock that estimates how fast a person is currently aging, rather than their total biological age."
+    },
+    {
+     "term": "GrimAge2",
+     "definition": "A clock built to predict lifespan and health risk from methylation patterns."
+    },
+    {
+     "term": "PedBE",
+     "definition": "A clock designed for children, built from cheek-cell samples."
+    },
+    {
+     "term": "Prospective longitudinal study",
+     "definition": "A study that follows the same people forward in time, measuring them more than once."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.1073/pnas.2604211123",
+  "firstAuthor": "Alicia M Schowe",
+  "authorsShort": "Alicia M Schowe et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
  }
 ]
