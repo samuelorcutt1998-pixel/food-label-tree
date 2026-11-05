@@ -3758,5 +3758,263 @@
    "journalTier": 1
   },
   "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "3d-genome-aging-neurodegeneration-mice",
+  "title": "The divergent 3D genome landscapes of aging and neurodegenerative mouse models",
+  "authors": [
+   "Ekaterina Kashuk",
+   "Dmitrii Smirnov",
+   "Ekaterina Eremenko",
+   "Alexandra Tsitrina",
+   "Dmitrii Kriukov",
+   "Anastasia Golova",
+   "Shai Kaluski-Kopatch",
+   "Ekaterina Khrameeva",
+   "Debra Toiber"
+  ],
+  "journal": "Genome Research",
+  "pubDate": "2026-11-03",
+  "doi": "10.1101/gr.281732.125",
+  "pmid": "42869662",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Europe PMC reports subscription required; Crossref lists no open license (checked 2026-11-05)"
+  },
+  "whyItMatters": "Hi-C maps of mouse cortical neurons suggest normal aging softens 3D genome organization into a primed state, while neurodegeneration models add DNA-damage-linked collapse of loops and compartments.",
+  "synopsis": {
+   "why": "Neurons keep the same DNA for a lifetime, so how that DNA is folded in three dimensions matters for which genes stay on and for keeping the genome stable. That folding slowly frays with age and is more badly disrupted in neurodegenerative disease, but it has been unclear whether aging and disease follow the same early path or branch apart. If aging only primes the nucleus and disease adds a further hit such as DNA damage, that would change how we read chromatin maps from old brains and where we look for interventions.",
+   "did": "According to the abstract, the authors ran Hi-C, a method that maps which stretches of DNA sit near each other in the nucleus, on cortical neurons from adult mice, aged mice, and mice with a brain-specific knockout of SIRT6. They compared those maps with previously published Hi-C data from a CK-p25 Alzheimer's disease model that had been split by levels of γH2AX, a mark of DNA damage. They looked at contacts between chromosomes, A/B compartments (active versus quieter genome neighborhoods), topologically associating domains (TADs), architectural loops, and enhancer-promoter loops.",
+   "found": "All of the models shared early features: weaker contacts between chromosomes in larger nuclei, shifts of regions from the active A compartment toward the quieter B compartment, and loss of architectural loops. Aged neurons still kept TAD structure, short-range contacts, and enhancer-promoter loops relatively intact. The pathological models instead showed weaker TAD prominence, shorter loops, and messy mixing of A and B compartments, and those deeper changes tracked with higher DNA damage. The authors interpret ordinary aging as a primed state in which chromatin control has started to erode, while extra stress such as DNA damage is linked to the fuller breakdown seen in neurodegeneration.",
+   "limits": "This synopsis was written from the abstract only; the paper is not open access. The work is in mouse cortical neurons and a specific Alzheimer's model, so how far it generalizes to human aging brains is open. The comparison mixes new Hi-C with previously published disease maps, and correlation with γH2AX does not by itself prove that DNA damage causes the structural collapse.",
+   "terms": [
+    {
+     "term": "Hi-C",
+     "definition": "A sequencing method that maps which regions of the genome sit close together inside the nucleus."
+    },
+    {
+     "term": "3D genome",
+     "definition": "The folded layout of chromosomes in the nucleus, which helps control gene activity and genome stability."
+    },
+    {
+     "term": "A/B compartments",
+     "definition": "Large-scale nuclear neighborhoods: A regions tend to be more active, B regions quieter."
+    },
+    {
+     "term": "TAD",
+     "definition": "Topologically associating domain; a chromosomal neighborhood whose DNA contacts itself more than its surroundings."
+    },
+    {
+     "term": "γH2AX",
+     "definition": "A chemical mark on chromatin that appears near DNA double-strand breaks."
+    },
+    {
+     "term": "SIRT6",
+     "definition": "A nuclear enzyme linked to DNA repair, metabolism and chromatin; here removed specifically in the brain."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.1101/gr.281732.125",
+  "firstAuthor": "Ekaterina Kashuk",
+  "authorsShort": "Ekaterina Kashuk et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1.5
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "human-methylome-evolution-blood-ageing",
+  "title": "Evolution of the human methylome in blood from embryo to ageing and cancer",
+  "authors": [
+   "Jyoti Nangalia",
+   "Xin Wang",
+   "Jing Guo",
+   "Joe Lee",
+   "Sean Laidlaw",
+   "Lori Kregar",
+   "Pierre Murat",
+   "Xiaotian Liao",
+   "Kevin Dawson",
+   "Karim Mane",
+   "Michael Quail",
+   "Matthew Mayho",
+   "Nicole Müller-Sienerth",
+   "Michael Spencer Chapman",
+   "Aditi Vedi",
+   "Paul Milne",
+   "Clarissa Pacyna",
+   "Ken To",
+   "Kudzai Nyamondo",
+   "Aleksandra Kamizela",
+   "Emily Mitchell",
+   "Joanna Baxter",
+   "Daniel Leongamornlert",
+   "Steven Allen",
+   "Elisa Laurenti",
+   "Peter Campbell",
+   "Matthew Collin",
+   "Nicholas Williams"
+  ],
+  "journal": "Research Square (preprint)",
+  "pubDate": "2026-11-04",
+  "doi": "10.21203/rs.3.rs-11370327/v1",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.21203/rs.3.rs-11370327/v1",
+   "source": "Crossref license metadata, fetched 2026-11-05: CC BY 4.0"
+  },
+  "whyItMatters": "Single-cell blood lineages show that heritable DNA methylation changes far outpace mutations across life, and that epigenetic clocks largely report which clones dominate blood rather than calendar age.",
+  "synopsis": {
+   "why": "DNA methylation tags help lock in what a cell is, and they are copied when the cell divides. Those tags also drift with age and shift in cancer, but until now it was hard to watch how the methylome evolves inside single human blood lineages over a lifetime. Knowing whether age-related methylation is mostly developmental leftover, clone expansion, or new damage would change how we read epigenetic clocks and clonal hematopoiesis.",
+   "did": "According to the abstract, the team matched whole-methylome and whole-genome sequencing from 1,183 single-cell-derived haematopoietic colonies from 13 people. The donors spanned 17 weeks after conception to 77 years of age, healthy blood formation to malignancy, and included monozygotic twins. That design let them reconstruct when methylation states arose, how often they changed relative to DNA letter mutations, and how those states behaved in clonal expansions and blood cancers.",
+   "found": "Heritable methylation change ran about six orders of magnitude faster than single-base DNA mutations before birth and about four orders faster afterward, often flipping whole stretches of CpG sites at once. Each blood cell already carried about 300,000 somatic methylation changes before birth, including more than 3,000 large segments that then stayed stable for decades. The authors call these large segments embryonic epialleles: places where lineages of the same cell type in one person keep different heritable methylation states. They found about 250,000 such segments across the cohort, many shared between people, and used the mosaic to time X-chromosome inactivation to the first few divisions of life. Epigenetic age, they argue, mainly reports the division history of whichever clones currently dominate the blood, not the person's calendar age. In clonal expansions and blood cancer, many methylation differences versus background were embryonic states the founder cell already carried; expansions nonetheless converged on Polycomb-associated regulatory regions, usually gaining methylation but losing it when DNMT3A was mutated. A few changes at known cancer genes, including CDKN2B, ABL1 in BCR::ABL1 disease, and CACNA1D, arose only inside expansions and looked like epigenetic drivers. Because methylation can change which transcript a gene makes or whether it is expressed, the authors cast methylation mosaicism as another widespread substrate for Darwinian evolution inside the body.",
+   "limits": "This is a preprint and has not yet been through peer review. The synopsis was written from the abstract only, although the preprint is free to read. The work is in blood-forming cells, so tissue-specific aging elsewhere is not mapped here. Colony-based sequencing captures heritable states that survive cloning in culture and may miss some unstable marks.",
+   "terms": [
+    {
+     "term": "DNA methylation",
+     "definition": "Chemical tags on DNA, usually at CpG sites, that help control gene activity without changing the DNA letters."
+    },
+    {
+     "term": "Methylome",
+     "definition": "The genome-wide pattern of DNA methylation in a cell or sample."
+    },
+    {
+     "term": "Haematopoietic colony",
+     "definition": "A clone of blood-forming cells grown from a single cell so that cell's genome and methylome can be read."
+    },
+    {
+     "term": "Embryonic epiallele",
+     "definition": "A large stretch of DNA where sister blood lineages keep different heritable methylation states from early development."
+    },
+    {
+     "term": "Epigenetic age",
+     "definition": "An estimate of biological age from DNA methylation patterns at many sites."
+    },
+    {
+     "term": "Clonal hematopoiesis",
+     "definition": "When one blood-forming stem cell's descendants take over a large share of the blood."
+    },
+    {
+     "term": "DNMT3A",
+     "definition": "An enzyme that adds new DNA methylation; often mutated in clonal blood expansions and leukemia."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.21203/rs.3.rs-11370327/v1",
+  "firstAuthor": "Jyoti Nangalia",
+  "authorsShort": "Jyoti Nangalia et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "jonathan-tortoise-epigenomic-longevity",
+  "title": "Cross-species epigenomic signatures of exceptional longevity: Insights from Jonathan the Giant Tortoise and human centenarians",
+  "authors": [
+   "Sara Pischedda",
+   "Alberto Gomez Carballa",
+   "Federico Martinon-Torres",
+   "Antonio Salas"
+  ],
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-04",
+  "doi": "10.64898/2026.11.01.763412",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.01.763412",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata, fetched 2026-11-05: CC BY-NC-ND 4.0)"
+  },
+  "whyItMatters": "A comparative DNA-methylation analysis finds shared entropy patterns between a 194-year-old giant tortoise and human supercentenarians, enriched at telomere-related genes.",
+  "synopsis": {
+   "why": "Some animals and some people live far longer than their peers, and DNA methylation patterns are one place those differences might show up. If the epigenomic footprints of extreme longevity look alike in species that last branched apart hundreds of millions of years ago, that would point to conserved aging biology rather than a quirk of one tissue or one lineage. Jonathan, a giant tortoise about 194 years old, and human supercentenarians offer a rare chance to ask that question with existing methylation data.",
+   "did": "According to the abstract, this is a comparative reanalysis rather than a new animal experiment. The authors set findings from a published epigenomic study of Jonathan, based on buccal scrape and saliva samples, beside publicly available DNA methylation data from exceptionally long-lived humans measured in blood mononuclear cells. They compared global methylation entropy and promoter-level entropy patterns across age groups and asked which biological pathways the distinctive human genes pointed to.",
+   "found": "People aged 110 and older showed significantly higher global methylation entropy than people aged 60 to 82. Twelve candidate genes had a distinctive promoter methylation entropy shape, lower at the youngest and oldest ages than in middle age. Those genes were enriched for telomere-related processes, linking the epigenomic pattern to a pathway already central in aging biology. The authors say the human pattern lines up with what had been reported in Jonathan, and they present that correspondence as a source of testable hypotheses about longevity signatures that might be conserved across species and not only tissue-specific.",
+   "limits": "This is a preprint and has not yet been through peer review. It reuses published datasets from different tissues (mouth in the tortoise, blood in humans), so shared patterns could still partly reflect tissue or technical differences. Entropy summaries are one way to compress methylation data and may miss other relevant signals. This synopsis was written from the abstract only, although the full preprint is free to read.",
+   "terms": [
+    {
+     "term": "Epigenomic signature",
+     "definition": "A characteristic pattern of chemical marks on DNA and chromatin associated with a trait such as extreme longevity."
+    },
+    {
+     "term": "DNA methylation entropy",
+     "definition": "A measure of how mixed or uncertain methylation states are across sites or reads; higher entropy means more heterogeneous tagging."
+    },
+    {
+     "term": "Supercentenarian",
+     "definition": "A person aged 110 years or older."
+    },
+    {
+     "term": "PBMC",
+     "definition": "Peripheral blood mononuclear cell; a standard blood cell fraction used for methylation studies."
+    },
+    {
+     "term": "Telomere",
+     "definition": "The protective DNA cap at the end of a chromosome; telomere biology is a core hallmark of aging."
+    },
+    {
+     "term": "Buccal scrape",
+     "definition": "A swab of cells from the inside of the cheek."
+    }
+   ]
+  },
+  "group": "latest",
+  "url": "https://doi.org/10.64898/2026.11.01.763412",
+  "firstAuthor": "Sara Pischedda",
+  "authorsShort": "Sara Pischedda et al.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract"
  }
 ]
