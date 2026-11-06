@@ -4016,5 +4016,238 @@
    "journalTier": 1
   },
   "synopsisBasis": "abstract"
+ },
+ {
+  "slug": "mutation-accumulation-dietary-restriction-lifespan",
+  "group": "latest",
+  "title": "Mutation Accumulation Underpins Evolution of Lifespan Extension by Dietary Restriction",
+  "authors": [
+   "Sara D. Irish",
+   "Annabel Kimberley",
+   "Simone Immler",
+   "Jacob Moorad",
+   "Alexei A. Maklakov"
+  ],
+  "authorsShort": "Sara D. Irish et al.",
+  "firstAuthor": "Sara D. Irish",
+  "journal": "Aging Cell",
+  "pubDate": "2026-11-05",
+  "doi": "10.1111/acel.70808",
+  "url": "https://doi.org/10.1111/acel.70808",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1111/acel.70808",
+   "source": "Crossref license metadata, fetched 2026-11-06: CC BY 4.0"
+  },
+  "whyItMatters": "In roundworms, dietary restriction still lengthens life when reproduction is forced back up, pointing to mutation accumulation—not a reproduction–repair trade-off—as the evolutionary driver.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 2
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Eating less extends lifespan in many animals, but biologists still disagree about why that trait evolved. The usual story is a trade-off: when food is scarce, the body shifts resources from reproduction into somatic maintenance and DNA or cellular repair, so survival rises. If that trade-off is wrong, then lifespan on rich food may instead erode because selection against late-life harm is weak when fertility is high—an idea tied to mutation accumulation. Sorting those explanations matters for how we read dietary-restriction biology and for whether “spend less on reproduction, buy more repair” is the right framing.",
+   "did": "According to the abstract, the authors worked in the nematode Caenorhabditis elegans. They built an experimental setup that uses food odour cues to trick worms under dietary restriction into putting more effort into reproduction, without restoring plentiful food. That let them ask whether raising reproductive effort under restriction cancels the survival benefit. They also built a theoretical model based on Hamilton’s forces of selection to show when lifespan extension under restriction can evolve.",
+   "found": "Dietary restriction improved survival as expected. Forcing higher reproduction under restriction did not erase either the immediate or the longer-term survival gains, which runs against a simple resource-allocation trade-off between fertility and somatic maintenance. The authors argue that much of the fertility drop under restriction is restraint—holding back from reproducing in a poor environment—rather than an obligatory spend of the same resource pool on repair. Their model shows that lifespan extension under restriction can evolve because suppressed fertility itself strengthens selection against mortality in that environment, and that this can happen under a wider set of conditions than models that demand strong physiological or genetic trade-offs. On the flip side, they show how poorer survival on plentiful food can evolve through mutation accumulation when selection against late harm is relaxed. In that framing, long life under scarce food is less a purchased upgrade in repair and more a side effect of how fertility changes the force of selection.",
+   "limits": "This synopsis was written from the abstract only, although the paper is open access under a CC BY license. The experiments are in C. elegans with an odour-cue trick to raise reproduction, so how far the result generalizes to mammals or to human caloric restriction is open. The evolutionary model is analytical; it does not by itself map which molecular damage pathways (for example DNA repair versus other maintenance) are the ones selection is acting on.",
+   "terms": [
+    {
+     "term": "Dietary restriction (DR)",
+     "definition": "A sustained cut in food intake without malnutrition that often lengthens lifespan in lab animals."
+    },
+    {
+     "term": "Resource allocation trade-off",
+     "definition": "The idea that energy or materials spent on reproduction cannot also be spent on keeping the body repaired."
+    },
+    {
+     "term": "Mutation accumulation",
+     "definition": "An evolutionary process in which weakly selected harmful variants build up because selection against late-life damage is weak."
+    },
+    {
+     "term": "Hamilton’s forces of selection",
+     "definition": "A framework describing how strongly natural selection opposes mortality and fertility loss at each age."
+    },
+    {
+     "term": "Caenorhabditis elegans",
+     "definition": "A short-lived nematode worm widely used to study aging genetics and dietary restriction."
+    },
+    {
+     "term": "Somatic maintenance",
+     "definition": "The body’s ongoing upkeep of cells and molecules, including damage repair, as opposed to reproduction."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "macaque-hippocampus-dna-methylation-adulthood",
+  "group": "latest",
+  "title": "DNA methylation remodeling across adulthood in the rhesus macaque hippocampus",
+  "authors": [
+   "Tanner J. Anderson",
+   "Marina M. Watowich",
+   "Maili L. Smith",
+   "Elisabeth A. Goldman",
+   "Sam Peterson",
+   "Cora E. Layman",
+   "Brett A. Davis",
+   "Noah Snyder-Mackler",
+   "Lucia Carbone",
+   "Steven G. Kohama",
+   "Kirstin N. Sterner"
+  ],
+  "authorsShort": "Tanner J. Anderson et al.",
+  "firstAuthor": "Tanner J. Anderson",
+  "journal": "Experimental Gerontology",
+  "pubDate": "2026-11-04",
+  "doi": "10.1016/j.exger.2026.113378",
+  "url": "https://doi.org/10.1016/j.exger.2026.113378",
+  "pmid": "42982354",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "hybrid",
+   "isOpen": true,
+   "url": "https://doi.org/10.1016/j.exger.2026.113378",
+   "source": "Crossref license metadata, fetched 2026-11-06: CC BY-NC-ND 4.0; OpenAlex oa_status=gold"
+  },
+  "whyItMatters": "In a long-lived primate, hippocampal DNA methylation aging shows up less as a steady mean shift and more as rising variability and regional remodeling, with midlife inflection points.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1.5
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "DNA methylation tags help control which genes a cell uses, and those tags change as brains age. Most detailed maps still come from short-lived models or from human blood, so it has been unclear how methylation moves across adulthood in a long-lived primate hippocampus—the memory hub hit early in Alzheimer’s disease. Knowing whether aging is mostly a slow mean drift, rising noise (epigenetic drift), or sharper midlife transitions would change how we read brain epigenetic clocks and which ages to sample.",
+   "did": "According to the abstract, the team generated reduced-representation bisulfite sequencing from 86 rhesus macaque hippocampus samples spanning about 3 to 35 years of age (56 females, 30 males). They analyzed age effects at single CpG sites and at larger regions, looked for linear and nonlinear age trajectories, and integrated the methylation maps with matched RNA sequencing to find places where age-linked methylation might track gene-expression change, including tests of whether higher gene-body or regional methylation tended to go with lower expression.",
+   "found": "At the single-CpG level, mean methylation barely moved with age; instead, variability rose widely, a pattern the authors link to epigenetic drift and weaker regulatory fidelity. Region-level models found 5,163 age-associated methylation regions with both steady and nonlinear paths. Nonlinear clusters bent around midlife, centered near 12.3 and 13.2 years, hinting that hippocampal epigenetic aging may include transition periods that shape later trajectories. Matching those regions to RNA-seq pointed to candidate cis-regulatory loci, including IGF1R, where age-linked methylation may connect to transcription. Direct tests of mean gene methylation versus expression showed a significant repressive tilt—higher methylation with lower expression—among genes tied to neuroinflammation, amyloid processing, and myelin upkeep. Age-linked remodeling also reached intergenic stretches that overlap annotated human brain enhancers, so the aging signal is not only inside genes. Taken together, the abstract frames primate hippocampal methylation aging as rising noise plus regional remodeling rather than a simple genome-wide mean shift.",
+   "limits": "This synopsis was written from the abstract only; the paper carries a CC BY-NC-ND open license according to Crossref. The work is bulk hippocampus from rhesus macaques, so cell-type shifts with age could contribute to the signal, and human timelines may not map one-to-one onto the midlife bends reported here. Association between methylation and RNA does not prove that the methylation changes cause the expression changes. Sample sizes within narrow age bins are not detailed in the abstract.",
+   "terms": [
+    {
+     "term": "DNA methylation",
+     "definition": "Chemical tags on DNA, usually at CpG sites, that help control gene activity without changing the DNA letters."
+    },
+    {
+     "term": "Epigenetic drift",
+     "definition": "Age-related increase in methylation variability that can weaken precise gene control."
+    },
+    {
+     "term": "Hippocampus",
+     "definition": "A brain region central to memory and among the earliest affected in Alzheimer’s disease."
+    },
+    {
+     "term": "RRBS",
+     "definition": "Reduced representation bisulfite sequencing; a method that reads methylation at a large subset of CpG-rich genome regions."
+    },
+    {
+     "term": "Cis-regulatory locus",
+     "definition": "A stretch of DNA that helps control a nearby gene’s activity."
+    },
+    {
+     "term": "Enhancer",
+     "definition": "A distal DNA element that can boost a gene’s expression when bound by regulatory proteins."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "bayesage-conformal-uncertainty-epigenetic-clock",
+  "group": "latest",
+  "title": "Conformal uncertainty quantification for BayesAge epigenetic age predictions",
+  "authors": [
+   "Megan Mitchell",
+   "Lajoyce Mboning",
+   "Louis-S. Bouchard",
+   "Matteo Pellegrini"
+  ],
+  "authorsShort": "Megan Mitchell et al.",
+  "firstAuthor": "Megan Mitchell",
+  "journal": "GeroScience",
+  "pubDate": "2026-11-04",
+  "doi": "10.1007/s11357-026-02600-5",
+  "url": "https://doi.org/10.1007/s11357-026-02600-5",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "hybrid",
+   "isOpen": true,
+   "url": "https://link.springer.com/content/pdf/10.1007/s11357-026-02600-5.pdf",
+   "source": "Crossref license metadata, fetched 2026-11-06: CC BY 4.0; OpenAlex oa_status=hybrid"
+  },
+  "whyItMatters": "Most epigenetic clocks give a single age number; this paper adds calibrated prediction intervals to BayesAge so users can see how wide the uncertainty is.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 2
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks estimate chronological or biological age from DNA methylation patterns, but most report only a point estimate. Without a trustworthy interval, it is hard to know when two people’s “ages” truly differ or when a small shift after an intervention is just noise. That gap matters for aging trials, for comparing clocks, and for clinical research that wants error bars rather than a single number. Methods that attach calibrated uncertainty—especially ones that work with relatively few CpG sites and do not require a heavyweight Bayesian fit for every new sample—would make clocks more usable in research and, eventually, in trials.",
+   "did": "According to the abstract, the authors applied conformal prediction to BayesAge, a maximum-likelihood epigenetic clock that models nonlinear methylation–age relationships with a small CpG set and a count-based likelihood. Split conformal prediction builds distribution-free intervals with finite-sample coverage guarantees when samples are exchangeable, after a single model fit per split. They also tested a locally scaled variant that lets interval width change with age. They evaluated the approach in a targeted bisulfite-sequencing cohort and compared it with Monte Carlo intervals that capture read-sampling noise and with higher-dimensional conformalized linear baselines (quantile regression and Lasso).",
+   "found": "Split conformalized BayesAge reached near-nominal empirical coverage while keeping BayesAge’s point-prediction accuracy. The locally scaled version made intervals wider at older ages, but coverage was less stable when the calibration set was small, matching the extra uncertainty of estimating a local error scale. Versus Monte Carlo intervals that only propagate sequencing-read noise, and versus conformalized linear models that use many more CpGs, conformalized BayesAge delivered calibrated uncertainty with far fewer sites and with less age-dependent leftover structure in the residuals. The authors present conformal prediction as a practical way to quantify uncertainty in methylation-based age estimates without needing a fully Bayesian posterior over every parameter.",
+   "limits": "This synopsis was written from the abstract only; the paper is open access under CC BY. Results are from one targeted bisulfite-sequencing cohort, so coverage in whole-genome or array clocks and in other populations still needs checking. Conformal guarantees assume exchangeability between calibration and test samples, which can break under strong batch effects or distribution shift. The abstract does not report exact interval widths in years, so practical tightness for a given age band is not quantified here.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A statistical model that estimates age from DNA methylation levels at selected CpG sites."
+    },
+    {
+     "term": "BayesAge",
+     "definition": "A maximum-likelihood epigenetic clock that models nonlinear methylation–age relationships with relatively few CpGs."
+    },
+    {
+     "term": "Conformal prediction",
+     "definition": "A method that wraps a model with prediction intervals that have finite-sample coverage guarantees under exchangeability."
+    },
+    {
+     "term": "CpG site",
+     "definition": "A DNA spot where a cytosine is followed by a guanine; a common place for methylation tags."
+    },
+    {
+     "term": "Prediction interval",
+     "definition": "A range that is meant to contain the true value for a new sample with a stated probability."
+    },
+    {
+     "term": "Targeted bisulfite sequencing",
+     "definition": "A method that reads methylation deeply at a chosen set of CpG sites rather than across the whole genome."
+    }
+   ]
+  }
  }
 ]
