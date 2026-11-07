@@ -4249,5 +4249,321 @@
     }
    ]
   }
+ },
+ {
+  "slug": "chip-mortality-older-women-whi",
+  "group": "latest",
+  "title": "Association of Clonal Hematopoiesis With Total and Cause-Specific Mortality Among Older Women",
+  "authors": [
+   "Annie Chang",
+   "Daniel Ezzat",
+   "Md Mesbah Uddin",
+   "Yash Pershad",
+   "Jason M. Collins",
+   "Jacob Otto Kitzman",
+   "Siddhartha Jaiswal",
+   "Pinkal M. Desai",
+   "Aladdin H. Shadyab",
+   "Garnet L. Anderson",
+   "Ramon Casanova",
+   "Robert B. Wallace",
+   "Jean Wactawski‐Wende",
+   "Alexander G. Bick",
+   "Pradeep Natarajan",
+   "Charles L Kooperberg",
+   "Michael J. LaMonte",
+   "Eric A. Whitsel",
+   "JoAnn Elisabeth Manson",
+   "Alex P. Reiner",
+   "Michael C. Honigberg"
+  ],
+  "authorsShort": "Annie Chang et al.",
+  "firstAuthor": "Annie Chang",
+  "journal": "JACC Advances",
+  "pubDate": "2026-11-05",
+  "doi": "10.1016/j.jacadv.2026.103440",
+  "url": "https://doi.org/10.1016/j.jacadv.2026.103440",
+  "pmid": "42987714",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1016/j.jacadv.2026.103440",
+   "source": "Crossref license metadata, fetched 2026-11-07: CC BY-NC-ND 4.0; OpenAlex oa_status=gold"
+  },
+  "whyItMatters": "In nearly 6,700 older women, carrying blood-cell clones with leukemia-linked mutations, especially large or non-DNMT3A clones, was tied to higher death risk from heart disease, cancer and neurologic causes.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1.5
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "As we age, blood stem cells pick up DNA mutations. Occasionally one of those mutations gives a stem cell a growth edge, and its descendants come to make up a noticeable share of the blood. When the mutation sits in a gene known from leukemia but the person has no blood cancer, this is called clonal hematopoiesis of indeterminate potential, or CHIP. CHIP is one of the clearest, measurable examples of somatic mutation building up with age in healthy people, and earlier work has linked it to heart disease. What has been less clear is how CHIP relates to death from any cause, and to specific causes of death, in older adults, and in older women in particular. This study looks at that question in a large U.S. cohort, which helps show whether acquired DNA mutations in blood are just a marker of age or something that tracks with real health outcomes.",
+   "did": "The authors studied 6,704 women in the Women’s Health Initiative Long Life Study who did not have a blood cancer. They defined two main exposures: any CHIP, meaning a mutant clone making up at least 2% of the sequenced blood DNA (variant allele frequency of 2% or more), and large CHIP, meaning a clone at 10% or more. The main outcome was death from any cause, and they also looked at deaths from cardiovascular disease, cancer and neurologic disease. They used Cox proportional hazards models adjusted for multiple other factors, and they split CHIP by gene, comparing clones driven by DNMT3A, the most common CHIP gene, with clones driven by other genes.",
+   "found": "According to the abstract, both any CHIP and large CHIP were independently associated with higher all-cause mortality, with adjusted hazard ratios of 1.12 for any CHIP and 1.28 for large CHIP. The gene mattered: CHIP driven by genes other than DNMT3A was associated with higher all-cause mortality (adjusted hazard ratio 1.22), while DNMT3A-driven CHIP did not show a statistically significant association (1.07, with a confidence interval that included no effect). Large CHIP was linked with higher risk of cardiovascular death (1.29), cancer death (1.49) and neurologic death (1.40). The authors conclude that in older women, CHIP, especially large clones and non-DNMT3A clones, tracks with both overall and cause-specific mortality, and that clone size and mutated gene may shape risk differently.",
+   "limits": "This synopsis was written from the abstract only, although the article is open access under a CC BY-NC-ND license. The study is observational, so it shows associations, not that CHIP causes the deaths; other unmeasured differences could contribute. The cohort is older women in the United States, so the results may not carry over to men, younger people or other populations. CHIP was measured at one point in time, so the abstract does not tell us how clone growth over time changes risk. The effect sizes are modest for any CHIP, and the abstract does not say how much CHIP adds to prediction beyond standard risk factors.",
+   "terms": [
+    {
+     "term": "Clonal hematopoiesis (CHIP)",
+     "definition": "An age-related expansion of blood stem cells carrying a leukemia-linked mutation in a person without blood cancer."
+    },
+    {
+     "term": "Somatic mutation",
+     "definition": "A DNA change acquired in a body cell during life, not inherited."
+    },
+    {
+     "term": "Variant allele frequency (VAF)",
+     "definition": "The share of sequenced DNA reads that carry a given mutation; a rough measure of clone size."
+    },
+    {
+     "term": "DNMT3A",
+     "definition": "A gene for a DNA methylation enzyme and the most commonly mutated gene in CHIP."
+    },
+    {
+     "term": "Hazard ratio",
+     "definition": "How much faster an event such as death happens in one group compared with another over time."
+    },
+    {
+     "term": "Cohort study",
+     "definition": "A study that follows a defined group of people over time to see who develops an outcome."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "somatic-snvs-tetraploid-neurons-alzheimers",
+  "group": "latest",
+  "title": "Specific enrichment of somatic single nucleotide variants in Alzheimer-associated tetraploid neurons",
+  "authors": [
+   "Noelia López‐Sánchez",
+   "Alberto Rábano",
+   "José María Frade"
+  ],
+  "authorsShort": "Noelia López‐Sánchez et al.",
+  "firstAuthor": "Noelia López‐Sánchez",
+  "journal": "Frontiers in Molecular Neuroscience",
+  "pubDate": "2026-10-21",
+  "doi": "10.3389/fnmol.2026.1929505",
+  "url": "https://doi.org/10.3389/fnmol.2026.1929505",
+  "pmid": "42984925",
+  "pmcid": "PMC13731259",
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2026.1929505/pdf",
+   "source": "Crossref license metadata, fetched 2026-11-07: CC BY 4.0; OpenAlex oa_status=gold; in PMC"
+  },
+  "whyItMatters": "Neurons that wrongly duplicate their genome in Alzheimer’s disease carry more somatic point mutations, with an oxidative-stress signature and hits in DNA repair genes.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Neurons are meant to stop dividing for life, yet in Alzheimer’s disease some of them restart the cell cycle and copy their whole genome without splitting, ending up with four sets of chromosomes instead of two. This neuronal tetraploidy rises with age and appears early in the disease. Separately, studies have shown that neurons slowly accumulate somatic mutations as we age. This paper asks whether those two age-linked processes are connected: do tetraploid neurons carry a different load or kind of DNA mutation than normal neurons? A link would tie genome damage in individual brain cells to a known early step in Alzheimer’s pathology.",
+   "did": "The researchers isolated tetraploid neurons from the parietal cortex of people with Alzheimer’s disease and compared them with normal two-copy (diploid) neurons from both Alzheimer’s patients and control individuals. They sequenced the protein-coding part of the genome, the exome, and looked for somatic mutations: single-letter changes (single nucleotide variants, sSNVs) and short insertions or deletions (INDELs). They then examined which kinds of base changes appeared, which genes were hit, and how damaging those changes were predicted to be, using a molecular pathogenicity score.",
+   "found": "According to the abstract, tetraploid neurons had significantly more somatic single-letter mutations in the exome, while short insertions and deletions were not increased. The extra mutations were rich in T-to-C (A-to-G) changes, a pattern the authors associate with oxidative stress. The mutations were overrepresented in genes involved in the oxidative stress response and DNA repair, and the hits in DNA repair genes had significantly higher predicted pathogenicity. Mutations in cancer- and senescence-related genes also scored higher than those in a random set of genes. The authors propose a model in which neurons whose DNA repair genes are damaged, under oxidative stress, may be pushed back into the cell cycle, become tetraploid and then senescent, a sequence that could feed into Alzheimer’s disease.",
+   "limits": "This synopsis was written from the abstract only, although the full text is open access under CC BY. The abstract does not give sample sizes or the size of the mutation increase, so the strength of the effect cannot be judged here. The sequencing covered only the exome, not the whole genome. The model linking mutated repair genes to tetraploidy and senescence is a proposal; the data shown are associations in post-mortem tissue and do not establish which came first. Calling mutations in small numbers of cells is technically hard, and the abstract does not describe how false positives were controlled.",
+   "terms": [
+    {
+     "term": "Neuronal tetraploidy",
+     "definition": "A state in which a neuron has copied its genome and holds four sets of chromosomes instead of two."
+    },
+    {
+     "term": "Somatic single nucleotide variant (sSNV)",
+     "definition": "A one-letter DNA change acquired in a body cell during life."
+    },
+    {
+     "term": "INDEL",
+     "definition": "A short insertion or deletion of DNA letters."
+    },
+    {
+     "term": "Exome",
+     "definition": "The roughly 1–2% of the genome that codes for proteins."
+    },
+    {
+     "term": "Oxidative stress",
+     "definition": "Damage caused by reactive oxygen molecules, which can chemically alter DNA bases."
+    },
+    {
+     "term": "Cellular senescence",
+     "definition": "A lasting state in which a damaged cell stops dividing but stays alive and active."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "somatic-mutations-neurodegeneration-review",
+  "group": "latest",
+  "title": "Somatic mutations in neurodegeneration: from detection to disease mechanisms",
+  "authors": [
+   "Anna Piaszyk-Borychowska",
+   "Weronika Śliwińska",
+   "Marta Olejniczak"
+  ],
+  "authorsShort": "Anna Piaszyk-Borychowska et al.",
+  "firstAuthor": "Anna Piaszyk-Borychowska",
+  "journal": "BMC Biology",
+  "pubDate": "2026-11-05",
+  "doi": "10.1186/s12915-026-02778-2",
+  "url": "https://doi.org/10.1186/s12915-026-02778-2",
+  "pmid": null,
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1186/s12915-026-02778-2",
+   "source": "Crossref license metadata, fetched 2026-11-07: CC BY 4.0; OpenAlex oa_status=gold"
+  },
+  "whyItMatters": "A review of how DNA mutations acquired in neurons during life may contribute to Huntington’s, Alzheimer’s, Parkinson’s and ALS, and of the sequencing tools needed to prove it.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Every cell in the body slowly collects DNA changes after conception, so no two neurons have exactly the same genome. This patchwork, called somatic mosaicism, grows with age. Neurons may be especially exposed because they burn a lot of energy, face oxidative stress, live for decades without being replaced, and rely on DNA damage responses that weaken with age. In Huntington’s disease, it is already established that the disease-causing DNA repeat keeps expanding in some brain cells over life and drives the illness. Whether acquired mutations play a comparable role in Alzheimer’s disease, Parkinson’s disease or ALS is still an open question, which makes a review of the evidence and methods useful for anyone following genome instability as a hallmark of brain aging.",
+   "did": "This is a review article rather than a new experiment. According to the abstract, the authors summarise what is known about somatic mutations in neurodegenerative disease and focus on detection: how advances in single-cell and single-molecule sequencing, combined with computational and machine-learning approaches, make it possible to find ultra-rare variants that exist in only one or a few cells. They frame these tools in terms of moving from simply cataloguing mutations to establishing whether somatic mutagenesis actually causes neurodegeneration.",
+   "found": "As a review, the paper does not report new results. Its main points, as stated in the abstract, are that somatic mutations accumulate through development and aging and produce mosaicism across cell populations; that neurons are particularly vulnerable because of oxidative stress, high metabolic demand and age-related decline in DNA damage response pathways, which can lead to dysfunction in specific cell types; that somatic repeat instability is an established driver in Huntington’s disease; and that the extent and functional impact of somatic mutation in Alzheimer’s disease, Parkinson’s disease and ALS remain unresolved. The authors argue that newer sequencing and analysis methods are what will allow causal links to be tested.",
+   "limits": "This synopsis was written from the abstract only, although the review is open access under CC BY. A short abstract cannot show how comprehensive the literature coverage is or how the authors weighed conflicting studies. Reviews summarise and interpret existing work; they do not add new data, so any claims about causation depend on the underlying studies. Detecting ultra-rare mutations remains technically difficult, and the abstract does not compare specific methods’ error rates.",
+   "terms": [
+    {
+     "term": "Somatic mutation",
+     "definition": "A DNA change acquired in a body cell after conception, not inherited from parents."
+    },
+    {
+     "term": "Somatic mosaicism",
+     "definition": "The state of having cells with genetically different genomes within one body."
+    },
+    {
+     "term": "Repeat instability",
+     "definition": "The tendency of short repeated DNA sequences to grow or shrink when copied or repaired, as in Huntington’s disease."
+    },
+    {
+     "term": "DNA damage response",
+     "definition": "The cell’s network for sensing DNA damage, pausing the cell and repairing or eliminating it."
+    },
+    {
+     "term": "Single-cell sequencing",
+     "definition": "Reading the DNA or RNA of individual cells rather than a mixture of many cells."
+    },
+    {
+     "term": "Ultra-rare variant",
+     "definition": "A mutation present in only one or very few cells of a tissue."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "ancient-human-epigenetic-clocks-limits",
+  "group": "latest",
+  "title": "Promises and limitations of current ancient human epigenetic clocks",
+  "authors": [
+   "Youssef Tawfik",
+   "Yoan Diekmann",
+   "Ludovic Orlando",
+   "Joachim Bürger",
+   "Jens Blöcher"
+  ],
+  "authorsShort": "Youssef Tawfik et al.",
+  "firstAuthor": "Youssef Tawfik",
+  "journal": "iScience",
+  "pubDate": "2026-10-28",
+  "doi": "10.1016/j.isci.2026.118061",
+  "url": "https://doi.org/10.1016/j.isci.2026.118061",
+  "pmid": "42985618",
+  "pmcid": "PMC13733310",
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://www.cell.com/iscience/pdf/S2589-0042(26)03444-9.pdf",
+   "source": "Crossref license metadata, fetched 2026-11-07: CC BY 4.0; OpenAlex oa_status=gold; in PMC"
+  },
+  "whyItMatters": "Epigenetic clocks that work well on living people failed to estimate age at death from ancient human DNA, even after correction, showing where methylation-based aging tools break down.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks read chemical methyl tags on DNA to predict a person’s age, and they are among the most widely used tools in aging research. Archaeologists would like to use them too, because bone-based methods give only rough age ranges for adult skeletons. But ancient DNA is different from fresh DNA: methylation cannot be measured directly and has to be inferred from the chemical damage that builds up in the DNA after death, and the data are sparse. Testing clocks in this setting shows how much age signal the methylome really carries when measurements are indirect and noisy, which is a useful stress test for the clocks themselves.",
+   "did": "The authors evaluated existing epigenetic clocks on ancient human methylomes, using high-coverage genomic data together with a correction framework. They inferred DNA methylation levels across different CpG window sizes and then tried two approaches: applying published clocks directly, and retraining regression-based models on the ancient data. They also tested whether the data could at least sort individuals into adults and subadults, and checked whether a well-known non-age signal, X-chromosome methylation, which differs between males and females, could be recovered.",
+   "found": "According to the abstract, neither applying existing clocks directly nor retraining regression models gave reliable age-at-death estimates, and adult-versus-subadult classification did not produce statistically supported groups. In contrast, X-chromosome methylation did separate males from females, showing that broad biological signals can still be detected in ancient methylomes when sequencing depth is high enough. The authors conclude that current approaches pick up coarse signals but are not sensitive enough to capture the gradual, age-related shifts that clocks depend on, and that progress will need new reference data and better models for inferring methylation from DNA damage patterns, not just correction of existing methods.",
+   "limits": "This synopsis was written from the abstract only, although the full text is open access under CC BY. The abstract does not state how many ancient individuals were analysed or how their ages were established, so the statistical power cannot be judged here. The result is a negative one for current tools and methods; it does not show that ancient methylomes contain no age signal at all. Findings concern ancient remains and do not bear directly on how clocks perform in living people.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A statistical model that estimates age from DNA methylation levels at selected CpG sites."
+    },
+    {
+     "term": "DNA methylation",
+     "definition": "A chemical tag on DNA, usually on cytosines, that helps control which genes are active."
+    },
+    {
+     "term": "Ancient DNA",
+     "definition": "DNA recovered from archaeological or fossil remains, typically fragmented and chemically damaged."
+    },
+    {
+     "term": "Methylome",
+     "definition": "The genome-wide pattern of DNA methylation in a sample."
+    },
+    {
+     "term": "CpG site",
+     "definition": "A DNA spot where a cytosine is followed by a guanine; a common place for methylation tags."
+    },
+    {
+     "term": "Age-at-death estimation",
+     "definition": "Working out how old a person was when they died, usually from skeletal remains."
+    }
+   ]
+  }
  }
 ]
