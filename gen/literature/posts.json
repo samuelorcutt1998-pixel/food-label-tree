@@ -4565,5 +4565,242 @@
     }
    ]
   }
+ },
+ {
+  "slug": "ptsd-epigenetic-age-veterans-mvp",
+  "group": "latest",
+  "title": "PTSD is Associated with Advanced Epigenetic Age in 43,155 US Military Veterans",
+  "authors": [
+   "Erika J. Wolf",
+   "Rui Zhang",
+   "Xiang Zhao",
+   "Mark W. Logue",
+   "Brendan M. Despard",
+   "Phillip Ma",
+   "Meghan Wilkinson",
+   "Kelsey N. Serier",
+   "Adam X. Maihofer",
+   "Kelly M. Harrington",
+   "J. Michael Gaziano",
+   "Alexandre C. Pereira",
+   "Mark W. Miller",
+   "VA Million Veteran Program"
+  ],
+  "authorsShort": "Erika J. Wolf et al.",
+  "firstAuthor": "Erika J. Wolf",
+  "journal": "Biological Psychiatry",
+  "pubDate": "2026-11-07",
+  "doi": "10.1016/j.biopsych.2026.10.032",
+  "url": "https://doi.org/10.1016/j.biopsych.2026.10.032",
+  "pmid": "42998696",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref license metadata, fetched 2026-11-08: Elsevier TDM licenses only; no Creative Commons license listed; OpenAlex open_access field unavailable"
+  },
+  "whyItMatters": "In more than 43,000 U.S. veterans, PTSD diagnosis and symptom severity tracked with advanced DNA-methylation age on several clocks, with larger shifts on GrimAge than on Horvath’s clock.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1.5
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks read chemical methyl tags on DNA to estimate how old someone’s biology looks compared with their years of life. When that estimate runs ahead of chronological age, people tend to face higher risks of disease and death. Post-traumatic stress disorder has been linked to this kind of advanced biological age, but earlier studies were relatively small and did not always agree. A very large sample can test whether the link holds, which clocks pick it up, whether it is stronger at some ages than others, and whether it looks the same across ancestry groups and in both sexes.",
+   "did": "The authors studied 43,155 U.S. veterans in the Department of Veterans Affairs Million Veteran Program, 92.96% of them men. They combined VA electronic health records with DNA methylation and genotype data from blood. A subset of 21,999 veterans also had a self-report measure of PTSD symptom severity. PTSD diagnoses had to predate the blood draw by at least one year. The team tested whether a PTSD diagnosis, and separately symptom severity, were associated with age-adjusted epigenetic-age residuals from five algorithms: the Horvath and Hannum clocks, PhenoAge, GrimAge, and DunedinPACE, which estimates the pace of aging rather than an age in years. They applied a multiple-testing correction and examined whether the associations differed by age, sex, or ancestry.",
+   "found": "According to the abstract, both PTSD diagnosis and PTSD symptom severity were associated with advanced age residuals on all five clocks after multiple-testing adjustment. Severity showed the most consistent links, ranging from up to about 7 months of advanced age on the Horvath clock to about 2 years on GrimAge, and up to 16 days faster aging per year on DunedinPACE. The links between PTSD severity and the GrimAge, PhenoAge, and DunedinPACE residuals were stronger among younger veterans than among older ones. In the European-ancestry subgroup of 26,630 people, PTSD was associated with all of the residuals; fewer associations were statistically significant among the 11,119 African-ancestry participants. Results were similar in men and women. The authors conclude that PTSD is associated with advanced epigenetic aging in the largest study yet to ask this question, and they note that the effects were generally small, though potentially meaningful across the large population of VA patients with PTSD.",
+   "limits": "This synopsis was written from the abstract only; the article is paywalled and the full text was not available. The study is observational, so it shows that PTSD and methylation-based age move together, not that PTSD itself speeds up epigenetic aging. Shared causes such as smoking or other conditions could contribute, and the abstract does not say how fully those were accounted for. The sample is almost entirely male U.S. veterans, which limits how far the findings extend. The ancestry difference is reported but not explained here. Effect sizes were modest, so the result is stronger as a population-level signal than as a prediction for any one person.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A statistical model that estimates biological age, or the pace of aging, from DNA methylation at selected sites."
+    },
+    {
+     "term": "DNA methylation",
+     "definition": "A chemical tag, usually on cytosine bases, that helps control gene activity and shifts in characteristic ways with age."
+    },
+    {
+     "term": "Age residual (age acceleration)",
+     "definition": "The gap between a clock’s age estimate and a person’s chronological age after accounting for age itself."
+    },
+    {
+     "term": "GrimAge",
+     "definition": "An epigenetic clock trained with an eye toward mortality-related blood proteins and smoking, often used as a health-span marker."
+    },
+    {
+     "term": "DunedinPACE",
+     "definition": "A DNA-methylation measure of how quickly aging-related change is happening, expressed as a pace rather than an age in years."
+    },
+    {
+     "term": "PTSD",
+     "definition": "Post-traumatic stress disorder, a psychiatric condition that can follow a traumatic event and includes re-experiencing, avoidance, and heightened arousal."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "immune-genetic-basis-epigenetic-clocks",
+  "group": "latest",
+  "title": "Decoding the immune-genetic basis of epigenetic clocks: evidence from single-cell transcriptome-wide Mendelian randomization and colocalization",
+  "authors": [
+   "Dongren Sun",
+   "Xin Mo",
+   "Shuguang Zou",
+   "Jianjun Zou",
+   "Zhihong Zhao"
+  ],
+  "authorsShort": "Dongren Sun et al.",
+  "firstAuthor": "Dongren Sun",
+  "journal": "Epigenetics & Chromatin",
+  "pubDate": "2026-11-06",
+  "doi": "10.1186/s13072-026-00711-z",
+  "url": "https://doi.org/10.1186/s13072-026-00711-z",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1186/s13072-026-00711-z",
+   "source": "Crossref license metadata, fetched 2026-11-08: CC BY-NC-ND 4.0; OpenAlex oa_status=gold"
+  },
+  "whyItMatters": "Genetic analyses tied immune-cell gene activity, including DNA-damage-response genes such as ATM, to widely used DNA-methylation aging clocks in a cell-type-specific way.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks are widely used in aging research because their DNA-methylation scores track disease risk and mortality. What they do not reveal on their own is which genes, in which cells, help set those scores. Immune cells are a natural place to look: blood is the tissue most clocks are built from, immune composition changes with age, and some clock signals overlap with inflammation and white-cell mix. If gene activity inside particular immune cell types can be linked to clock values through inherited genetic variation, that would point toward mechanisms rather than mere correlation. This paper asks whether the expression of specific genes in defined immune cells is associated with four DNA-methylation clocks.",
+   "did": "The authors combined single-cell cis-expression quantitative trait loci from the OneK1K cohort, which link inherited DNA variants to gene activity inside particular immune cell types, with two-sample Mendelian randomization and Bayesian colocalization. They tested genetic associations between immune-cell-specific gene expression and four DNA-methylation clocks, then tried to replicate the lead associations in GTEx V11 whole-blood expression data and the TenK10K immune-cell eQTL dataset. Follow-up analyses included functional enrichment, protein-protein interaction networks, a hierarchical target-assessment framework, and phenome-wide association and druggability checks meant to highlight genes of possible therapeutic interest.",
+   "found": "According to the abstract, they identified 22 significant associations between an expressed gene and an immune cell type. Of these, 14 showed strong colocalization evidence, with a posterior probability for a shared causal variant (PPH4) of 0.8 or higher, and 8 showed suggestive colocalization (PPH4 between 0.5 and 0.8). All 22 associations passed Steiger filtering, a check that the genetic effect is more consistent with gene expression influencing the clock than the reverse. Replication in GTEx V11 and TenK10K confirmed the direction of effect for most of the lead associations, especially for ENO1, NDUFS5, ATM, and PPP1R17. Functional enrichment pointed to DNA damage response, immune regulation, and metabolic pathways. The authors say phenome-wide and druggability assessments prioritized genes with therapeutic potential, and they conclude that immune-cell gene expression influences epigenetic aging in a cell-type-specific manner.",
+   "limits": "This synopsis was written from the abstract only. The article is open access under a CC BY-NC-ND license, but the full text could not be retrieved during this sweep, so details beyond the abstract are not included. Mendelian randomization depends on assumptions about genetic instruments; leftover pleiotropy can still bias results. The abstract does not name the four clocks, report effect sizes, or describe the ancestry mix of the cohorts, so the strength and generalizability of each association cannot be judged here. A genetic association is not the same as an experiment that changes a gene’s activity and watches the clock move.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A statistical model that estimates biological age from DNA methylation levels at selected CpG sites."
+    },
+    {
+     "term": "Mendelian randomization",
+     "definition": "A method that uses inherited DNA variants as natural experiments to test whether an exposure, such as a gene’s activity, is likely to influence an outcome."
+    },
+    {
+     "term": "cis-eQTL",
+     "definition": "A DNA variant near a gene that is associated with how much of that gene is expressed, here measured inside a specific immune cell type."
+    },
+    {
+     "term": "Colocalization",
+     "definition": "A statistical test of whether the same genetic variant likely drives two traits, such as gene expression and a clock score, rather than two nearby but distinct variants."
+    },
+    {
+     "term": "ATM",
+     "definition": "A gene that helps cells sense DNA breaks and coordinate repair; inherited variation in ATM is a classic link between genome maintenance and disease."
+    },
+    {
+     "term": "Steiger filter",
+     "definition": "A check used in Mendelian randomization to test whether the data are more consistent with the proposed direction of effect than with the reverse."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "chip-environmental-toxicology-review",
+  "group": "latest",
+  "title": "Clonal hematopoiesis as an intermediate endpoint in environmental toxicology: evidence, mechanisms and future applications",
+  "authors": [
+   "Marzia Barbieri",
+   "Marta Mollari",
+   "Alessandro Ubaldi",
+   "Flavia Silvia Galli",
+   "Daniele Marcoccia"
+  ],
+  "authorsShort": "Marzia Barbieri et al.",
+  "firstAuthor": "Marzia Barbieri",
+  "journal": "Biology Direct",
+  "pubDate": "2026-11-06",
+  "doi": "10.1186/s13062-026-01060-3",
+  "url": "https://doi.org/10.1186/s13062-026-01060-3",
+  "pmid": null,
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1186/s13062-026-01060-3",
+   "source": "Crossref license metadata, fetched 2026-11-08: CC BY-NC-ND 4.0; OpenAlex oa_status=gold"
+  },
+  "whyItMatters": "This review treats age-related blood-cell clones with leukemia-linked mutations as a possible middle step between environmental exposures and later disease, and it sorts exposures that may cause mutations from those that may expand clones already present.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "As people age, blood-forming stem cells slowly pick up DNA mutations. When a mutation in a leukemia-linked gene gives one stem cell a growth advantage, its descendants can come to make up a noticeable share of the blood even though the person does not have a blood cancer. That state is called clonal hematopoiesis of indeterminate potential, or CHIP. It is one of the clearer measurable examples of somatic mutation building up with age, and it has been tied to later blood cancers, heart disease, chronic inflammation, and higher mortality. If environmental exposures help these mutant clones appear or expand, CHIP could serve as an intermediate checkpoint: a sign that an exposure has already changed the blood-forming system, years before frank disease. This review asks what evidence supports that idea.",
+   "did": "This is a review article rather than a new experiment. According to the abstract, the authors examine evidence connecting environmental and occupational exposures to CHIP and discuss mechanisms that could link those exposures to new mutations or to the selective growth of mutant blood stem cells. They also evaluate CHIP as a possible toxicological biomarker and survey newer tools for studying it, including error-corrected sequencing, single-cell genomics, multi-omics approaches, and longitudinal biomonitoring.",
+   "found": "As a review, the paper does not report new laboratory or cohort results of its own. Its main points, as stated in the abstract, are that CHIP is an age-associated expansion of hematopoietic stem cells carrying somatic driver mutations, and that environmental and occupational exposures may contribute to both the emergence and the growth of these clones. The exposures discussed include benzene, pesticides, air pollution, heavy metals, and per- and polyfluoroalkyl substances, or PFAS. Possible routes of influence include DNA damage, oxidative stress, chronic inflammation, epigenetic dysregulation, and remodeling of the bone-marrow niche. The authors distinguish contaminants that act mainly as mutagens from those that may instead favor the expansion of mutant clones that are already present. They argue that CHIP is measurable, biologically plausible, and predictive of later disease risk, while also noting limits in how specific it is to any one exposure and how quickly it responds over time.",
+   "limits": "This synopsis was written from the abstract only. The article is open access under a CC BY-NC-ND license, but the full text could not be retrieved during this sweep, so how the authors weighed conflicting studies cannot be judged here. Reviews summarize existing work and do not add new measurements, so any claim that a given chemical causes CHIP depends on the quality of the underlying studies. The abstract does not report how strong each exposure–CHIP link is or how well those studies handled confounding by age and smoking. Using CHIP as a marker of a specific environmental insult is also limited by the fact that clones arise with ordinary aging, which the authors themselves flag.",
+   "terms": [
+    {
+     "term": "Clonal hematopoiesis (CHIP)",
+     "definition": "An age-related expansion of blood stem cells that carry a leukemia-linked mutation in a person who does not have blood cancer."
+    },
+    {
+     "term": "Somatic mutation",
+     "definition": "A DNA change acquired in a body cell during life, not inherited from a parent."
+    },
+    {
+     "term": "Hematopoietic stem cell",
+     "definition": "A long-lived bone-marrow cell that gives rise to the many types of blood cells."
+    },
+    {
+     "term": "Clonal selection",
+     "definition": "The process by which a cell with a growth advantage out-competes its neighbors and comes to dominate a tissue."
+    },
+    {
+     "term": "PFAS",
+     "definition": "Per- and polyfluoroalkyl substances, a large class of persistent industrial chemicals sometimes called forever chemicals."
+    },
+    {
+     "term": "Error-corrected sequencing",
+     "definition": "DNA-reading methods designed to catch very rare mutations by reducing the mistakes that ordinary sequencing makes."
+    }
+   ]
+  }
  }
 ]
