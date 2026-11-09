@@ -4802,5 +4802,381 @@
     }
    ]
   }
+ },
+ {
+  "slug": "arp23-genome-integrity-langerhans-cells",
+  "group": "latest",
+  "title": "The Arp2/3 complex maintains genome integrity and survival of epidermal Langerhans cells",
+  "authors": [
+   "Maria-Graciela Delgado",
+   "Ann-Kathrin Burkhart",
+   "Charlotte Canet-Jourdan",
+   "Javiera Villar",
+   "Roberto Amadio",
+   "Vanessa S Rácz",
+   "Doriane Sanséau",
+   "Nilushi De Silva",
+   "Livia Lacerda Mariano",
+   "Anna Shmakova",
+   "Anna Chipont",
+   "Mabel San Roman-Jouve",
+   "Giulia Bracchetti",
+   "Vincent Calmettes",
+   "Zahraa Alraies",
+   "Mathieu Maurin",
+   "Aurelien Dauphin",
+   "Coralie Guerin",
+   "Florent Ginhoux",
+   "Nicolas Manel",
+   "Daniele Fachinetti",
+   "Federica Benvenuti",
+   "Ana-Maria Lennon-Duménil",
+   "Sandra Iden"
+  ],
+  "authorsShort": "Maria-Graciela Delgado et al.",
+  "firstAuthor": "Maria-Graciela Delgado",
+  "journal": "EMBO reports",
+  "pubDate": "2026-11-07",
+  "doi": "10.1038/s44319-026-00982-3",
+  "url": "https://doi.org/10.1038/s44319-026-00982-3",
+  "pmid": "42998988",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1038/s44319-026-00982-3",
+   "source": "Crossref license metadata, fetched 2026-11-09: CC BY 4.0; OpenAlex oa_status=gold"
+  },
+  "whyItMatters": "In mice, losing a cell-skeleton protein complex made skin immune cells accumulate DNA damage and die off in a way that resembles premature cellular aging.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Cells that live for a long time inside our tissues have to protect their DNA for years. Skin Langerhans cells are immune cells that sit in the outer skin layer and are mostly self-renewing rather than constantly replaced, so any slow build-up of DNA damage could shorten their lifespan and weaken the skin's defenses. This paper points to an unexpected guardian of genome integrity: the actin network, a cell-skeleton structure usually thought of as a machine for movement and engulfing material. If a physical scaffold around the nucleus helps keep DNA intact, then failures of that scaffold could be one route by which tissue-resident cells lose DNA integrity and decline with age.",
+   "did": "According to the abstract, the team studied mice in which a subunit of the Arp2/3 complex, called Arpc4, was deleted in myeloid cells. Arp2/3 builds branched actin networks inside cells. The researchers followed Langerhans cells in the skin of these mice over time and also ran experiments in the lab on dendritic cells grown from bone marrow, so they could look at what happened inside the cells when the complex was missing.",
+   "found": "The mice formed normal Langerhans cell networks at birth, but the cells then declined in number over time, in a pattern the authors describe as reminiscent of premature cellular aging. In the lab experiments, cells lacking Arpc4 were still able to get through the cell cycle. However, they accumulated DNA damage, and that damage was associated with abnormally shaped nuclei, a thinning of the nuclear lamina (the protein mesh that supports the nuclear envelope), and events in which the nuclear envelope ruptured. From these results the authors conclude that Arp2/3 has a physiological role in keeping the genome intact and keeping immune cells alive in tissues.",
+   "limits": "This synopsis was written from the abstract only; the article is open access, but its full text was not used here, so details such as the number of animals, the kinds of DNA damage measured, and how the \"premature aging\" label was supported are not covered. The work is in mice and in cultured mouse cells, so it does not show that the same thing happens in human skin. The abstract describes the cell loss as reminiscent of aging, which is a resemblance and not proof that natural aging works through the same pathway. It also does not say whether the DNA damage is the direct cause of cell loss or a side effect of nuclear rupture.",
+   "terms": [
+    {
+     "term": "Arp2/3 complex",
+     "definition": "A group of proteins that starts new branches on actin filaments, building the branched actin networks inside cells."
+    },
+    {
+     "term": "Langerhans cells",
+     "definition": "Immune cells found in the outermost layer of skin that help detect invaders and are long-lived in tissue."
+    },
+    {
+     "term": "Nuclear lamina",
+     "definition": "A protein mesh lining the inside of the nuclear envelope that supports the shape and stability of the nucleus."
+    },
+    {
+     "term": "Nuclear envelope rupture",
+     "definition": "A break in the membrane surrounding the nucleus, which can expose DNA and is linked to DNA damage."
+    },
+    {
+     "term": "Genome integrity",
+     "definition": "The state of a cell's DNA being intact and correctly maintained, without breaks or damage."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "telomere-crisis-escape-genome-evolution-preprint",
+  "group": "latest",
+  "title": "Escape from replicative crisis and immortalization precedes complex genome evolution (preprint)",
+  "authors": [
+   "Tobias T Schmidt",
+   "Marco R Cosenza",
+   "Tessa M Popay",
+   "Sara Przetocka",
+   "Candy Haggblom",
+   "Nicholas Allsing",
+   "Kathryn Lande",
+   "Julia W Grimstead",
+   "April E Williams-Wehner",
+   "Duncan M Baird",
+   "Jesse R Dixon",
+   "Jan O Korbel",
+   "Jan Karlseder"
+  ],
+  "authorsShort": "Tobias T Schmidt et al.",
+  "firstAuthor": "Tobias T Schmidt",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-10-13",
+  "doi": "10.64898/2026.10.09.758087",
+  "url": "https://doi.org/10.64898/2026.10.09.758087",
+  "pmid": "42999420",
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.10.09.758087",
+   "source": "bioRxiv preprints are free to read; OpenAlex listed it as closed, so open-access status was not confirmed from a license record (checked 2026-11-09)"
+  },
+  "whyItMatters": "Single-cell genome sequencing of human cells in telomere crisis suggests that wild chromosome rearrangements are mostly weeded out, and that complex genomes arise later, after cells become immortal.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Telomeres are the protective caps at chromosome ends. They shorten each time a cell divides, and when they get critically short, normal human cells stop dividing (senescence) or, if they push on, enter a state of crisis with severe genome damage. This limit on cell division is a central part of how aging and cancer are linked: it protects us from tumors, but the cells that slip past it may be the ones that become cancers. Understanding what genomes look like during and after crisis tells us how telomere shortening, a classic hallmark of aging, turns into the genomic instability seen in cancer.",
+   "did": "The abstract says the authors used single-cell, strand-specific DNA sequencing to read the genomes of individual human cells in crisis. They then followed clones of cells that emerged spontaneously after crisis, meaning cells that escaped it and became immortal, and tracked how their genomes changed as the cells kept dividing.",
+   "found": "Cells in crisis showed extreme genome instability with complex chromosomal abnormalities. Unexpectedly, the clones that spontaneously emerged after crisis had relatively few and simple structural variants, meaning large changes such as deletions or rearrangements. As these immortal post-crisis clones accumulated more divisions, their genomes evolved and gained alterations, including whole-genome doubling events (tetraploidization) followed by losses and gains of single chromosomes. The authors propose a model in which crisis is a strong selective barrier against cells with abnormal chromosome sets, and in which high karyotypic complexity, which is common in tumors, is acquired after immortalization and crisis escape, not before.",
+   "limits": "This is a preprint, which means it has not been peer reviewed and its conclusions may change. This synopsis was written from the abstract only; the full text was not used, so the number of cells and clones examined and the cell types used are not covered. The abstract does not say whether the findings extend beyond the cell culture system to living tissue or to real tumors. Cell-culture crisis is also a model of what may happen during human aging and early tumor development, not a direct observation of it. The proposed model of tumor evolution is a hypothesis built on these data.",
+   "terms": [
+    {
+     "term": "Replicative crisis",
+     "definition": "A state reached when telomeres become critically short and cells that keep dividing suffer severe chromosome damage and widespread death."
+    },
+    {
+     "term": "Replicative senescence",
+     "definition": "A permanent stop in cell division that occurs when telomeres get too short."
+    },
+    {
+     "term": "Immortalization",
+     "definition": "When a cell escapes the normal limit on how many times it can divide."
+    },
+    {
+     "term": "Structural variant",
+     "definition": "A large change in DNA structure, such as a deletion, duplication, or rearrangement of a chromosome piece."
+    },
+    {
+     "term": "Tetraploidization",
+     "definition": "A doubling of a cell's whole set of chromosomes."
+    },
+    {
+     "term": "Karyotype",
+     "definition": "The number and appearance of a cell's chromosomes."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "biological-aging-markers-hiv-childhood-maltreatment-preprint",
+  "group": "latest",
+  "title": "Biological aging markers in South African women with HIV and variable exposure to childhood maltreatment (preprint)",
+  "authors": [
+   "Kabelo Mabokane Simon Maloka",
+   "Georgina Spies",
+   "Stefan du Plessis",
+   "Sian Megan Joanna Hemmings",
+   "Scott Letendre",
+   "Soraya Seedat",
+   "Jacqueline Samantha Womersley"
+  ],
+  "authorsShort": "Kabelo Mabokane Simon Maloka et al.",
+  "firstAuthor": "Kabelo Mabokane Simon Maloka",
+  "journal": "medRxiv (preprint)",
+  "pubDate": "2026-10-16",
+  "doi": "10.64898/2026.10.15.26365601",
+  "url": "https://doi.org/10.64898/2026.10.15.26365601",
+  "pmid": "42999283",
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.10.15.26365601",
+   "source": "medRxiv preprints are free to read (Crossref license metadata, fetched 2026-11-09: CC BY 4.0; OpenAlex oa_status=green)"
+  },
+  "whyItMatters": "In 238 South African women, several DNA-based aging measures, including telomere length and epigenetic clocks, pointed to faster aging with HIV, but the different measures agreed only weakly with one another.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Researchers use several different yardsticks of biological aging, and many of them read the DNA itself: how long the telomeres are, how many copies of mitochondrial DNA a cell holds, and patterns of DNA methylation that form epigenetic clocks. Chronic stress and chronic infection are thought to speed aging, but it is unclear whether these yardsticks measure the same underlying process. If they do not, a result from one clock may not carry over to another. This study tests that in women facing two heavy burdens at once, HIV infection and childhood maltreatment.",
+   "did": "Per the abstract, the team studied 238 women, 122 of whom were living with HIV, and rated their childhood maltreatment with a questionnaire. They measured absolute telomere length, mitochondrial DNA copy number, a brain-age gap estimated from MRI scans, and DNA methylation age from several epigenetic clocks. They checked how the markers related to each other and used regression models to ask whether HIV status or maltreatment severity changed those relationships.",
+   "found": "Women with HIV had shorter telomeres, a lower MRI-based brain-age gap, and higher age acceleration on four epigenetic clock measures (Horvath, Hannum, PhenoAge and extrinsic epigenetic age acceleration). Childhood maltreatment had limited associations with the aging markers. Telomere length correlated only weakly with mitochondrial DNA copy number and with two of the clock measures, and the brain-age gap correlated weakly with one clock. The epigenetic clocks, by contrast, were moderately to strongly correlated with each other. After correction for multiple testing, no robust interaction effects were seen. The authors conclude that biological aging looks multidimensional, with good agreement among epigenetic measures but limited agreement across different kinds of markers, largely regardless of HIV status and maltreatment severity.",
+   "limits": "This is a preprint that has not been peer reviewed. This synopsis was written from the abstract only, although the full text is freely available, so details such as how the groups were matched and how medication was handled are not covered. The design compares women at one point in time, so it cannot show that HIV causes faster aging or in which direction effects run. The abstract itself calls for longitudinal studies. The results come from one group of women in South Africa and may not apply elsewhere. Many correlations were weak, so the practical size of the differences should be judged against the full results.",
+   "terms": [
+    {
+     "term": "Telomere length",
+     "definition": "The length of the protective caps at chromosome ends, which tends to shorten with cell division and age."
+    },
+    {
+     "term": "Mitochondrial DNA copy number",
+     "definition": "How many copies of the small mitochondrial genome a cell carries, used as a marker of mitochondrial health."
+    },
+    {
+     "term": "Epigenetic clock",
+     "definition": "A model that estimates biological age from DNA methylation patterns."
+    },
+    {
+     "term": "Age acceleration",
+     "definition": "How much older a person's biological age reads compared with their calendar age."
+    },
+    {
+     "term": "Brain-predicted age difference",
+     "definition": "The gap between the age predicted from a brain MRI scan and a person's actual age."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "naked-mole-rat-t2t-genome-preprint",
+  "group": "latest",
+  "title": "Decoding the naked mole-rat genome, telomere to telomere (preprint)",
+  "authors": [
+   "Dustin J Sokolowski",
+   "Alexander Nater",
+   "Mihai Miclaus",
+   "Wenjian Meng",
+   "Simon Monis",
+   "Wing Yui Ngan",
+   "Runjia Qu",
+   "Jason Erdmann",
+   "Alyssa M Fontanilla",
+   "Vladimir Trifonov",
+   "DongAhn Yoo",
+   "Sana Akhtar Alvi",
+   "Alison J Barker",
+   "Odei Barrenada-Taleb",
+   "Jonathan Bayerl",
+   "Valerie Begay",
+   "Ana Claudia Campos",
+   "Cadia Chan",
+   "Zoe Clarke",
+   "Archana Lal Erdmann",
+   "Mariela Faykoo-Martinez",
+   "Timon Geib",
+   "Kendra Hoekzema",
+   "Yiyue Jiang",
+   "Nadia Karimpour",
+   "Rathnakumar Kumaragurubaran",
+   "Shukuan Ling",
+   "Dragos Leordean",
+   "Liana Maree",
+   "Daniel Mendez-Aranda",
+   "Xinye Peng",
+   "Dmitry Prokopov",
+   "Haosen Tang",
+   "Kyra Ungerleider",
+   "Gerhard van der Horst",
+   "Hongyao Wu",
+   "Dian Zhou",
+   "Philip Zuzarte",
+   "Leanne Haggerty",
+   "Huayun Hou",
+   "Thibaut Hourlier",
+   "Heidi Lischer",
+   "Fergal Martin",
+   "Lenka Gahurova",
+   "Trevor J Pugh",
+   "Nigel C Bennett",
+   "Daniel W Hart",
+   "Jonathan C Howard",
+   "Christoph H Borchers",
+   "Miguel A Brieno-Enriquez",
+   "Diana J Laird",
+   "Gary R Lewin",
+   "Melissa M Holmes",
+   "Ewan St John Smith",
+   "Evan E Eichler",
+   "Remy Bruggmann",
+   "Jingtao Lilue",
+   "Jared T Simpson",
+   "Michael D Wilson",
+   "Gabriel Balmus"
+  ],
+  "authorsShort": "Dustin J Sokolowski et al.",
+  "firstAuthor": "Dustin J Sokolowski",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-10-16",
+  "doi": "10.64898/2026.10.14.758906",
+  "url": "https://doi.org/10.64898/2026.10.14.758906",
+  "pmid": "42999248",
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.10.14.758906",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata, fetched 2026-11-09: CC BY 4.0; OpenAlex oa_status=green)"
+  },
+  "whyItMatters": "A complete, gap-free naked mole-rat genome reveals extra copies of a DNA mismatch-repair gene, Pms1, in this long-lived, cancer-resistant rodent.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "The naked mole-rat is the longest-lived rodent and rarely develops cancer, which makes it a favorite model for asking how a body can keep its genome stable for decades. Many ideas about long life, such as stronger DNA repair, depend on having an accurate genome to compare with those of shorter-lived animals. This preprint provides a very complete genome for the naked mole-rat and a close, shorter-lived relative, and it flags genome-stability genes that are duplicated in the long-lived species.",
+   "did": "The abstract reports a diploid, haplotype-resolved, telomere-to-telomere genome assembly of the naked mole-rat, meaning each of the two chromosome sets was assembled end to end, and the genome was annotated using gene-activity data (transcriptomes) from 23 tissues. The authors also produced a long-read primary assembly of the Cape dune mole-rat, a shorter-lived solitary relative, and compared the two genomes.",
+   "found": "The assembly resolves centromeres that contain no satellite repeats, the Y chromosome, and a structurally variable 25-megabase region of chromosome 15. The comparison found gene losses that separate sperm motility from fertility, including the gene Irgc, and gene duplications linked to immunity, reproduction and genome stability. Among these is six copies of Pms1, a gene related to the MutL family of DNA mismatch-repair proteins. The authors present the genomes as a resource for studying the genetic basis of the naked mole-rat's longevity, cancer resistance and reproductive biology.",
+   "limits": "This is a preprint that has not been peer reviewed. This synopsis was written from the abstract only, although the full text is free, so how the duplications were verified and what was tested about them is not covered. The abstract reports that extra Pms1 copies exist, not that they cause the species' long life or low cancer rate, and it does not show that they work differently from the single copy in other mammals. Comparing two species cannot, on its own, tell which genome differences matter for lifespan. Most of the abstract concerns genome assembly and reproduction, so the aging link is a lead for future work.",
+   "terms": [
+    {
+     "term": "Telomere-to-telomere assembly",
+     "definition": "A genome sequence that runs unbroken from one end of each chromosome to the other, with no gaps."
+    },
+    {
+     "term": "Haplotype-resolved",
+     "definition": "Having the two inherited copies of each chromosome assembled separately."
+    },
+    {
+     "term": "Pms1",
+     "definition": "A gene related to the MutL family of proteins that help correct mismatched DNA bases after copying."
+    },
+    {
+     "term": "Mismatch repair",
+     "definition": "A DNA repair process that finds and fixes errors made during DNA copying."
+    },
+    {
+     "term": "Genome stability",
+     "definition": "The ability of a cell to keep its DNA accurate and intact."
+    }
+   ]
+  }
  }
 ]
