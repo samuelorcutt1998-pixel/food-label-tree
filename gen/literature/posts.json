@@ -5178,5 +5178,321 @@
     }
    ]
   }
+ },
+ {
+  "slug": "epigenetic-age-acceleration-epilepsy-brain",
+  "group": "latest",
+  "title": "Epigenetic age acceleration in the brain and blood of people with epilepsy and in a mouse model of focal cortical dysplasia: a retrospective cross-sectional study",
+  "authors": [
+   "Paraskevi Chasani",
+   "Mitali Katoch",
+   "Johannes R. Lemke",
+   "Rami Abou Jamra",
+   "Julia Hentschel",
+   "Till Hartlieb",
+   "Manfred Kudernatsch",
+   "Christian G. Bien",
+   "Thilo Kalbhenn",
+   "Hajo Hamer",
+   "Daniel Delev",
+   "Karl Rössler",
+   "Rafael Toledano",
+   "Antonio Gil-Nagel",
+   "Petra Mrozkova",
+   "Adam Bogdanovic",
+   "Nikola Vrskova",
+   "Jan Kudlacek",
+   "Anna Svobodova",
+   "Helena Pivonkova",
+   "Premysl Jiruska",
+   "Sarah Weckhuysen",
+   "Charissa Millevert",
+   "Viola Balaj",
+   "Manuel A. Schmid",
+   "Lucas Hoffmann",
+   "Roland Coras",
+   "Ingmar Blümcke",
+   "Katja Kobow"
+  ],
+  "authorsShort": "Paraskevi Chasani et al.",
+  "firstAuthor": "Paraskevi Chasani",
+  "journal": "EBioMedicine",
+  "pubDate": "2026-11-09",
+  "doi": "10.1016/j.ebiom.2026.106550",
+  "url": "https://doi.org/10.1016/j.ebiom.2026.106550",
+  "pmid": "43002795",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1016/j.ebiom.2026.106550",
+   "source": "Crossref license metadata, fetched 2026-11-10: CC BY 4.0 (OpenAlex lookup failed this run)"
+  },
+  "whyItMatters": "Brain tissue from people with drug-resistant structural epilepsy read about seven years older on epigenetic clocks than expected, and in mice the aging signal appeared before the first seizures.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "People with epilepsy, on average, live shorter lives and develop more age-related illnesses than people without it, which has led to the idea that epilepsy might speed up biological aging. Until now there has been little direct molecular evidence for that. Epigenetic clocks, which estimate biological age from chemical tags called methyl groups on DNA, offer a way to test it in the tissue where the disease actually happens, the brain. If the epileptic brain ages faster at the level of its DNA, that aging process could become a target for treatments that change the course of the disease rather than only controlling seizures.",
+   "did": "The researchers applied DNA-methylation epigenetic clocks to brain and blood samples from 324 people with structural or genetic epilepsy and 65 people without epilepsy. They defined age acceleration as how far each sample's clock age sat from what a statistical model predicted from chronological age, sex, the mix of cell types, and the type of lab array used. They also studied a mouse model in which a gene in the mTOR growth pathway was switched on in some brain cells before birth, mimicking a human malformation called focal cortical dysplasia type 2. Mice were sampled before and after seizures began, and telomere length was measured as a second, independent marker of aging.",
+   "found": "In brain tissue, epigenetic age acceleration was consistent across different types of structural lesions, with a median of about 7.3 extra years. It was largest in ganglioglioma (about 10 years), followed by MOGHE (8.1), temporal lobe epilepsy (6.6) and focal cortical dysplasia (5.6). In blood, age acceleration was not significant after adjustment, except in focal cortical dysplasia (about 2.3 years). Acceleration was greater in brain than in blood. In the 175 people with data available, exposure to the drug valproate was not significantly linked to age acceleration. In the drug-free mice, epileptic brains, but not blood, showed epigenetic age acceleration, and aging signatures were already visible before seizures started, supported by shorter telomeres. The authors suggest biological aging can come before overt epilepsy.",
+   "limits": "This synopsis is based on the abstract only; the article is open access, but its full text was not used here. The human part of the study is retrospective and cross-sectional, so it shows an association at one point in time and cannot show that faster epigenetic aging causes epilepsy or its complications. Brain tissue came from people with drug-resistant structural epilepsy, so the authors note the results may not apply to other causes of epilepsy. Whether the whole body ages faster remains unresolved. The telomere result in mice was borderline (adjusted p = 0.05).",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A model that estimates biological age from patterns of DNA methylation."
+    },
+    {
+     "term": "Epigenetic age acceleration",
+     "definition": "How much older a sample reads on an epigenetic clock than expected for its actual age."
+    },
+    {
+     "term": "Focal cortical dysplasia",
+     "definition": "A malformation in which part of the brain's outer layer develops abnormally, a common cause of hard-to-treat epilepsy."
+    },
+    {
+     "term": "mTOR pathway",
+     "definition": "A cell signaling pathway that controls growth; overactivity in brain cells can cause malformations and seizures."
+    },
+    {
+     "term": "Ganglioglioma",
+     "definition": "A slow-growing brain tumor made of nerve and support cells that often causes seizures."
+    },
+    {
+     "term": "Telomere",
+     "definition": "The protective cap at the end of a chromosome that tends to shorten with age."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "early-adversity-poverty-epigenetic-clocks-childhood",
+  "group": "latest",
+  "title": "Early adversity, poverty, and positive social development show distinct associations across epigenetic aging measures in childhood",
+  "authors": [
+   "Libera Ylenia Mastromatteo",
+   "Jonas G. Miller"
+  ],
+  "authorsShort": "Libera Ylenia Mastromatteo et al.",
+  "firstAuthor": "Libera Ylenia Mastromatteo",
+  "journal": "Development and Psychopathology",
+  "pubDate": "2026-11-09",
+  "doi": "10.1017/s0954579426102132",
+  "url": "https://doi.org/10.1017/s0954579426102132",
+  "pmid": "43001427",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1017/s0954579426102132",
+   "source": "Crossref license metadata, fetched 2026-11-10: CC BY 4.0 (OpenAlex lookup failed this run)"
+  },
+  "whyItMatters": "In 863 nine-year-olds, adversity and poverty pushed different epigenetic clocks in different directions, and falling social skills were linked to an older disease-risk clock.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Hard early lives, including adversity and poverty, are thought to leave marks on the body that raise disease risk decades later. Epigenetic clocks, which read biological age from DNA methylation, have been used to look for those marks in children, but results have been inconsistent. One reason may be that different clocks measure different things: some track normal development and maturation, while others were built to predict illness and death. This study compares many clocks side by side in the same children, and it also asks whether something positive, a child's social development, plays a part.",
+   "did": "The authors used data from the Future of Families and Child Wellbeing Study, a large US cohort, with DNA methylation data for 863 children (about half boys, and 46% non-Hispanic Black). At about age 9, they calculated several types of epigenetic clocks: age-trained clocks (Horvath, Hannum, Skin and Blood, and the pediatric PedBE clock), health-related clocks (PhenoAge and GrimAge) and a pace-of-aging measure (DunedinPACE). They related these to early adversity, poverty, and how children's social skills changed across childhood.",
+   "found": "Early adversity was linked to older readings on GrimAge and PedBE, but younger readings on the Horvath and Skin and Blood clocks, so the direction depended on the clock. Poverty showed more consistent links with older readings on the clocks tied to mortality risk. Children whose social skills declined across childhood had higher GrimAge, and this pattern of social development partly explained the link between poverty and GrimAge. The effect was specific to social skills and was not seen for symptoms of psychological problems. The authors conclude that adversity and poverty affect clocks that track maturation differently from clocks that track disease risk.",
+   "limits": "This synopsis is based on the abstract only; the article is open access, but its full text was not used here. The reported effect sizes were small (standardized coefficients of roughly 0.1 to 0.2). Clocks were measured at one age, so the study cannot show how epigenetic aging changes over time or that adversity causes the differences. Most adult-derived clocks were not designed for children, which may help explain the mixed directions. The mediation result is statistical and does not prove that improving social skills would change a child's biological aging.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A model that estimates biological age from patterns of DNA methylation."
+    },
+    {
+     "term": "GrimAge",
+     "definition": "An epigenetic clock built to predict mortality risk."
+    },
+    {
+     "term": "PedBE",
+     "definition": "An epigenetic clock designed for children, developed from cheek-cell samples."
+    },
+    {
+     "term": "DunedinPACE",
+     "definition": "A DNA methylation measure of how fast a person is aging, rather than how old they are."
+    },
+    {
+     "term": "Mediation",
+     "definition": "A statistical test of whether one factor partly explains the link between two others."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "samp1-at2-dna-damage-senescence-fibrosis-preprint",
+  "group": "latest",
+  "title": "SAMP1/TMEM201 protects alveolar type 2 cells from DNA damage-associated senescence and restrains pulmonary fibrosis (preprint)",
+  "authors": [
+   "Leonid A Serebryannyy",
+   "David A Ball"
+  ],
+  "authorsShort": "Leonid A Serebryannyy et al.",
+  "firstAuthor": "Leonid A Serebryannyy",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-09",
+  "doi": "10.64898/2026.11.06.764769",
+  "url": "https://doi.org/10.64898/2026.11.06.764769",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.06.764769",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata, fetched 2026-11-10: CC BY 4.0)"
+  },
+  "whyItMatters": "In mice, a protein in the inner nuclear membrane kept lung stem-like cells from turning senescent and limited lung scarring, pointing to the nuclear envelope as a guard of genome surveillance.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Idiopathic pulmonary fibrosis is a scarring lung disease that mostly strikes older adults, and one of its drivers is senescence, an aging-linked state in which cells stop dividing and send out inflammatory signals. The cells that matter most here are alveolar type 2 (AT2) cells, which repair the lung's air sacs. Proteins in the inner membrane of the nucleus help organize the genome and take part in the response to DNA damage, but no one knew whether they affect AT2 cell senescence. This preprint links one of those proteins to DNA damage signaling, senescence and fibrosis.",
+   "did": "The authors studied SAMP1 (also called TMEM201), an inner nuclear membrane protein that binds lamin A/C, emerin and parts of the LINC complex. They used the bleomycin mouse model, in which a drug injures the lung and causes fibrosis. They deleted Samp1 only in AT2 cells, and separately delivered extra Samp1 into the airways with a viral vector (AAV6) before injury. They also examined freshly isolated AT2 cells for DNA damage and senescence markers.",
+   "found": "After bleomycin injury, SAMP1 levels fell in AT2 cells but not in lung fibroblasts. Deleting Samp1 in AT2 cells made fibrosis worse at day 21, with higher scarring scores and more expression of the inflammatory gene Tnfa and the fibrosis marker Acta2. Delivering Samp1 before injury reduced both the tissue scarring and these gene responses. In freshly isolated AT2 cells, loss of SAMP1 came with lower levels of the DNA damage response protein 53BP1, similar levels of the damage marker gammaH2AX, and higher levels of the senescence and fibrosis markers p16INK4a and PAI-1.",
+   "limits": "This is a preprint that has not been peer reviewed. The synopsis is based on the abstract only; the full text is free but was not used here. The work is in mice using a drug-injury model, which does not fully reproduce the human disease or natural lung aging. The authors themselves note that DNA damage signaling was measured only at baseline, so the data show an association with altered damage signaling and not a proven defect in repairing DNA lesions. Whether SAMP1 matters in human patients is not tested in the abstract.",
+   "terms": [
+    {
+     "term": "Alveolar type 2 cells",
+     "definition": "Cells lining the lung's air sacs that make surfactant and act as stem-like cells for repair."
+    },
+    {
+     "term": "Cellular senescence",
+     "definition": "A lasting stop in cell division, often triggered by DNA damage, in which cells release inflammatory signals."
+    },
+    {
+     "term": "Inner nuclear membrane",
+     "definition": "The inner layer of the double membrane around the nucleus, which anchors the genome and nuclear scaffold."
+    },
+    {
+     "term": "53BP1",
+     "definition": "A protein that gathers at DNA double-strand breaks and helps direct their repair."
+    },
+    {
+     "term": "gammaH2AX",
+     "definition": "A chemically modified histone that marks sites of DNA double-strand breaks."
+    },
+    {
+     "term": "p16INK4a",
+     "definition": "A cell-cycle brake protein widely used as a marker of senescence."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "biological-aging-markers-cognition-depression-hiv-preprint",
+  "group": "latest",
+  "title": "Investigating biological aging measures, neurocognitive performance, and depressive symptoms: moderating effects of HIV and childhood maltreatment (preprint)",
+  "authors": [
+   "Kabelo Mabokane Simon Maloka",
+   "Georgina Spies",
+   "Stefan du Plessis",
+   "Sian Megan Joanna Hemmings",
+   "Scott Letendre",
+   "Soraya Seedat",
+   "Jacqueline Samantha Womersley"
+  ],
+  "authorsShort": "Kabelo Mabokane Simon Maloka et al.",
+  "firstAuthor": "Kabelo Mabokane Simon Maloka",
+  "journal": "medRxiv (preprint)",
+  "pubDate": "2026-11-09",
+  "doi": "10.64898/2026.11.08.26367522",
+  "url": "https://doi.org/10.64898/2026.11.08.26367522",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.08.26367522",
+   "source": "medRxiv preprints are free to read (Crossref license metadata, fetched 2026-11-10: CC BY 4.0)"
+  },
+  "whyItMatters": "In the same 238 South African women, DNA-based aging markers that were faster with HIV did not track with thinking skills or depression.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Telomere length, mitochondrial DNA copy number and epigenetic clocks are often presented as measures of how fast the body is aging, and a key question is whether they tell us anything about how people actually function. People living with HIV have higher rates of thinking problems and depression, and childhood maltreatment may add to that risk. This group previously reported that women with HIV in their cohort showed signs of faster biological aging. This follow-up asks whether those aging markers line up with brain function and mood.",
+   "did": "According to the abstract, the study included 238 women, 122 of them living with HIV. Biological aging was measured with absolute telomere length, mitochondrial DNA copy number, an MRI-based brain-age gap, and several DNA methylation age-acceleration measures (Horvath, Hannum, PhenoAge, and intrinsic and extrinsic epigenetic age acceleration). Thinking skills were measured with a standard test battery summarized as a global deficit score, and depressive symptoms with a standard questionnaire. Regression models tested links, and whether HIV status or maltreatment severity changed them.",
+   "found": "The biological aging markers were not associated with either thinking performance or depressive symptoms. HIV combined with higher mitochondrial DNA copy number, and HIV combined with extrinsic epigenetic age acceleration, were each nominally linked to worse thinking scores, but neither result held up after correction for multiple testing. Neither HIV nor childhood maltreatment changed the relationship between the aging markers and depression. The authors conclude that, although aging looked faster in women with HIV, there was limited evidence that it relates to thinking or mood.",
+   "limits": "This is a preprint that has not been peer reviewed. The synopsis is based on the abstract only; the full text is free but was not used here. The study is cross-sectional, so it cannot show how markers and symptoms change over time, and the authors call for larger longitudinal studies. With 238 women and many markers tested, the study may have been too small to detect modest links. The women came from one South African setting, so results may not apply to other groups.",
+   "terms": [
+    {
+     "term": "Telomere length",
+     "definition": "The length of the protective caps at chromosome ends, which tends to shorten with cell division and age."
+    },
+    {
+     "term": "Mitochondrial DNA copy number",
+     "definition": "How many copies of the small mitochondrial genome a cell carries."
+    },
+    {
+     "term": "Extrinsic epigenetic age acceleration",
+     "definition": "An epigenetic aging measure that includes age-related shifts in blood immune cell makeup."
+    },
+    {
+     "term": "Global deficit score",
+     "definition": "A summary score of how far a person's results fall below normal across a battery of thinking tests."
+    },
+    {
+     "term": "Multiple testing correction",
+     "definition": "A statistical adjustment that guards against chance findings when many comparisons are made."
+    }
+   ]
+  }
  }
 ]
