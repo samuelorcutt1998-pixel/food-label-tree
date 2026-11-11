@@ -5494,5 +5494,234 @@
     }
    ]
   }
+ },
+ {
+  "slug": "zebra-finch-dna-methylation-lifespan-clock",
+  "group": "latest",
+  "title": "DNA methylation correlates with lifespan and predicts remaining lifespan in the zebra finch",
+  "authors": [
+   "Marianthi Tangili",
+   "Per J Palsbøll",
+   "Simon Verhulst"
+  ],
+  "authorsShort": "Marianthi Tangili et al.",
+  "firstAuthor": "Marianthi Tangili",
+  "journal": "GeroScience",
+  "pubDate": "2026-11-10",
+  "doi": "10.1007/s11357-026-02646-5",
+  "url": "https://doi.org/10.1007/s11357-026-02646-5",
+  "pmid": "43007612",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref metadata, fetched 2026-11-11: no open licence listed, so treated as paywalled (OpenAlex lookup failed this run)"
+  },
+  "whyItMatters": "Following 50 zebra finches until natural death, the speed at which each bird's epigenetic age rose, not a single reading, predicted how long it lived.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 2
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks estimate biological age from methyl tags on DNA, and in people, those who read 'older' than their real age tend to die sooner. A big open question is whether this link between the epigenome and lifespan is a general feature of aging across animals or something peculiar to humans and a few lab mammals. Birds are a useful test because they are distant relatives of mammals and many live long for their body size. This study is also unusual because it followed the same animals until they died of natural causes, which lets the authors ask directly whether DNA methylation predicts how much life an individual has left, rather than relying on population averages.",
+   "did": "The researchers studied 50 captive adult zebra finches, a widely used bird model, and monitored them until their natural deaths. They sequenced whole-genome DNA methylation twice per bird, giving 100 longitudinal methylomes. They looked for genome-wide trends with age and for individual CpG sites (spots on DNA that can carry a methyl tag) whose methylation changed with age. They then built an epigenetic clock to predict chronological age, and compared how far each bird's clock age sat from its real age (epigenetic age acceleration) with its early-life conditions and its lifespan. Because each bird was sampled twice, they could also measure how fast each individual's epigenetic age changed between samples. Finally, they trained a separate 'doom' clock aimed at predicting how long a bird would live after sampling.",
+   "found": "Methylation across the genome fell with age (hypomethylation), and it fell faster in birds that went on to have shorter lives. The authors identified 29 CpG sites whose methylation changed significantly with age. Their clock, based on 119 CpG sites, predicted chronological age with a median absolute deviation of 0.68 years, about 8.2% of the maximum lifespan in the dataset. Females raised in large broods, which are known to live shorter lives, showed more epigenetic age acceleration, consistent with faster biological aging. However, a single measure of age acceleration did not predict lifespan or remaining lifespan. What did predict lifespan was the within-bird rate of change: birds whose epigenetic age rose faster between samples lived shorter lives. The 'doom' clock trained on post-sampling lifespan also successfully predicted remaining lifespan. The authors describe this as the first evidence that DNA methylation offers a window into biological aging in birds.",
+   "limits": "This synopsis is based on the abstract only; the article appears to be paywalled and its full text was not used here. The study used 50 captive birds, so the sample is modest and lab conditions differ from life in the wild. Each bird had only two methylation samples, so the 'rate of change' is based on two time points. The abstract does not give the strength of the lifespan predictions or say whether the doom clock was tested on birds outside those used to train it, so how well it would work in new animals is unclear. Results in one bird species may not carry over to other birds or to mammals.",
+   "terms": [
+    {
+     "term": "DNA methylation",
+     "definition": "Small chemical tags (methyl groups) on DNA that help switch genes on or off and shift with age."
+    },
+    {
+     "term": "CpG site",
+     "definition": "A spot in DNA where a C is followed by a G; the usual place methyl tags sit."
+    },
+    {
+     "term": "Epigenetic clock",
+     "definition": "A model that estimates age from methylation at a chosen set of CpG sites."
+    },
+    {
+     "term": "Epigenetic age acceleration",
+     "definition": "How much older or younger an individual reads on a clock than its actual age."
+    },
+    {
+     "term": "Hypomethylation",
+     "definition": "A loss of methyl tags, here seen across the genome with age."
+    },
+    {
+     "term": "Longitudinal",
+     "definition": "Measuring the same individuals more than once over time."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "telomere-senescence-hepatocyte-plasticity-liver",
+  "group": "latest",
+  "title": "Senescence induces clonal failure of hepatocyte plasticity and reshapes regenerative lineages",
+  "authors": [
+   "Qiumin Zheng",
+   "Jian Chen",
+   "Xinhao Hu",
+   "Yulu Zhang",
+   "Shijie Yu",
+   "Na Sun",
+   "Qi-Yue Zhu",
+   "Bin Zhao",
+   "Xiao Xu",
+   "Shengda Lin"
+  ],
+  "authorsShort": "Qiumin Zheng et al.",
+  "firstAuthor": "Qiumin Zheng",
+  "journal": "Journal of Hepatology",
+  "pubDate": "2026-11-10",
+  "doi": "10.1016/j.jhep.2026.10.031",
+  "url": "https://doi.org/10.1016/j.jhep.2026.10.031",
+  "pmid": "43008946",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref metadata, fetched 2026-11-11: only publisher text-mining licences listed, so treated as paywalled (OpenAlex lookup failed this run)"
+  },
+  "whyItMatters": "In mice, telomere damage in liver cells did not kill them but stopped them from changing identity to repair the liver, skewing which cells rebuild it.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Telomeres are the protective caps on chromosome ends, and their wearing down is one of the classic hallmarks of aging that can push cells into senescence, a permanent stop in division. Short telomeres are common in chronic liver disease and cirrhosis, but it has not been clear how they actually cause the liver to lose function. Real aging does not shorten every telomere evenly; damage is patchy and some of it can be repaired. Most earlier models removed telomere maintenance entirely, which may not reflect what happens in people. This study set out to model more natural, patchy telomere damage and to follow what senescent liver cells actually do during repair.",
+   "did": "The researchers built a gene-editing tool, delivered by an adeno-associated virus (AAV) and using CRISPR, that makes repairable breaks at telomeres in mouse hepatocytes (the main liver cells) while leaving the cells' own telomere maintenance intact. They then caused chronic liver injury and tracked what happened using clonal analysis, lineage tracing (labelling cells to follow their descendants) and single-nucleus RNA sequencing. They examined human cirrhotic liver samples to see whether hepatocyte telomere length related to in-between cell states. Finally, they ran a CRISPR screen in living mice to find genes that control how flexible hepatocytes are under telomere stress.",
+   "found": "Senescence caused by telomere damage did not substantially reduce hepatocyte survival or their basic metabolic work. Instead, it caused a clonal imbalance, in which some groups of cells were favoured over others, and this was shaped by whether cells expressed telomerase, the enzyme that rebuilds telomeres. During chronic injury, healthy hepatocytes can convert toward bile duct-like cells to help repair the liver. Senescent hepatocytes did this poorly: fewer entered the dedifferentiated state, and they did not fully switch on the ductal program. This incomplete transition disrupted the mix of liver lining cells and worsened the ductular reaction, a scarring-linked response. In human cirrhotic livers, better-preserved telomeres went along with hepatocytes in a two-way (bipotent) state. The CRISPR screen identified regulators of hepatocyte dedifferentiation under telomere stress; the abstract does not name them. The authors conclude that senescence acts as a barrier to balanced repair rather than a direct cause of cell loss.",
+   "limits": "This synopsis is based on the abstract only; the article is paywalled and its full text was not used here. The main experiments are in mice with telomere breaks made by gene editing, which mimics but is not the same as natural, decades-long telomere shortening in people. The human data come from cirrhotic livers and show an association, not cause and effect. The abstract does not give effect sizes, sample sizes, or the names of the genes found in the screen, so the strength of these findings cannot be judged from it.",
+   "terms": [
+    {
+     "term": "Telomere",
+     "definition": "The protective cap at each chromosome end, which shortens and can be damaged with age."
+    },
+    {
+     "term": "Cellular senescence",
+     "definition": "A lasting stop in cell division, often triggered by DNA or telomere damage."
+    },
+    {
+     "term": "Hepatocyte",
+     "definition": "The main working cell of the liver."
+    },
+    {
+     "term": "Ductular reaction",
+     "definition": "Growth of bile duct-like cells during chronic liver injury, linked to scarring."
+    },
+    {
+     "term": "Lineage tracing",
+     "definition": "Labelling cells so that all of their descendants can be followed over time."
+    },
+    {
+     "term": "Telomerase",
+     "definition": "The enzyme that can rebuild telomeres."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "idmage-exposures-epigenetic-age-acceleration",
+  "group": "latest",
+  "title": "Analysis of exposures linked to age acceleration using epigenetic and biological clocks",
+  "authors": [
+   "Yue Ma",
+   "Yaming Jiu",
+   "Wakam Chang"
+  ],
+  "authorsShort": "Yue Ma et al.",
+  "firstAuthor": "Yue Ma",
+  "journal": "Experimental Gerontology",
+  "pubDate": "2026-11-10",
+  "doi": "10.1016/j.exger.2026.113384",
+  "url": "https://doi.org/10.1016/j.exger.2026.113384",
+  "pmid": "43009108",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1016/j.exger.2026.113384",
+   "source": "Crossref license metadata, fetched 2026-11-11: CC BY-NC-ND 4.0 (OpenAlex lookup failed this run)"
+  },
+  "whyItMatters": "Combining ten DNA methylation clocks into one mortality-trained score, a scan of 102 exposures in US adults pointed to blood glucose as a likely driver of faster aging.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Many epigenetic clocks now exist, each estimating biological age from DNA methylation in a slightly different way, and they do not always agree. That makes it hard to say which everyday factors, such as diet, smoking or blood sugar, truly speed up or slow down aging. Combining clocks into a single, better-calibrated score and testing many exposures at once could help sort real signals from noise. Finding exposures that are causally linked to faster epigenetic aging matters because they could become targets for prevention.",
+   "did": "The authors built a combined aging score called IDMAge by integrating ten established DNA methylation clocks and training it against mortality. They applied it to data from NHANES, a large US health survey. Using an exposome-wide association analysis plus elastic net regression (a method that picks out the most informative variables from many), they tested links between IDMAge and 102 exposures, including blood measures and behaviours. To probe cause and effect, they used Mendelian randomization, which uses genetic variants from genome-wide association studies as natural experiments, together with other epigenetic clocks. They checked dose-response shapes with spline models and looked for similar patterns in two other cohorts, CHARLS (China) and HRS (US), using a different measure of physiological aging.",
+   "found": "IDMAge outperformed the individual clocks. It correlated strongly with chronological age and was associated with higher mortality risk, shorter survival and higher risk of conditions such as heart disease. Of the 102 exposures, 22 were significantly associated with IDMAge, including glucose levels and smoking. Glucose stood out: it was associated with aging-related outcomes, and Mendelian randomization gave indirect support for this link. Similar associations appeared in CHARLS and HRS using the separate physiological-aging measure, which the authors describe as supportive cross-cohort evidence.",
+   "limits": "This synopsis is based on the abstract only; the article is open access, but its full text was not used here. The authors themselves say that neither Mendelian randomization nor the cross-cohort checks provided direct validation, so the role of glucose is described as potential, not proven. NHANES is cross-sectional, which limits conclusions about cause. The replication cohorts used a different aging measure rather than IDMAge itself. The abstract does not report effect sizes, so how much glucose or smoking shifts epigenetic age cannot be judged from it.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A model that estimates biological age from patterns of DNA methylation."
+    },
+    {
+     "term": "Exposome",
+     "definition": "The full set of environmental, behavioural and biological exposures a person experiences."
+    },
+    {
+     "term": "Elastic net regression",
+     "definition": "A statistical method that selects the most useful predictors from many candidates."
+    },
+    {
+     "term": "Mendelian randomization",
+     "definition": "A method that uses inherited genetic variants to test whether an exposure may cause an outcome."
+    },
+    {
+     "term": "NHANES",
+     "definition": "The US National Health and Nutrition Examination Survey, a large national health study."
+    },
+    {
+     "term": "Age acceleration",
+     "definition": "Being biologically older than expected for one's actual age."
+    }
+   ]
+  }
  }
 ]
