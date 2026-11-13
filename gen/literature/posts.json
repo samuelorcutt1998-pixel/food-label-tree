@@ -5723,5 +5723,375 @@
     }
    ]
   }
+ },
+ {
+  "slug": "youthful-circulation-dna-methylation-blood-liver",
+  "group": "latest",
+  "title": "Youthful circulation reshapes age-associated DNA methylation across blood and liver",
+  "authors": [
+   "Igor Kovalchuk",
+   "Olga Kovalchuk"
+  ],
+  "authorsShort": "Igor Kovalchuk et al.",
+  "firstAuthor": "Igor Kovalchuk",
+  "journal": "The Journals of Gerontology, Series A",
+  "pubDate": "2026-11-12",
+  "doi": "10.1093/gerona/glag258",
+  "url": "https://doi.org/10.1093/gerona/glag258",
+  "pmid": "43016321",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1093/gerona/glag258",
+   "source": "Crossref license metadata, fetched 2026-11-13: CC BY 4.0 (OpenAlex lookup failed this run)"
+  },
+  "whyItMatters": "Re-analysing a mouse parabiosis study, the authors find that sharing a young blood supply pushes tens of thousands of age-linked DNA methylation sites back toward a younger state in both blood and liver, and many stay reversed two months later.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 3
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks read age from methyl tags on DNA, and earlier work showed that joining an old mouse to a young one for a long time (heterochronic parabiosis) lowers the old animal's DNA methylation age. That is one of the clearest signs that epigenetic aging can be pushed backward. What was not clear is how this reversal is laid out across the genome, whether different tissues respond at the same spots, and whether the effect lasts once the young blood supply is removed. Those details matter for judging whether blood-borne factors could ever be a real rejuvenation strategy, and for understanding what an epigenetic clock is actually measuring when it 'goes backward'.",
+   "did": "The authors did not run a new animal experiment. They re-analysed processed methylation data (reduced-representation bisulfite sequencing, a method that reads methylation at many CpG sites) from 78 blood and liver samples in a previously published prolonged-parabiosis study. They kept just over one million CpG sites that were well covered in every sample. For each site they measured how methylation changes with normal aging and how it changes after parabiosis, and called a site 'reversed' when parabiosis moved it in the opposite direction to aging by a set amount (a 10-percentage-point threshold as the main cut-off). They checked whether the same exact sites were reversed in both tissues and whether reversal persisted after the mice were separated. They used statistical null models that respect chromosome structure to test whether overlaps and gene-level patterns were more than chance.",
+   "found": "Parabiosis-linked methylation changes ran against normal aging in both blood and liver, including in comparisons designed to avoid relying on one shared reference group. Right after parabiosis, about 22,400 blood sites and 22,300 liver sites were reversed, with 1,792 shared at identical positions. Two months after separation, about 25,900 blood and 15,400 liver sites were reversed, with 1,387 shared. A core of 64 sites was reversed in both tissues at both time points. Reversed sites were less common in gene promoters and CpG islands and more common inside gene bodies and in 'open-sea' regions away from islands. Tissue-specific reversed sites showed a modest tendency to fall near the same genes, but tests for convergence on promoters, gene bodies or biological pathways did not hold up under stricter null models.",
+   "limits": "This synopsis is based on the abstract only, although the article is open access. The work is a secondary analysis of one earlier mouse experiment, so it inherits that study's design and sample size and cannot test new conditions. Parabiosis is a surgical model that shares far more than blood factors, so it does not identify which components drive the effect. The method samples only part of the genome. The 'reversed' counts depend on the chosen threshold. The abstract does not show whether these methylation changes alter gene activity or health, and mouse results may not apply to people.",
+   "terms": [
+    {
+     "term": "Heterochronic parabiosis",
+     "definition": "Surgically joining an old and a young animal so they share a circulation."
+    },
+    {
+     "term": "DNA methylation age",
+     "definition": "An age estimate calculated from methyl tags at selected DNA sites."
+    },
+    {
+     "term": "CpG site",
+     "definition": "A spot in DNA where C is followed by G; the usual place methyl tags sit."
+    },
+    {
+     "term": "CpG island",
+     "definition": "A stretch of DNA dense in CpG sites, often near gene starts (promoters)."
+    },
+    {
+     "term": "Open sea",
+     "definition": "Parts of the genome far from CpG islands."
+    },
+    {
+     "term": "Null model",
+     "definition": "A statistical baseline describing what overlap would look like by chance."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "dna-damage-inflammation-ageing-review",
+  "group": "latest",
+  "title": "When genomes burn: how DNA damage ignites inflammation and fuels ageing",
+  "authors": [
+   "Emmanouil Theodorakis",
+   "George A Garinis"
+  ],
+  "authorsShort": "Emmanouil Theodorakis et al.",
+  "firstAuthor": "Emmanouil Theodorakis",
+  "journal": "Philosophical Transactions of the Royal Society B",
+  "pubDate": "2026-11-12",
+  "doi": "10.1098/rstb.2025.0337",
+  "url": "https://doi.org/10.1098/rstb.2025.0337",
+  "pmid": "43017736",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1098/rstb.2025.0337",
+   "source": "Crossref license metadata, fetched 2026-11-13: CC BY 4.0 (OpenAlex lookup failed this run)"
+  },
+  "whyItMatters": "A review arguing that DNA damage and chronic inflammation are two sides of one self-reinforcing loop, and that aging is what happens when short-term repair and defence alarms never switch off.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Two of the best-known hallmarks of aging are genome instability (DNA damage that builds up and is repaired less well) and 'inflammaging', the low-grade inflammation common in older people. They are often studied separately. This review, from a group that works on DNA repair and aging in mice, argues they are mechanistically inseparable. If that is right, treatments aimed at only one side may fall short, and breaking the link between them could be a more effective way to protect tissues as we age.",
+   "did": "This is a review and synthesis, not a new experiment. The authors pull together evidence from research on genome maintenance, innate immunity and metabolism. They draw on human syndromes caused by faulty DNA repair, which often look like accelerated aging, and on genetically engineered mice with repair defects. They use this to build a single framework and then discuss its evolutionary meaning, its relevance to disease, and possible therapies. The article is part of a themed issue on 'Developmental circuits in ageing'.",
+   "found": "The review describes how persistent DNA damage, faulty repair and 'transcriptional stress' (damage that gets in the way of reading genes) switch on inflammatory signalling. This happens both through the standard DNA damage response and through innate immune sensors that detect the cell's own DNA or RNA in the wrong place, for example outside the nucleus. Inflammation then feeds back: inflammatory signals, metabolic stress and reactive oxygen and nitrogen molecules cause fresh DNA damage and weaken repair, closing a self-reinforcing loop. Evidence from repair-deficient humans and mice suggests that chronic activation of the damage response reshapes metabolism, hormone signalling, mitochondrial function and immune surveillance well before tissues visibly break down. The authors highlight newer findings on damage-response activity outside the nucleus, RNA-based danger signals and organelle dysfunction as amplifiers of this loop. Their central proposal is that aging emerges when stress circuits that evolved for brief repair and defence keep running chronically. They also discuss therapies meant to interrupt the damage and inflammation axis.",
+   "limits": "This synopsis is based on the abstract only, although the article is open access. As a review it proposes a framework rather than testing it, and the abstract does not say how studies were chosen, so the selection may favour supporting evidence. Much of the evidence comes from rare repair-defect syndromes and engineered mice, which may exaggerate how important this loop is in normal human aging. The abstract does not name specific therapies or report results from treating people.",
+   "terms": [
+    {
+     "term": "Genome instability",
+     "definition": "A tendency for DNA damage and mutations to build up in cells."
+    },
+    {
+     "term": "Inflammaging",
+     "definition": "Chronic, low-grade inflammation that rises with age."
+    },
+    {
+     "term": "DNA damage response (DDR)",
+     "definition": "The cell's network for sensing DNA damage, pausing growth and calling in repair."
+    },
+    {
+     "term": "Innate immune sensing",
+     "definition": "Built-in detectors that sound an alarm when DNA or RNA turns up in the wrong place."
+    },
+    {
+     "term": "Transcriptional stress",
+     "definition": "Damage that blocks the machinery that reads genes."
+    },
+    {
+     "term": "Reactive oxygen species",
+     "definition": "Unstable oxygen-containing molecules that can damage DNA."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "tet2-dnmt3a-clonal-hematopoiesis-breast-cancer-aging-preprint",
+  "group": "latest",
+  "title": "Tet2-clonal hematopoiesis promotes whereas Dnmt3a-CH inhibits breast cancer progression during aging",
+  "authors": [
+   "Nagihan G Gonullu",
+   "Karolina A Zielinska",
+   "Jonas Fullin",
+   "Francesco Prisco",
+   "Steffen Boettcher",
+   "Francisco Caiado",
+   "Markus G Manz"
+  ],
+  "authorsShort": "Nagihan G Gonullu et al.",
+  "firstAuthor": "Nagihan G Gonullu",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-12",
+  "doi": "10.64898/2026.11.09.765294",
+  "url": "https://doi.org/10.64898/2026.11.09.765294",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.09.765294",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata, fetched 2026-11-13: CC BY-ND 4.0)"
+  },
+  "whyItMatters": "In aged mice, blood cells carrying two common age-related mutations had opposite effects on breast tumours: Tet2-mutant clones helped tumours grow, while Dnmt3a-mutant clones helped the immune system reject them.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "As people age, some blood stem cells pick up mutations that let them outgrow their neighbours, a condition called clonal hematopoiesis of indeterminate potential (CHIP). It is one of the clearest ways somatic mutation, meaning DNA changes acquired during life, shows up in ordinary aging. CHIP has been linked to worse outcomes in people with cancer, but it is unclear whether mutant blood cells actually change how solid tumours behave. The two most common CHIP genes, DNMT3A and TET2, are often treated as one risk category. If they act differently, that matters for how CHIP is interpreted in cancer patients.",
+   "did": "The researchers used mice in which a Dnmt3a or a Tet2 mutation could be switched on in blood cells, mimicking CHIP. They let the mice age and then implanted breast tumours into the mammary tissue, using tumour cells from the same mouse strain so the immune system was intact. They tracked tumour growth and studied the immune cells inside the tumours, especially tumour-associated macrophages and CD8+ T cells. They then treated aged Tet2-mutant mice with drugs blocking the IL-1 receptor (IL-1R1) or the CXCR2 receptor to see whether that slowed tumour growth.",
+   "found": "In aged mice, Dnmt3a-mutant CHIP held back breast cancer progression, whereas Tet2-mutant CHIP pushed it forward. With Dnmt3a-mutant immune cells, tumour macrophages took on an interferon-driven state with high levels of MHCII, a molecule used to show antigens to T cells, and supported cytotoxic CD8+ T cells in rejecting the tumour. With Tet2-mutant immune cells, tumour macrophages were inflammatory and immunosuppressive: they made more IL-1 and CXCL2, showed less MHCII, and T cells were recruited and activated less well. Blocking IL-1R1 or CXCR2 reduced tumour progression in aged Tet2-mutant CHIP mice and partly restored anti-tumour immunity. The authors conclude that CHIP's effects on cancer depend on both the mutated gene and age.",
+   "limits": "This is a preprint that has not yet been peer reviewed, and this synopsis is based on the abstract only. All findings are from mice with engineered mutations and transplanted tumours, which may not match how CHIP and breast cancer interact in people. The abstract gives no group sizes or effect sizes. It covers one tumour type, so it is unknown whether the opposite effects apply to other cancers. The blocking treatments were tested only in mice.",
+   "terms": [
+    {
+     "term": "Clonal hematopoiesis (CHIP)",
+     "definition": "An age-related expansion of blood cells descended from one stem cell with a mutation."
+    },
+    {
+     "term": "Somatic mutation",
+     "definition": "A DNA change acquired during life, not inherited."
+    },
+    {
+     "term": "DNMT3A and TET2",
+     "definition": "Genes that add and remove DNA methylation; the most common CHIP genes."
+    },
+    {
+     "term": "Tumour-associated macrophage",
+     "definition": "An immune cell inside a tumour that can either help or hinder it."
+    },
+    {
+     "term": "MHCII",
+     "definition": "A surface molecule that shows protein fragments to T cells."
+    },
+    {
+     "term": "IL-1 and CXCL2",
+     "definition": "Inflammatory signalling molecules that recruit and activate immune cells."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "chip-intervertebral-disc-degeneration-uk-biobank",
+  "group": "latest",
+  "title": "Clonal hematopoiesis of indeterminate potential and risk of intervertebral disc degeneration: a large prospective cohort study",
+  "authors": [
+   "Qijun Wang",
+   "Xuan Zhao",
+   "Shibao Lu"
+  ],
+  "authorsShort": "Qijun Wang et al.",
+  "firstAuthor": "Qijun Wang",
+  "journal": "Journal of Orthopaedic Surgery and Research",
+  "pubDate": "2026-11-11",
+  "doi": "10.1186/s13018-026-07383-1",
+  "url": "https://doi.org/10.1186/s13018-026-07383-1",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1186/s13018-026-07383-1",
+   "source": "Crossref license metadata, fetched 2026-11-13: CC BY-NC-ND 4.0 (OpenAlex lookup failed this run)"
+  },
+  "whyItMatters": "In about 259,000 UK Biobank adults, carrying age-related blood-cell mutations was linked to a roughly 15% higher risk of later disc degeneration, mostly in the lower back.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Clonal hematopoiesis of indeterminate potential (CHIP) is a common result of aging: blood stem cells pick up mutations and expand into large clones. It is increasingly seen as a source of whole-body inflammation and has been tied to heart disease and other age-related conditions. Back and neck pain from worn spinal discs is one of the most common problems of aging, and inflammation is thought to play a part. This study asks whether somatic mutations in blood cells might be one of the hidden contributors to disc degeneration.",
+   "did": "The authors used data from 258,566 UK Biobank participants who had exome sequencing (reading the protein-coding parts of their genes), which can detect CHIP, and complete information on other health factors. They followed them over time for new diagnoses of intervertebral disc degeneration, identified from coded clinical records, and looked separately at the neck (cervical) and lower back (lumbar). Cox proportional hazards models, adjusted to three different degrees, estimated risk. They also ran exploratory analyses for individual CHIP genes and tested whether blood markers of inflammation might explain part of the link.",
+   "found": "8,113 participants (3.14%) carried CHIP. After full adjustment, any CHIP, defined as a mutant clone making up at least 2% of blood cells, was linked to a higher risk of new disc degeneration (hazard ratio 1.153, 95% CI 1.030 to 1.300). Larger clones of at least 10% carried a similar increase (hazard ratio 1.162, 95% CI 1.010 to 1.340). Exploratory gene-level analyses suggested that mutations in SRSF2, STAG2, GNAS, IDH2 and BRAF may be tied to higher risk. Inflammation markers, namely the systemic immune-inflammation index, white cell count and neutrophil count, appeared to explain only a small share of the link, between 2.15% and 4.41%. Lumbar disc degeneration showed a similar association, but the association for the neck was not statistically significant.",
+   "limits": "This synopsis is based on the abstract only, although the article is open access. The study is observational, so it shows an association, not proof that CHIP causes disc damage, and unmeasured factors could play a role. The increase in risk is modest. Disc degeneration was taken from diagnosis codes, which miss people who never sought care and do not capture severity. UK Biobank volunteers tend to be healthier than the general population. The gene-level results are exploratory and based on small numbers of carriers, and the inflammation markers explain little of the link.",
+   "terms": [
+    {
+     "term": "CHIP",
+     "definition": "An age-related expansion of blood cells descended from one stem cell with a mutation."
+    },
+    {
+     "term": "Variant allele fraction (VAF)",
+     "definition": "The share of DNA reads carrying the mutation; a rough measure of clone size."
+    },
+    {
+     "term": "Intervertebral disc degeneration",
+     "definition": "Wear and breakdown of the cushioning discs between the bones of the spine."
+    },
+    {
+     "term": "Hazard ratio",
+     "definition": "How much more often an outcome occurs over time in one group than another; 1.15 means about 15% more."
+    },
+    {
+     "term": "Exome sequencing",
+     "definition": "Reading the protein-coding parts of all genes."
+    },
+    {
+     "term": "Mediation analysis",
+     "definition": "A statistical test of how much of a link runs through a third factor."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "pace-of-epigenetic-aging-in-mammals-review",
+  "group": "latest",
+  "title": "Setting the pace of epigenetic aging in mammals: a hierarchy from species to individual",
+  "authors": [
+   "Timothy A Hore"
+  ],
+  "authorsShort": "Timothy A Hore",
+  "firstAuthor": "Timothy A Hore",
+  "journal": "Annual Review of Animal Biosciences",
+  "pubDate": "2026-11-12",
+  "doi": "10.1146/annurev-animal-031325-031942",
+  "url": "https://doi.org/10.1146/annurev-animal-031325-031942",
+  "pmid": "43019465",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref metadata, fetched 2026-11-13: no open licence listed, so treated as paywalled (OpenAlex lookup failed this run)"
+  },
+  "whyItMatters": "A review proposing that developmental tempo sets each mammal species' epigenetic aging rate, while diet, body temperature, hormones and environment tune it within an individual.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks, which estimate age from DNA methylation, now work across many mammal species, from mice to whales. That raises a basic question: what sets how fast the clock ticks? Why does a mouse's epigenome age so much faster than an elephant's, and why do some individuals of the same species age faster than others? Answering this could reveal which biological levers actually control the pace of aging, and has practical uses in farming and wildlife conservation, where knowing an animal's age is valuable.",
+   "did": "This is a review, not a new experiment. The author brings together comparative studies across mammal species and experimental work within species, and organizes them into a proposed hierarchy: factors at the species level that set the built-in aging rate and lifespan, and factors at the individual level that speed up or slow down epigenetic aging within a species. The review also discusses applications in livestock and wildlife management.",
+   "found": "According to the review, comparisons across species show that developmental tempo, meaning how fast an animal grows and matures, rather than body size, anchors differences in epigenetic aging rate between species. Within species, caloric restriction and other changes to the insulin-like growth factor 1 (IGF-1) nutrient-sensing pathway alter how fast the epigenetic clock runs. Studies of torpor, the temporary drop in body temperature and activity some animals use to save energy, suggest that body temperature, not metabolic rate itself, acts as the pacemaker. Sex hormones, reproduction, social environment and ecology also contribute. The author argues that epigenetic clocks are more than a yardstick for time: they expose the layered biology that sets the pace of aging in mammals.",
+   "limits": "This synopsis is based on the abstract only; the article appears to be paywalled and its full text was not used here. As a single-author review it offers a proposed framework and interpretation rather than new data, and the abstract does not say how the evidence was selected. The abstract gives no numbers, so the strength of each claimed effect cannot be judged here. Some conclusions, such as body temperature acting as a pacemaker, are described as suggested by torpor models rather than proven. How well these patterns apply to humans is not addressed in the abstract.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A model that estimates age from methyl tags at a set of DNA sites."
+    },
+    {
+     "term": "Developmental tempo",
+     "definition": "How quickly an animal grows and reaches maturity."
+    },
+    {
+     "term": "Caloric restriction",
+     "definition": "Eating fewer calories without malnutrition, a classic way to extend lifespan in animals."
+    },
+    {
+     "term": "IGF-1 axis",
+     "definition": "A hormone pathway that senses nutrients and controls growth."
+    },
+    {
+     "term": "Torpor",
+     "definition": "A short-term, controlled drop in body temperature and metabolism to save energy."
+    },
+    {
+     "term": "Epigenetic aging rate",
+     "definition": "How fast an individual's methylation-based age rises compared with calendar time."
+    }
+   ]
+  }
  }
 ]
