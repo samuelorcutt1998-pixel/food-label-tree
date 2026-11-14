@@ -6093,5 +6093,383 @@
     }
    ]
   }
+ },
+ {
+  "slug": "aging-stem-cells-somatic-mosaicism-malignancy-review",
+  "group": "latest",
+  "title": "Aging Stem Cells and Somatic Mosaicism as a Precursor to Malignant Transformation",
+  "authors": [
+   "James L. Miller",
+   "Jennifer J. Trowbridge"
+  ],
+  "authorsShort": "James L. Miller et al.",
+  "firstAuthor": "James L. Miller",
+  "journal": "Annual Review of Cancer Biology",
+  "pubDate": "2026-11-12",
+  "doi": "10.1146/annurev-cancerbio-062325-061617",
+  "url": "https://doi.org/10.1146/annurev-cancerbio-062325-061617",
+  "pmid": null,
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "OpenAlex open_access, fetched 2026-11-14: oa_status closed; Crossref lists no open licence"
+  },
+  "whyItMatters": "A review tying together how aging stem cells collect mutations and epigenetic changes, how mutant clones such as clonal hematopoiesis take over tissues, and how that sets the stage for cancer.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 2
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Cancer is overwhelmingly a disease of older age, and one reason is that the adult stem cells that keep our tissues renewed slowly change as we get older. They pick up DNA mutations, their epigenetic marks drift, their telomeres shorten and their metabolism shifts. At the same time, the tissue around them (the 'niche') changes too. A key consequence is somatic mosaicism: our bodies gradually become patchworks of cell clones that carry different acquired mutations. The best-known example is clonal hematopoiesis, where blood stem cells with certain mutations outgrow their neighbours. Understanding how these changes connect matters for knowing who is at higher cancer risk and whether we could step in before a tumour forms.",
+   "did": "This is a review, not a new experiment. The authors, who work on stem cell aging and blood cancers, synthesise the published literature on how adult stem cells age and how that links to malignant transformation, meaning the shift from a normal cell to a cancer cell. They organise the evidence into changes inside stem cells and changes in their surroundings, then discuss somatic mosaicism and its clinical meaning.",
+   "found": "The review describes stem cell aging and cancer as linked through a positive feedback loop. Inside the cell, the age-related changes it covers are epigenetic drift, genomic instability, altered telomere dynamics and rewired metabolism. Outside the cell, it covers remodelling of the extracellular matrix (the scaffolding between cells), shifts in the signals neighbouring cells send, and inflammaging, the chronic low-grade inflammation of older age. According to the authors, these internal and external changes converge to create tissue niches that are permissive for abnormal clones. Over time this pushes stem cells away from a quiet, tightly controlled state toward dysregulated, mutation-enriched states that lose 'lineage fidelity', meaning they no longer reliably make the right kinds of mature cells. The review then discusses how somatic mosaicism arises and what it means for cancer risk, with clonal hematopoiesis as the leading example. Finally, it highlights existing and possible 'interception' strategies: ways to limit the expansion of risky clones, improve risk assessment and disrupt cancer development across different human tissues.",
+   "limits": "This synopsis is based on the abstract only, because the article is paywalled. As a review it summarises and interprets existing studies rather than testing a new idea, and the abstract does not say how studies were chosen. It does not name specific interception treatments or report how well any of them work. Most people with clonal hematopoiesis or other mutant clones never develop cancer, so having such clones is a risk marker, not a diagnosis.",
+   "terms": [
+    {
+     "term": "Somatic mosaicism",
+     "definition": "The body becoming a mix of cell groups that carry different mutations acquired during life."
+    },
+    {
+     "term": "Clonal hematopoiesis",
+     "definition": "An age-related expansion of blood cells descended from one mutated stem cell."
+    },
+    {
+     "term": "Epigenetic drift",
+     "definition": "Gradual, partly random changes in DNA methylation and other marks with age."
+    },
+    {
+     "term": "Stem cell niche",
+     "definition": "The local environment that supports and controls a stem cell."
+    },
+    {
+     "term": "Lineage fidelity",
+     "definition": "A stem cell's ability to keep producing the correct types of mature cells."
+    },
+    {
+     "term": "Inflammaging",
+     "definition": "Chronic, low-grade inflammation that rises with age."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "exercise-fasting-telomere-mtdna-rat-brain",
+  "group": "latest",
+  "title": "Effects of High- and Moderate-Intensity Aerobic Exercise Training and Intermittent Fasting on Relative Changes in Telomere Length and Mitochondrial DNA Copy Number in the Rat Brain",
+  "authors": [
+   "Maryam Faghani",
+   "Sareh Arjmand",
+   "Rana Fayazmilani",
+   "Mahnam Yousefi"
+  ],
+  "authorsShort": "Maryam Faghani et al.",
+  "firstAuthor": "Maryam Faghani",
+  "journal": "The FASEB Journal",
+  "pubDate": "2026-11-14",
+  "doi": "10.1096/fj.202603542rr",
+  "url": "https://doi.org/10.1096/fj.202603542rr",
+  "pmid": "43031479",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "OpenAlex had no record yet, fetched 2026-11-14; Crossref lists only Wiley text-and-data-mining terms (no open licence), so treated as paywalled"
+  },
+  "whyItMatters": "In young rats, eight weeks of moderate steady cardio or 16:8 time-restricted eating kept brain telomeres longer than in sedentary rats, while high-intensity intervals did not.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "The brain uses a lot of energy, which makes it vulnerable to oxidative stress and damage to its DNA, both considered drivers of aging. Telomeres, the protective caps on chromosome ends, and mitochondrial DNA (mtDNA) copy number, roughly how many copies of the mitochondria's own small genome a cell carries, are two common readouts of this genomic wear. Exercise and fasting are widely promoted as ways to slow aging, but their separate and combined effects on these markers in brain tissue are poorly understood. This study is a small, direct test in animals of two common exercise styles and a popular fasting schedule.",
+   "did": "Young male Wistar rats (6 per group) spent 8 weeks in one of several conditions: moderate-intensity continuous training (MICT, steady running), high-intensity interval training (HIIT), or no exercise, each combined with either a normal diet or intermittent fasting as 16:8 time-restricted feeding (food available for 8 hours a day). Afterwards the researchers measured relative telomere length and relative mtDNA copy number in whole-brain tissue using real-time PCR. They also tracked running performance and body weight to confirm the interventions worked.",
+   "found": "Both exercise programmes improved running performance in rats on a normal diet, and intermittent fasting reduced body weight gain. Moderate continuous training preserved telomere length compared with sedentary rats, both within the normal-diet groups (p = 0.029) and as an overall main effect (p = 0.026). HIIT had no significant effect on telomere length. Intermittent fasting was a strong independent factor for telomere preservation (p = 0.009), whichever exercise type the rats did. There were no significant differences in mtDNA copy number between conditions. An exploratory analysis found a correlation between mtDNA copy number and the telomere measure under fasting (r = 0.66, p = 0.004) that was absent under normal feeding, which the authors read as a possible metabolic link. They conclude that moderate exercise and time-restricted feeding may help preserve genomic integrity in brain tissue.",
+   "limits": "This synopsis is based on the abstract only, because the article is paywalled. The groups were very small (6 rats each), the animals were young males only, and the study lasted just 8 weeks, so it says little about aging itself or about females. Measurements were made on whole-brain homogenates, which mix many cell types and brain regions. Telomere length by PCR is a relative estimate with known measurement noise. The mtDNA-telomere correlation was exploratory. Results in rats may not translate to people.",
+   "terms": [
+    {
+     "term": "Telomere",
+     "definition": "A protective cap of repeated DNA at each chromosome end that tends to shorten with age."
+    },
+    {
+     "term": "Mitochondrial DNA copy number",
+     "definition": "How many copies of the mitochondria's own genome a cell holds."
+    },
+    {
+     "term": "MICT",
+     "definition": "Moderate-intensity continuous training: steady, sustained aerobic exercise."
+    },
+    {
+     "term": "HIIT",
+     "definition": "High-intensity interval training: short hard efforts with recovery breaks."
+    },
+    {
+     "term": "Time-restricted feeding (16:8)",
+     "definition": "Eating only within an 8-hour window each day."
+    },
+    {
+     "term": "Real-time PCR",
+     "definition": "A lab method that measures how much of a DNA sequence is present."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "environmental-chemicals-grimage-acceleration-preprint",
+  "group": "latest",
+  "title": "Environmental Chemical Exposures and Accelerated Epigenetic Aging: Links to Metabolic and Age-Related Health Outcomes",
+  "authors": [
+   "Hyeongyu Shin",
+   "Jeeyoung Kim",
+   "Euikyoung Song",
+   "Nam-Eun Kim",
+   "Min Heo",
+   "Youngwoong Kim",
+   "Jeongmin Oh",
+   "Yong Min Cho",
+   "Young-Seoub Hong",
+   "Woo Jin Kim",
+   "Sungho Won"
+  ],
+  "authorsShort": "Hyeongyu Shin et al.",
+  "firstAuthor": "Hyeongyu Shin",
+  "journal": "medRxiv (preprint)",
+  "pubDate": "2026-11-12",
+  "doi": "10.64898/2026.11.10.26367792",
+  "url": "https://doi.org/10.64898/2026.11.10.26367792",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.10.26367792",
+   "source": "medRxiv preprints are free to read (Crossref license metadata, fetched 2026-11-14: CC BY-NC 4.0)"
+  },
+  "whyItMatters": "In 666 older Korean adults, higher exposure to certain combustion by-products, cadmium and a solvent marker went with a faster GrimAge epigenetic clock, which in turn tracked with a liver enzyme.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks estimate biological age from methyl tags on DNA, and GrimAge is one of the versions most strongly linked to disease and death. If everyday chemical exposures speed up these clocks, that would point to a concrete pathway by which pollution could accelerate aging, and to exposures people might reduce. Most earlier work looked at single chemicals; real life involves mixtures.",
+   "did": "The researchers studied 666 older adults in the FROM cohort in South Korea, which focuses on people living in environmentally vulnerable areas. They measured 13 exposures, including heavy metals, polycyclic aromatic hydrocarbons (PAHs, by-products of burning fuel, tobacco and food) and volatile organic compounds (VOCs), and calculated several epigenetic aging measures from blood. They tested each exposure separately, then the mixture using quantile g-computation and Bayesian kernel machine regression, two methods for chemical mixtures. They linked clock acceleration to clinical blood traits, used two-sample Mendelian randomization (a genetics-based method to probe cause and effect) and ran mediation and exploratory disease analyses.",
+   "found": "GrimAge acceleration showed the clearest associations. Four exposures were significantly linked to faster GrimAge: the PAH breakdown products 2-hydroxyfluorene and 2-naphthol, blood cadmium, and methylhippuric acid (a marker of xylene, a solvent). The strongest was 2-hydroxyfluorene, at about 0.49 years of GrimAge acceleration per doubling of exposure. The combined mixture was also linked to faster GrimAge (about 0.50, with a confidence interval running from 0.01 to 0.98), with the two PAH markers as the main contributors. Among clinical traits, white blood cell count and the liver enzyme GGT rose with GrimAge acceleration, and Mendelian randomization gave nominal support for GrimAge acceleration raising GGT. Part of the link between the four exposures and GGT ran through GrimAge acceleration. Exploratory analyses suggested possible links with diabetic kidney disease and osteoporosis, and an inverse link with heart valve disease.",
+   "limits": "This is a preprint that has not been peer reviewed, and this synopsis is based on the abstract only. The study is observational and, as far as the abstract shows, measured at one time point, so it shows associations, not proof that the chemicals cause faster aging. The mixture result only just reached significance. The Mendelian randomization support was described as nominal, and the disease analyses were exploratory. The cohort is from specific Korean communities and may not generalise.",
+   "terms": [
+    {
+     "term": "GrimAge",
+     "definition": "An epigenetic clock built to predict lifespan and disease risk from DNA methylation."
+    },
+    {
+     "term": "Age acceleration",
+     "definition": "How much older a clock says someone is compared with their actual age."
+    },
+    {
+     "term": "PAHs",
+     "definition": "Polycyclic aromatic hydrocarbons, chemicals formed when fuel, tobacco or food is burned."
+    },
+    {
+     "term": "Quantile g-computation",
+     "definition": "A statistical method for estimating the combined effect of a chemical mixture."
+    },
+    {
+     "term": "Mendelian randomization",
+     "definition": "Using genetic variants as natural experiments to probe cause and effect."
+    },
+    {
+     "term": "GGT",
+     "definition": "Gamma-glutamyl transferase, a liver enzyme measured in blood tests."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "inbreeding-telomere-dynamics-paradox-review",
+  "group": "latest",
+  "title": "Disentangling the paradox of inbreeding and telomere dynamics",
+  "authors": [
+   "Michael L. Pepke",
+   "Morten T. Limborg"
+  ],
+  "authorsShort": "Michael L. Pepke et al.",
+  "firstAuthor": "Michael L. Pepke",
+  "journal": "Philosophical Transactions of the Royal Society B",
+  "pubDate": "2026-11-12",
+  "doi": "10.1098/rstb.2026.0110",
+  "url": "https://doi.org/10.1098/rstb.2026.0110",
+  "pmid": null,
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "hybrid",
+   "isOpen": true,
+   "url": "https://doi.org/10.1098/rstb.2026.0110",
+   "source": "OpenAlex open_access and Crossref license metadata, fetched 2026-11-14: OpenAlex hybrid; CC BY 4.0"
+  },
+  "whyItMatters": "A cross-species review finds that inbred lab and domestic strains tend to have longer telomeres, yet inbred individuals in wild populations, including people, tend to have shorter ones, and explains why.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Telomeres, the repeated DNA sequences that cap and protect chromosome ends, are widely used as a biomarker of health, aging and fitness. Inbreeding (having closely related parents) is known to lower fitness, but how that happens at the molecular level is hard to study in wild animals. Studies linking inbreeding to telomere length have reported every possible answer: shorter, longer and no difference. Sorting out that contradiction matters for anyone interpreting telomere measurements, in conservation biology and in evolutionary studies of aging.",
+   "did": "This is a review and synthesis. The authors gathered published evidence across eukaryotes (organisms from yeast to humans) on telomere length and inbreeding. They separated two kinds of comparison: studies comparing whole species or strains assumed to differ in inbreeding history because of domestication or captive breeding, and studies relating measured individual inbreeding levels to telomere length within natural populations. The article is part of a themed issue on 'Developmental circuits in ageing'.",
+   "found": "The two kinds of comparison pointed in opposite directions. When species or strains with assumed different inbreeding histories were compared, most studies found longer telomeres with more inbreeding. When individual inbreeding was measured within natural populations, including humans, most studies found shorter telomeres with more inbreeding. In both cases, the authors note there is very little evidence on how large and how reliable these effects are. They argue that the long telomeres of domesticated and laboratory organisms may be a side effect of captive breeding and artificial selection rather than of inbreeding itself. If inbreeding does shorten telomeres in wild populations, that would affect how telomere biomarkers are read in evolutionary and conservation work.",
+   "limits": "This synopsis is based on the abstract only, although the article is open access. As a review it does not report new data, and the abstract does not describe how studies were found or whether a formal meta-analysis was done. The authors themselves stress how thin the evidence is on effect size and reliability. The proposed explanation for long telomeres in lab strains is an interpretation, not a tested result. The paper is about telomeres as population biomarkers, not about whether telomere length causes aging in any individual.",
+   "terms": [
+    {
+     "term": "Telomere",
+     "definition": "Repeated DNA at chromosome ends that protects them and tends to shorten with age."
+    },
+    {
+     "term": "Inbreeding",
+     "definition": "Mating between close relatives, which increases shared gene copies."
+    },
+    {
+     "term": "Inbreeding depression",
+     "definition": "Reduced health or fitness in offspring of related parents."
+    },
+    {
+     "term": "Eukaryotes",
+     "definition": "Organisms whose cells have a nucleus, from yeast to humans."
+    },
+    {
+     "term": "Artificial selection",
+     "definition": "Humans breeding animals or strains for chosen traits."
+    },
+    {
+     "term": "Biomarker",
+     "definition": "A measurable sign used to indicate health or biological state."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "elasticnet-epigenetic-clock-architecture",
+  "group": "latest",
+  "title": "A Structurally Interpretable ElasticNet-Based Epigenetic Clock Reveals Distributed and Individualized Architecture of Human Biological Aging",
+  "authors": [
+   "Meisam Akrami",
+   "Maryam Akrami",
+   "Amirhossein Amini",
+   "Rahim Esfandiyari"
+  ],
+  "authorsShort": "Meisam Akrami et al.",
+  "firstAuthor": "Meisam Akrami",
+  "journal": "Journal of Molecular Evolution",
+  "pubDate": "2026-11-13",
+  "doi": "10.1007/s00239-026-10365-w",
+  "url": "https://doi.org/10.1007/s00239-026-10365-w",
+  "pmid": "43024061",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "OpenAlex had no record yet, fetched 2026-11-14; Crossref lists only Springer Nature text-and-data-mining terms (no open licence), so treated as paywalled"
+  },
+  "whyItMatters": "Building an epigenetic clock mainly to look inside it, the authors find the aging signal spread over hundreds of DNA sites in loose modules, with older people drifting apart from each other.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks turn DNA methylation, chemical tags on DNA, into an age estimate, and the gap between that estimate and real age is often read as faster or slower biological aging. But most clocks are built to be accurate, not understandable: it is often unclear how many DNA sites really carry the aging signal, whether those sites change in the same way, and whether they act as one coordinated programme. Knowing that structure helps decide what a clock's 'extra years' actually mean for a person.",
+   "did": "The authors built an epigenetic clock with ElasticNet, a standard regression method that picks a limited set of informative DNA sites (CpGs). Their main goal was to use the model to study the structure of the aging methylome. They tested the clock on independent samples, varied the model's sparsity settings to see how many sites were needed, used principal component analysis (PCA) to visualise how samples spread out by age, examined how individual CpGs change over the adult lifespan, and built a correlation network of the top 50 CpGs, testing it for modular structure against randomised networks. The abstract does not state the data source or sample size.",
+   "found": "On independent test samples the clock explained 71% of the variation in chronological age (R-squared 0.71), with an average error of 6.87 years, which is less precise than leading clocks. Tuning the model showed the aging signal is moderately sparse: spread across hundreds rather than thousands of CpGs. PCA revealed a smooth age gradient, with younger people clustered tightly and older people increasingly spread out, and test samples followed the same pattern. Individual CpGs behaved differently, ranging from steady loss of methylation to increasingly random variation. The top 50 CpGs formed a loosely modular network (modularity Q = 0.41, p < 0.001 versus random networks) rather than one coordinated programme. The authors suggest the difference between predicted and actual age may reflect personal trajectories of molecular aging.",
+   "limits": "This synopsis is based on the abstract only, because the article is paywalled. The abstract does not give the dataset, tissue, ancestry or number of people. The clock was trained to predict chronological age and was not shown to predict health or survival, so the idea that its errors capture personal aging is an interpretation. With a 6.87-year average error, much of the gap between predicted and real age may simply be model error. The network analysis covered only the top 50 sites.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula estimating age from DNA methylation at selected sites."
+    },
+    {
+     "term": "CpG site",
+     "definition": "A spot where C is followed by G in DNA; the usual site of methylation."
+    },
+    {
+     "term": "ElasticNet",
+     "definition": "A regression method that selects a limited set of useful predictors."
+    },
+    {
+     "term": "Mean absolute error",
+     "definition": "The average size of the gap between predicted and true age."
+    },
+    {
+     "term": "Principal component analysis",
+     "definition": "A method that compresses many measurements into a few main patterns."
+    },
+    {
+     "term": "Modularity",
+     "definition": "A measure of how strongly a network splits into separate clusters."
+    }
+   ]
+  }
  }
 ]
