@@ -6471,5 +6471,232 @@
     }
    ]
   }
+ },
+ {
+  "slug": "neighborhood-exposome-childhood-epigenetic-age-trajectories",
+  "group": "latest",
+  "title": "Neighborhood Exposome at Birth and Trajectories of Epigenetic Age Acceleration Across Childhood",
+  "authors": [
+   "Qingyue E. Yuan",
+   "Anne K. Bozack",
+   "Vincent Paquin",
+   "Sarina Abrishamcar",
+   "Ella J. Arrant",
+   "Ying Xu",
+   "Sheryl L. Rifas-Shiman",
+   "Yinxian Chen",
+   "Lina V. Dimitrov",
+   "Benjamin B. Risk",
+   "Marie-France Hivert",
+   "Emily Oken",
+   "Andres Cardenas",
+   "Anke Huels",
+   "Benson S. Ku"
+  ],
+  "authorsShort": "Qingyue E. Yuan et al.",
+  "firstAuthor": "Qingyue E. Yuan",
+  "journal": "JAMA Network Open",
+  "pubDate": "2026-11-13",
+  "doi": "10.1001/jamanetworkopen.2026.44321",
+  "url": "https://doi.org/10.1001/jamanetworkopen.2026.44321",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://doi.org/10.1001/jamanetworkopen.2026.44321",
+   "source": "OpenAlex open_access, fetched 2026-11-15: gold"
+  },
+  "whyItMatters": "Following 570 children from age 3 to 13, researchers found that being born into one type of urban neighborhood was linked to a rising epigenetic-age trajectory on one of three clocks.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks read chemical tags (methylation) on DNA and estimate a biological age. In adults, a clock age running ahead of real age, called epigenetic age acceleration, has been linked to higher disease risk. Much less is known about how this measure behaves in childhood, and whether the place a child is born into, its social and physical environment, nudges it one way or another. If early surroundings leave a mark on DNA methylation, that would be one route by which neighborhood could shape lifelong health.",
+   "did": "The team used Project Viva, a cohort that enrolled pregnant women in eastern Massachusetts between 1999 and 2002. They studied 570 children who had blood DNA methylation measured at about ages 3, 8 and 13, plus full neighborhood and background data. Each child's birth neighborhood was described with 22 census-tract measures covering four areas: deprivation, social fragmentation, population density and environmental quality. A pattern-finding method (self-organizing maps) grouped these into neighborhood profiles. Epigenetic age acceleration was calculated with three clocks, Horvath, Skin & Blood, and Wu (a clock built for children). Statistical models then sorted children into trajectory groups over time and tested whether neighborhood profile predicted which group a child fell into.",
+   "found": "Three trajectory groups emerged: stable, increasing and decreasing for the Horvath and Skin & Blood clocks, and a low-baseline group in place of the decreasing group for the Wu clock. Three neighborhood profiles were found: suburban with the fewest adverse exposures (278 children), urban with high residential turnover, many single-person households and closeness to highways (168), and urban with high socioeconomic deprivation and pollution (124). Compared with the suburban profile, children in the second profile had higher odds of an increasing Wu-clock trajectory (adjusted odds ratio 1.67, 95% CI 1.03 to 2.69). The deprived, polluted profile showed no association. The authors suggest early neighborhood conditions could be targets for prevention, while saying more work is needed on what this means for later health.",
+   "limits": "This synopsis is based on the abstract only; the article is open access but its full text was not reviewed for this summary. The study is observational, so it shows association, not cause. The one positive finding was for a single clock, with a confidence interval close to 1, and it did not appear for the other two clocks or for the most deprived and polluted neighborhoods, so it should be seen as modest and in need of replication. The cohort comes from one region of the United States, and blood methylation in children may not reflect other tissues. Whether a rising childhood clock trajectory predicts adult disease is not shown here.",
+   "terms": [
+    {
+     "term": "Epigenetic age acceleration",
+     "definition": "The gap between the age estimated from DNA methylation and a person's actual age, after accounting for age."
+    },
+    {
+     "term": "Exposome",
+     "definition": "The total set of environmental exposures a person experiences, here measured at the neighborhood level."
+    },
+    {
+     "term": "Wu clock",
+     "definition": "An epigenetic clock developed specifically to estimate age in children."
+    },
+    {
+     "term": "Self-organizing map",
+     "definition": "A machine-learning method that groups similar items, here neighborhoods, into profiles."
+    },
+    {
+     "term": "Odds ratio",
+     "definition": "How much more likely an outcome is in one group than another; 1.67 means about two-thirds higher odds."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "traf1-cardiomyocyte-senescence-mtdna-release-cardiac-aging",
+  "group": "latest",
+  "title": "TRAF1 promotes age-related cardiac dysfunction through a three-step mechanism: cardiomyocyte senescence, mitochondrial DNA release, and subsequent macrophage-driven inflammation",
+  "authors": [
+   "Wei Yang",
+   "Yuling Xu",
+   "Mingjian Jiang",
+   "Xu Zhao",
+   "Huaxi Zou",
+   "Fan Yu",
+   "Kai Lai",
+   "Haixuan Wu",
+   "Shijie Luo",
+   "Lin Yang"
+  ],
+  "authorsShort": "Wei Yang et al.",
+  "firstAuthor": "Wei Yang",
+  "journal": "Cell Biology and Toxicology",
+  "pubDate": "2026-11-13",
+  "doi": "10.1007/s10565-026-10308-7",
+  "url": "https://doi.org/10.1007/s10565-026-10308-7",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "hybrid",
+   "isOpen": true,
+   "url": "https://doi.org/10.1007/s10565-026-10308-7",
+   "source": "OpenAlex open_access, fetched 2026-11-15: hybrid"
+  },
+  "whyItMatters": "In aged mice, a protein called TRAF1 pushed heart muscle cells to leak mitochondrial DNA that set off inflammation, and lowering it improved heart relaxation.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Heart failure becomes far more common with age, and part of the reason is thought to be chronic, low-grade inflammation. One proposed trigger is DNA from mitochondria, the cell's power units, escaping into places it should not be. Immune sensors such as cGAS-STING treat stray DNA as a danger signal and switch on inflammation. Finding which molecules cause aging heart cells to release mitochondrial DNA could point to new treatment targets for age-related heart decline.",
+   "did": "The researchers first searched public gene-expression datasets (GEO) for genes that change with cardiac aging, which pointed to TRAF1 (TNF receptor-associated factor 1). In naturally aged mice of both sexes (90 weeks old), they reduced TRAF1 only in heart muscle cells using a virus (AAV9) carrying a heart-specific silencing construct, then examined the hearts at 110 weeks. In the lab, they treated heart muscle cells with D-galactose, a chemical used to mimic aging, and either reduced or boosted TRAF1. They measured reactive oxygen species (ROS), leakage of mitochondrial DNA, macrophage activation and inflammation.",
+   "found": "TRAF1 was strongly increased in aged and failing hearts. In cells, lowering TRAF1 reduced D-galactose-induced senescence and ROS build-up, while raising it made both worse. TRAF1 switched on NF-kB signalling and increased Nox2, an enzyme that makes ROS, which promoted release of mitochondrial DNA from senescent heart cells. That released DNA activated the cGAS-STING pathway in macrophages, amplifying inflammation in the heart. In aged mice, heart-specific TRAF1 knockdown lowered cardiac ROS, reduced inflammatory macrophages in the heart and pro-inflammatory cytokines in blood, eased heart enlargement and improved diastolic function (the heart's ability to relax and fill), without changing ejection fraction.",
+   "limits": "This synopsis is based on the abstract only; the article is listed as open access but its full text was not reviewed here. The work is in mice and cultured cells, and D-galactose is an artificial stand-in for natural aging. Knocking down a gene with a virus is a research tool, not a therapy, and no drug targeting TRAF1 was tested. Pumping function (ejection fraction) did not change, so the benefit was limited to relaxation and structure. Whether the same chain of events drives heart aging in people is not shown.",
+   "terms": [
+    {
+     "term": "Mitochondrial DNA (mtDNA)",
+     "definition": "The small separate genome inside mitochondria; when released into the cell or outside it, it can trigger immune alarms."
+    },
+    {
+     "term": "cGAS-STING",
+     "definition": "An immune sensing pathway that detects DNA in the wrong place and switches on inflammation."
+    },
+    {
+     "term": "Cellular senescence",
+     "definition": "A state in which damaged cells stop dividing but stay active and release inflammatory signals."
+    },
+    {
+     "term": "NF-kB",
+     "definition": "A master switch protein that turns on many inflammation-related genes."
+    },
+    {
+     "term": "Diastolic function",
+     "definition": "How well the heart relaxes and fills with blood between beats."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "cellular-senescence-hallmarks-of-ageing-causal-review",
+  "group": "latest",
+  "title": "Cellular senescence and the hallmarks of ageing: Evaluating evidence for a causal mechanistic role",
+  "authors": [
+   "Rohit Sharma"
+  ],
+  "authorsShort": "Rohit Sharma",
+  "firstAuthor": "Rohit Sharma",
+  "journal": "Biochemical and Biophysical Research Communications",
+  "pubDate": "2026-11-13",
+  "doi": "10.1016/j.bbrc.2026.154887",
+  "url": "https://doi.org/10.1016/j.bbrc.2026.154887",
+  "pmid": "43033797",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "OpenAlex open_access fetched 2026-11-15: closed; treated as paywalled"
+  },
+  "whyItMatters": "A review sorts the evidence on whether senescent cells cause or simply follow the other hallmarks of aging, including genomic instability, telomere loss and epigenetic change.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Scientists describe aging through a list of 'hallmarks', such as genomic instability, telomere attrition, epigenetic alterations and cellular senescence. These hallmarks clearly interact, but how strongly and in which direction is often unclear. Senescent cells, which stop dividing and release inflammatory signals, are a major focus of anti-aging drug research. Knowing whether senescence drives other hallmarks, results from them, or both, matters for judging how much clearing senescent cells could actually achieve.",
+   "did": "The author or authors reviewed primary laboratory and animal studies on how cellular senescence interacts with the other hallmarks: genomic instability, telomere attrition, epigenetic alterations, loss of protein quality control, impaired autophagy, mitochondrial dysfunction, deregulated nutrient sensing, gut dysbiosis, chronic inflammation and stem cell exhaustion. They assessed whether the evidence supports cause-and-effect and two-way relationships, and proposed a qualitative system for grading those links.",
+   "found": "The review concludes that senescence can be both a consequence and an amplifier of other hallmarks. DNA damage and telomere shortening, for example, can push cells into senescence, and senescent cells can in turn worsen other hallmarks, both inside the same cell and in neighbouring cells through the signals they release. The authors describe senescence as a likely mechanistic hub linking several hallmarks, while stressing that the direction and strength of the evidence differ from link to link and across tissues. They note limited evidence for newer hallmarks such as gut dysbiosis, no universal marker of senescence, large differences between senescent cell types, and aging mechanisms that work independently of senescence.",
+   "limits": "This synopsis is based on the abstract only, because the article is paywalled, so the specific studies weighed and the grades given to each link are not described here. It is a narrative review with a qualitative grading system, not a systematic review or meta-analysis, and most of the underlying evidence comes from cells and animals. The abstract does not quantify how much any one hallmark contributes to human aging.",
+   "terms": [
+    {
+     "term": "Hallmarks of ageing",
+     "definition": "A widely used list of core biological processes thought to drive aging, such as genomic instability and telomere attrition."
+    },
+    {
+     "term": "Genomic instability",
+     "definition": "A raised rate of DNA damage and mutation in cells over time."
+    },
+    {
+     "term": "Telomere attrition",
+     "definition": "Gradual shortening of the protective caps at chromosome ends, which can trigger senescence."
+    },
+    {
+     "term": "Cell-autonomous vs non-cell-autonomous",
+     "definition": "Effects inside the affected cell itself versus effects on neighbouring cells via released signals."
+    },
+    {
+     "term": "Gerotherapeutics",
+     "definition": "Treatments intended to slow or target the biology of aging itself."
+    }
+   ]
+  }
  }
 ]
