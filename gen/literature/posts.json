@@ -6698,5 +6698,153 @@
     }
    ]
   }
+ },
+ {
+  "slug": "epigenetic-clock-wild-wood-mice-ageing",
+  "group": "latest",
+  "title": "Epigenetic Clocks Uncover the Natural History of Ageing in Wild Mice",
+  "authors": [
+   "Sarah E. Wolf",
+   "Simon A. Babayan",
+   "Riccardo E. Marioni",
+   "Steve Horvath",
+   "Amy B. Pedersen",
+   "Tom J. Little"
+  ],
+  "authorsShort": "Sarah E. Wolf et al.",
+  "firstAuthor": "Sarah E. Wolf",
+  "journal": "Molecular Ecology",
+  "pubDate": "2026-11-15",
+  "doi": "10.1111/mec.70662",
+  "url": "https://doi.org/10.1111/mec.70662",
+  "pmid": "43035980",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1111/mec.70662",
+   "source": "Crossref license field fetched 2026-11-16: CC BY 4.0 (OpenAlex had no record yet)"
+  },
+  "whyItMatters": "A DNA methylation clock trained on lab wood mice worked on wild ones, and wild mice given extra food and anti-parasite drugs showed slower epigenetic aging.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks estimate biological age from chemical tags (methylation) at specific spots on DNA. They have become a central tool in human aging research, but a big open question is how much the environment, such as food supply, infection and stress, speeds up or slows down the aging process itself. That is hard to test in people and in lab animals, which live in protected conditions. Wild animals face real stressors, but researchers almost never know their true age, so they cannot tell whether one animal is aging faster than another. A clock that can read age from a small tissue sample would open up the natural world as a test bed for what drives aging.",
+   "did": "The researchers built a DNA methylation clock for the wood mouse (Apodemus sylvaticus), a common European rodent. They trained it on laboratory wood mice whose ages were known. They then applied the clock to a free-living wild population whose ages were unknown, and checked whether the results made biological sense. Finally, they used the clock in wild mice that had taken part in field experiments in which some animals received extra food and some received drugs that remove parasites, to see whether those changes altered the pace of epigenetic aging. The abstract does not give the sample sizes, the number of DNA sites in the clock, or its error in months.",
+   "found": "According to the abstract, several lines of evidence supported using the lab-trained clock on wild animals. Its age estimates fell within the range expected for the species. The spread of estimated ages reproduced the known age structure of the population. The clock also picked up expected signs of senescence, including a higher chance of infection in older animals. Most strikingly, wild mice that were given supplemental food and anti-parasite treatment showed slower epigenetic aging rates than untreated mice. The authors describe this as one of the first demonstrations that a clock trained in the lab can be used to infer age structure in free-living animals, and argue it can measure both chronological age and the rate of aging in the wild.",
+   "limits": "This synopsis is based on the abstract only. The article is open access under a CC BY licence, but its full text was not reviewed for this page, so effect sizes, sample sizes and statistical details are not reported here. The work is in one rodent species, so it does not show that the same environmental factors change human epigenetic aging. Epigenetic clocks measure methylation patterns that track age; a slower clock reading is not the same as proven longer life or better health, and the abstract does not report lifespan outcomes. Clocks trained in the lab may also behave differently in wild animals for reasons unrelated to aging, which the authors tried to address with their validation checks.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates age from DNA methylation levels at a chosen set of sites in the genome."
+    },
+    {
+     "term": "DNA methylation",
+     "definition": "A small chemical tag on DNA that helps control which genes are switched on, and that shifts in predictable ways with age."
+    },
+    {
+     "term": "Epigenetic aging rate",
+     "definition": "How fast clock-estimated age rises compared with the passage of real time."
+    },
+    {
+     "term": "Senescence (organismal)",
+     "definition": "The gradual decline in body function and rising risk of disease and death with age."
+    },
+    {
+     "term": "Age structure",
+     "definition": "The mix of young and old individuals in a population."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "asprosin-mtdna-leakage-sting-endothelial-senescence",
+  "group": "latest",
+  "title": "Asprosin Promotes Vascular Endothelial Senescence Through STING Pathway Activation Mediated by mtROS-mtDNA Leakage Axis",
+  "authors": [
+   "Jiacheng Liu",
+   "Aixia Zhao",
+   "Qi Wang",
+   "Qianqian Huang",
+   "Li Wang",
+   "Wentao Liu",
+   "Guohua Zeng",
+   "Qiren Huang"
+  ],
+  "authorsShort": "Jiacheng Liu et al.",
+  "firstAuthor": "Jiacheng Liu",
+  "journal": "Aging Cell",
+  "pubDate": "2026-11-15",
+  "doi": "10.1111/acel.70826",
+  "url": "https://doi.org/10.1111/acel.70826",
+  "pmid": "43035371",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1111/acel.70826",
+   "source": "Crossref license field fetched 2026-11-16: CC BY 4.0 (OpenAlex had no record yet)"
+  },
+  "whyItMatters": "A fat-tissue hormone, asprosin, pushed blood-vessel cells to age by making mitochondria leak their DNA and trigger the STING alarm pathway; blocking it slowed vascular aging in mice.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Blood vessels age along with the rest of the body, and aged vessels raise the risk of atherosclerosis, heart attack and stroke. One way cells age is through damage to mitochondria, the cell's power plants, which carry their own small genome (mitochondrial DNA, or mtDNA). When stressed mitochondria spill mtDNA into the main cell fluid, the cell mistakes it for a sign of infection and switches on an alarm system called cGAS-STING, which drives inflammation and can push cells into senescence. Asprosin is a recently discovered hormone released by fat tissue. This study asked whether asprosin speeds up blood-vessel aging and, if so, through what route.",
+   "did": "The team first looked at an existing gene-expression dataset on vascular aging in human microvascular endothelial cells (the cells lining small blood vessels) and checked how the gene that makes asprosin (FBN1) behaved. They measured asprosin in the blood of mice of different ages. They then raised asprosin in mice, and in other mice removed asprosin made by fat tissue or blocked it with an antibody, and measured aging and blood-vessel function. In human umbilical vein endothelial cells grown in the lab, they treated cells with asprosin and measured mitochondrial oxidative stress, mtDNA leakage and STING activation, and tested what happened when STING was reduced or when mitochondrial reactive oxygen species were neutralised with a drug called mitoTEMPO. Finally, they tested asprosin removal in ApoE-deficient mice on a high-fat diet, a standard model of atherosclerosis.",
+   "found": "The abstract reports that FBN1 was raised in the aging endothelial cell dataset and that blood asprosin rose with age in mice. Giving asprosin accelerated aging and worsened blood-vessel lining function, while removing fat-tissue asprosin or blocking it with an antibody eased both in aging mice. In cultured cells, asprosin increased mitochondrial oxidative stress, caused mtDNA to leak out, and switched on the STING pathway. Lowering STING reduced senescence, and mopping up mitochondrial reactive oxygen species with mitoTEMPO cut mtDNA leakage and STING activation and reduced senescence. In the atherosclerosis model, mice lacking fat-tissue asprosin had less disease. The authors conclude that asprosin is a pro-aging factor acting through a chain of mitochondrial oxidative stress, mtDNA leakage and STING, and a possible drug target for age-related vascular disease.",
+   "limits": "This synopsis is based on the abstract only. The article is open access under a CC BY licence, but its full text was not reviewed for this page, so group sizes and effect sizes are not given here. Most of the mechanism comes from cultured umbilical cord cells, which are young cells and may not behave like aged human arteries. The animal results are in mice, and the human evidence in the abstract is limited to a gene-expression dataset. No human trial of blocking asprosin is reported, so this does not mean an asprosin-targeting treatment exists or is safe.",
+   "terms": [
+    {
+     "term": "Asprosin",
+     "definition": "A hormone released mainly by fat tissue, made from part of the FBN1 gene product."
+    },
+    {
+     "term": "Mitochondrial DNA (mtDNA)",
+     "definition": "The small separate genome inside mitochondria, which can trigger immune alarms when it leaks out."
+    },
+    {
+     "term": "cGAS-STING pathway",
+     "definition": "A cell alarm system that senses DNA in the wrong place and turns on inflammatory signals."
+    },
+    {
+     "term": "Endothelial senescence",
+     "definition": "A state in which cells lining blood vessels stop dividing and become pro-inflammatory, impairing vessel function."
+    },
+    {
+     "term": "Mitochondrial ROS (mtROS)",
+     "definition": "Reactive oxygen molecules made by mitochondria that can damage the cell's components, including DNA."
+    }
+   ]
+  }
  }
 ]
