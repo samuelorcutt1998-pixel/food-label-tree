@@ -6846,5 +6846,394 @@
     }
    ]
   }
+ },
+ {
+  "slug": "lifestyle-interventions-epigenetic-aging-meta-analysis",
+  "group": "latest",
+  "title": "Do lifestyle interventions slow epigenetic aging in middle-aged and older adults? A systematic review and meta-analysis of randomized controlled trials",
+  "authors": [
+   "Kleiver Sanchez",
+   "Susana Sánchez Herrera"
+  ],
+  "authorsShort": "Kleiver Sanchez et al.",
+  "firstAuthor": "Kleiver Sanchez",
+  "journal": "Archives of Gerontology and Geriatrics",
+  "pubDate": "2026-11-15",
+  "doi": "10.1016/j.archger.2026.106484",
+  "url": "https://doi.org/10.1016/j.archger.2026.106484",
+  "pmid": "43038634",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1016/j.archger.2026.106484",
+   "source": "Crossref license field fetched 2026-11-17: CC BY 4.0; OpenAlex lists it as hybrid open access"
+  },
+  "whyItMatters": "Pooling eight randomized trials (1,675 people), exercise, diet and caloric-restriction programs did not measurably slow DNA methylation clocks; the largest trials were centred on no effect.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks read chemical tags (methylation) on DNA to estimate how old a body seems, and they are now marketed widely as a way to show that a diet, workout plan or supplement is making you 'younger'. Many people, including clinics and companies, treat a lower clock reading as proof that a lifestyle change works. But most of the supporting evidence comes from observational studies, where people who exercise or eat well differ from others in many ways, or from small trials. The real test is a randomized controlled trial, where people are assigned by chance to an intervention or a control group. This review asks a simple, practical question: when you pool the randomized trials, do lifestyle programs actually slow DNA methylation-based aging in adults aged roughly 45 and over?",
+   "did": "The authors ran a prospectively registered systematic review following the PRISMA 2020 reporting standard. They searched four large literature databases in September 2026, plus two trial registers and the reference lists of included trials in October 2026. They included randomized trials of lifestyle interventions (exercise, diet, caloric restriction, or combined 'multidomain' programs) in adults with an average age of at least 45 that reported a validated DNA methylation clock. Because different clocks measure different things, they pooled results separately for three families: clocks trained on chronological age, clocks trained on health or mortality ('phenotypic/mortality' clocks such as PhenoAge or GrimAge), and the pace-of-aging measure DunedinPACE. They used three-level statistical models that account for several clock results coming from the same trial, and they rated how certain the evidence is with the GRADE system.",
+   "found": "Nine trials met the criteria, and eight of them, with 1,675 participants and 27 clock results, could be pooled. None of the three clock families showed a statistically significant effect. The pooled standardized effect was -0.04 for chronological-age clocks, -0.17 for phenotypic/mortality clocks and -0.01 for DunedinPACE, and every confidence interval crossed zero (a negative number would mean slower aging). The two largest trials were essentially centred on no effect (-0.01), and the favourable-looking estimates came from smaller trials. The conclusion held across sensitivity checks, including using only one clock per trial (-0.26, with an interval that still crossed zero). The authors rated the certainty of the evidence as low to very low. They conclude that randomized evidence does not show that lifestyle programs slow DNA methylation aging, while a small effect on the phenotypic/mortality clocks cannot be ruled out.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. Only eight trials could be pooled, which is a small evidence base, and the trials differed in the type, length and intensity of the intervention and in which clocks they reported. Low-to-very-low certainty means future trials could change the picture. A null result on a clock is not the same as 'lifestyle does nothing': exercise and diet have well-established benefits on other outcomes, and this review only addresses whether they move DNA methylation clocks over the trial periods studied. The authors call for larger trials that name one primary clock in advance and report results in a standard way.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates age from DNA methylation levels at selected sites in the genome."
+    },
+    {
+     "term": "Randomized controlled trial (RCT)",
+     "definition": "A study that assigns people by chance to an intervention or a control group, so differences can be credited to the intervention."
+    },
+    {
+     "term": "Meta-analysis",
+     "definition": "A statistical method that combines results from several studies into one overall estimate."
+    },
+    {
+     "term": "Standardized mean difference (SMD)",
+     "definition": "An effect size expressed in standard-deviation units so studies using different scales can be pooled."
+    },
+    {
+     "term": "DunedinPACE",
+     "definition": "A methylation measure that estimates the current pace of biological aging rather than an age in years."
+    },
+    {
+     "term": "GRADE",
+     "definition": "A widely used system for rating how confident we can be in a body of evidence."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "foxm1-dna-repair-heterochromatin-senescence",
+  "group": "latest",
+  "title": "FOXM1 Expression Enhances DNA Repair in Aged Cells to Maintain the Peripheral Heterochromatin Barrier Against Senescence Enhancers",
+  "authors": [
+   "Carlos Sousa‐Soares",
+   "Maria M. da Silva",
+   "José P. Castro",
+   "Joana C. Macedo",
+   "Elsa Logarinho"
+  ],
+  "authorsShort": "Carlos Sousa‐Soares et al.",
+  "firstAuthor": "Carlos Sousa‐Soares",
+  "journal": "Aging Cell",
+  "pubDate": "2026-11-16",
+  "doi": "10.1111/acel.70844",
+  "url": "https://doi.org/10.1111/acel.70844",
+  "pmid": "43040448",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1111/acel.70844",
+   "source": "Crossref license field fetched 2026-11-17: CC BY 4.0"
+  },
+  "whyItMatters": "Aged cells lose the transcription factor FOXM1, which shuts down DNA repair genes; restoring it cut DNA damage and the epigenetic changes that switch on senescence and inflammation.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "DNA damage builds up as we age and is thought to drive several other hallmarks of aging, including erosion of the epigenome (the chemical marks and packaging that control which genes are on), cellular senescence (cells that stop dividing and release inflammatory signals) and chronic low-grade inflammation. Yet there are still no proven ways to protect the genome against aging. One reason is that it is unclear why DNA repair weakens in old cells in the first place. If a single master switch were responsible for turning down many repair genes at once, it could be a target for therapy. This study proposes that the transcription factor FOXM1 is such a switch.",
+   "did": "Working with aged cells, the researchers examined how FOXM1 levels relate to the activity of DNA repair genes and the amount of DNA damage. They then restored FOXM1 activity in aged cells and measured DNA damage, epigenetic changes and senescence. To understand the mechanism, they traced how FOXM1-driven repair affects G9a, an enzyme that places a repressive mark called H3K9me2 on histones, and how that mark is distributed at the nuclear periphery, where tightly packed 'heterochromatin' normally sits. Finally they looked at enhancers, the DNA switches that turn on the AP-1-driven senescence and inflammation program.",
+   "found": "According to the abstract, FOXM1 is repressed during aging, and this accounts for a broad transcriptional shutdown of DNA repair genes and a build-up of DNA damage. Restoring FOXM1 in aged cells reduced DNA damage and the epigenetic alterations that drive senescence. The proposed chain is: FOXM1 switches on DNA repair genes; better repair prevents DNA damage from triggering the breakdown of the G9a enzyme; G9a is therefore kept, and with it the H3K9me2 mark that anchors heterochromatin at the edge of the nucleus. With this anchor maintained, enhancers of the AP-1-driven senescence and inflammation program were inactivated. The authors describe FOXM1 as an 'age-reversal factor' that restores genetic and epigenetic integrity.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. The abstract describes work in aged cells; it does not report effects on lifespan, tissue function or health in whole animals or people, so the 'age-reversal' label refers to cellular markers. FOXM1 is also known as a driver of cell division and is active in many cancers, so boosting it as a therapy would need careful safety testing; the abstract does not address this. Which cell types and how the cells were aged are not specified in the abstract.",
+   "terms": [
+    {
+     "term": "FOXM1",
+     "definition": "A transcription factor (gene switch protein) that turns on genes for cell division and, per this study, DNA repair."
+    },
+    {
+     "term": "DNA repair",
+     "definition": "The set of cell systems that detect and fix damage to DNA."
+    },
+    {
+     "term": "Heterochromatin",
+     "definition": "Tightly packed DNA, often at the nuclear edge, where genes are kept switched off."
+    },
+    {
+     "term": "H3K9me2",
+     "definition": "A chemical mark on histone proteins associated with silenced, compact chromatin."
+    },
+    {
+     "term": "G9a",
+     "definition": "The enzyme that places the H3K9me2 mark."
+    },
+    {
+     "term": "Enhancer",
+     "definition": "A DNA region that boosts the activity of nearby genes when bound by the right proteins."
+    },
+    {
+     "term": "AP-1",
+     "definition": "A family of transcription factors that drive inflammatory and senescence gene programs."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "epigenetic-clock-choice-socioeconomic-aging",
+  "group": "latest",
+  "title": "Epigenetic clock choice matters: systematic variation in age estimation and socioeconomic patterning of biological aging",
+  "authors": [
+   "Tobias Rähse",
+   "Anne Großkopf",
+   "Richard Immanuel Riedel",
+   "Max Herke",
+   "Andreas Simm",
+   "Anja Knöchelmann"
+  ],
+  "authorsShort": "Tobias Rähse et al.",
+  "firstAuthor": "Tobias Rähse",
+  "journal": "GeroScience",
+  "pubDate": "2026-11-16",
+  "doi": "10.1007/s11357-026-02630-z",
+  "url": "https://doi.org/10.1007/s11357-026-02630-z",
+  "pmid": "43037914",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1007/s11357-026-02630-z",
+   "source": "Crossref license field fetched 2026-11-17: CC BY 4.0"
+  },
+  "whyItMatters": "In a UK population sample, Horvath, PhenoAge and DunedinPoAm clocks gave systematically different 'age gaps', and only the newer clocks clearly picked up the link between education or income and slower aging.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "There are now dozens of DNA methylation clocks, and studies (and consumer tests) often pick one without explaining why. First-generation clocks were built to predict calendar age; second- and third-generation clocks were built to capture biological aging, such as risk of disease and death or the pace of decline. If the clocks disagree about who is aging fast, then conclusions about what speeds up aging, for example poverty or low education, may depend on which clock was chosen. This study compares three clocks head to head in the same people to see how much that choice matters.",
+   "did": "The researchers used DNA methylation data from the UK Household Longitudinal Study, a large population survey that also records education, occupation and income. For each person they calculated 'delta age', the gap between methylation age and calendar age, using three clocks: Horvath (first generation), PhenoAge (second generation) and DunedinPoAm (third generation, a pace-of-aging measure). Linear mixed-effects models compared delta age across clock type, age group and sex, and tested interactions with socioeconomic status, adjusting for laboratory batch effects and blood cell composition.",
+   "found": "The clocks behaved quite differently. The first-generation Horvath clock overestimated age in younger people and underestimated it in older people, a sign that its gap measure shifts with age. The second-generation PhenoAge clock showed a consistently negative delta age, meaning it read people as younger than their calendar age. The third-generation DunedinPoAm showed minimal deviation and stable calibration across ages. On social patterning, the Horvath clock showed weak or inconsistent associations with socioeconomic factors, while PhenoAge and DunedinPoAm showed clearer gradients: higher education and income went with lower delta age, which the authors read as slower epigenetic aging. They conclude that newer clocks seem better suited to research on health inequalities.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. The analysis compares clocks at a point in time; the authors themselves call for longitudinal checks across populations and life stages. The study sample is from the UK, so patterns may differ elsewhere. Associations between income or education and clock readings do not show cause and effect. Only three clocks were compared, so the results do not cover newer measures such as GrimAge or DunedinPACE (the successor to DunedinPoAm). For anyone using a consumer test, the practical message is that a number from one clock cannot be directly compared with a number from another.",
+   "terms": [
+    {
+     "term": "Delta age (age acceleration)",
+     "definition": "Methylation-estimated age minus calendar age; positive means 'older than your years'."
+    },
+    {
+     "term": "Horvath clock",
+     "definition": "A first-generation clock trained to predict calendar age across many tissues."
+    },
+    {
+     "term": "PhenoAge",
+     "definition": "A second-generation clock trained on blood markers linked to disease and death risk."
+    },
+    {
+     "term": "DunedinPoAm",
+     "definition": "A third-generation measure estimating the pace of aging; later replaced by DunedinPACE."
+    },
+    {
+     "term": "Mixed-effects model",
+     "definition": "A statistical model that handles repeated or grouped measurements, such as several clocks per person."
+    },
+    {
+     "term": "Cell composition adjustment",
+     "definition": "Correcting for differences in the mix of blood cell types, which can shift methylation readings."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "sickle-cell-regenerative-stress-clonal-hematopoiesis",
+  "group": "latest",
+  "title": "Regenerative Stress Contributes to Higher Clonal Hematopoiesis with Myelodysplastic Features in Sickle Cell Disease Mice",
+  "authors": [
+   "Mengna Chi",
+   "Ammar Husami",
+   "Fabienne Lucas",
+   "Tahereh Setayesh",
+   "Zhenqi Zhu",
+   "Harsimran Kaur",
+   "Shristi Khanal",
+   "Anifat Tijani",
+   "Jing Chen",
+   "Wenying Zhang",
+   "Punam Malik"
+  ],
+  "authorsShort": "Mengna Chi et al.",
+  "firstAuthor": "Mengna Chi",
+  "journal": "Blood",
+  "pubDate": "2026-11-16",
+  "doi": "10.1182/blood.2026034793",
+  "url": "https://doi.org/10.1182/blood.2026034793",
+  "pmid": "43038169",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY-NC-ND 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1182/blood.2026034793",
+   "source": "Crossref license field fetched 2026-11-17: CC BY-NC-ND 4.0"
+  },
+  "whyItMatters": "Sickle cell mice showed premature 'aged' blood stem cell mutations and more clonal hematopoiesis, and forcing extra regeneration raised mutation burden further, linking stem-cell stress to somatic mutation.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Clonal hematopoiesis is a hallmark of an aging blood system: as we get older, blood stem cells pick up somatic mutations (DNA changes acquired during life), and a few mutated stem cells expand to produce a large share of blood cells. It raises the risk of blood cancers and heart disease. A key question is what speeds this up. One idea is that stem cells forced to divide and regenerate a lot accumulate mutations faster. People with sickle cell disease are a natural test case: their red blood cells break down constantly, so the bone marrow is under chronic pressure to make more, and as patients now live longer, a higher risk of blood cancers is emerging, including after gene therapy or stem cell transplants.",
+   "did": "The researchers used humanized sickle cell disease mice and compared them with normal mice matched for age, sex and strain. They monitored blood production in blood and bone marrow repeatedly up to one year of age. They used highly sensitive, error-corrected deep sequencing of 450 genes associated with myelodysplastic syndrome (MDS) and other blood cancers to detect low-level mutations. To test regenerative stress directly, they performed serial hematopoietic stem cell transplants, which force stem cells to rebuild the blood system repeatedly.",
+   "found": "Unlike the control mice, the sickle cell mice showed an 'ageing-like' blood system: they developed myeloid-biased blood production early and their stem and progenitor cells carried a mutational profile characteristic of aged mice and humans. A high proportion developed blood production with dysplastic (abnormal-looking) features resembling MDS and had a higher clonal hematopoiesis burden. Serial transplantation further increased the mutational burden of stem and progenitor cells and led to the emergence or expansion of clones carrying oncogenic driver mutations. The authors conclude that regenerative stress, whether from chronic demand for red cells or from autologous transplant, raises the risk of clonal hematopoiesis and MDS-like changes, and suggest early curative therapy might avoid this risk.",
+   "limits": "This synopsis is based on the abstract only. Crossref lists a CC BY-NC-ND licence, but the full text was not reviewed for this page, so mouse numbers, mutation counts and effect sizes are not given here. The work is in mice, which age faster and differ from humans in blood biology, and the follow-up ran to one year of age. Sickle cell disease is a special situation, so how far the findings apply to normal human aging is an inference. The suggestion that early curative therapy reduces the risk is a hypothesis, not something tested in this study.",
+   "terms": [
+    {
+     "term": "Clonal hematopoiesis",
+     "definition": "Expansion of blood stem cells carrying acquired mutations, common with age and linked to cancer and heart disease."
+    },
+    {
+     "term": "Somatic mutation",
+     "definition": "A DNA change acquired during life in body cells, not inherited."
+    },
+    {
+     "term": "Myelodysplastic syndrome (MDS)",
+     "definition": "A group of disorders where the bone marrow makes abnormal blood cells; can progress to leukemia."
+    },
+    {
+     "term": "Hematopoietic stem/progenitor cells (HSPC)",
+     "definition": "The bone marrow cells that make all blood cells."
+    },
+    {
+     "term": "Error-corrected deep sequencing",
+     "definition": "A DNA sequencing method that tags molecules to filter out errors, allowing very rare mutations to be detected."
+    },
+    {
+     "term": "Myeloid bias",
+     "definition": "A shift of blood production toward myeloid cells (such as neutrophils), typical of aged blood systems."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "tip60-kat5-dna-damage-senescence-apoptosis-preprint",
+  "group": "latest",
+  "title": "TIP60/KAT5-mediated regulation of apoptotic sensitivity during DNA damage-induced senescence",
+  "authors": [
+   "Shiksha Dutta",
+   "Nicolas Malaquin",
+   "Erwan Goy",
+   "Audrey Carrier- Leclerc",
+   "Guillaume Cardin",
+   "Francis Rodier"
+  ],
+  "authorsShort": "Shiksha Dutta et al.",
+  "firstAuthor": "Shiksha Dutta",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-16",
+  "doi": "10.64898/2026.11.12.766234",
+  "url": "https://doi.org/10.64898/2026.11.12.766234",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.12.766234",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata fetched 2026-11-17 points to the bioRxiv licence FAQ)"
+  },
+  "whyItMatters": "Preprint: the level of one chromatin enzyme, TIP60, set how DNA-damaged senescent cells repair breaks, how much inflammation they secrete and whether a senolytic drug can kill them.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "When a cell suffers heavy DNA damage it usually takes one of two paths: it dies (apoptosis) or it becomes senescent, a permanent arrest in which it stays alive and often releases inflammatory signals known as the senescence-associated secretory phenotype (SASP). Senescent cells build up with age and are a target of 'senolytic' drugs designed to kill them selectively. But senescent cells are not all alike, and it is unclear what decides whether a damaged cell dies or becomes senescent, or how inflammatory and how drug-sensitive it will be. Proteins that modify chromatin, the packaging of DNA, are good candidates because they affect both DNA break repair and which genes are switched on.",
+   "did": "The researchers studied normal human fibroblasts (connective-tissue cells) exposed to a single 10 Gy dose of ionising radiation, which causes DNA double-strand breaks and drives the cells into senescence. They altered the levels of TIP60 (also called KAT5), an enzyme that adds acetyl groups to proteins and helps repair DNA breaks. They then measured proliferation arrest, the clearing of DNA damage markers 53BP1 and γH2AX, SASP factors at the transcript and protein level, p53 activity, the anti-death protein MCL-1, and sensitivity to the senolytic drug ABT-263 (navitoclax).",
+   "found": "TIP60 was not required for the cells to stop dividing after radiation, but its level controlled several other features. The resolution of 53BP1 and γH2AX damage foci, and the strength of the SASP, depended on how much TIP60 the cells had. Cells with low TIP60 showed reduced p53 output and high levels of MCL-1, and were completely resistant to ABT-263. Cells with high TIP60 were modestly more sensitive to the drug. The authors conclude that TIP60 sits upstream of where senescent phenotypes diverge, that proliferation arrest and the SASP can be uncoupled by the level of a single chromatin modifier, and that TIP60 could help predict senolytic response. They suggest adding MCL-1 inhibition where TIP60 is low.",
+   "limits": "This is a preprint and has not been peer reviewed, so its findings may change. This synopsis is based on the abstract only. The work uses one cell type (normal human fibroblasts) and one form of damage (a single high radiation dose) in culture; senescence in aged tissues builds up over years from many causes and in many cell types. The abstract does not report animal or human data, and the proposal to combine senolytics with MCL-1 inhibitors is a suggestion, not a tested treatment.",
+   "terms": [
+    {
+     "term": "TIP60 / KAT5",
+     "definition": "A lysine acetyltransferase enzyme that modifies chromatin and helps repair DNA double-strand breaks."
+    },
+    {
+     "term": "Cellular senescence",
+     "definition": "A permanent stop to cell division that often comes with inflammatory secretions."
+    },
+    {
+     "term": "SASP",
+     "definition": "The senescence-associated secretory phenotype: the mix of inflammatory factors released by senescent cells."
+    },
+    {
+     "term": "53BP1 and γH2AX foci",
+     "definition": "Spots in the nucleus that mark DNA double-strand breaks; they disappear as breaks are repaired."
+    },
+    {
+     "term": "Senolytic",
+     "definition": "A drug designed to kill senescent cells selectively; ABT-263 (navitoclax) is one."
+    },
+    {
+     "term": "MCL-1",
+     "definition": "A protein that blocks apoptosis (programmed cell death)."
+    }
+   ]
+  }
  }
 ]
