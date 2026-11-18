@@ -7235,5 +7235,501 @@
     }
    ]
   }
+ },
+ {
+  "slug": "p53-supports-healthy-aging-liver-preprint",
+  "group": "latest",
+  "title": "p53 supports healthy aging",
+  "authors": [
+   "Marcos G. Teneche",
+   "Karl N. Miller",
+   "Kelly Yichen Li",
+   "Kat Lande",
+   "Sainath Mamde",
+   "Christina Huan Shi",
+   "Adarsh Rajesh",
+   "Aaron P. Havas",
+   "Jessica Proulx",
+   "Rouven Arnold",
+   "Michael Alcaraz",
+   "Andrew Davis",
+   "Armin Gandhi",
+   "Laurence Haddadin",
+   "Xue Lei",
+   "Irene Huang",
+   "Gabriele Guarnaccia",
+   "Jake Castillo",
+   "Monica Sevilla",
+   "Hiroshi Tanaka",
+   "Cray Minor",
+   "Caroline Kumsta",
+   "Tatiana Moreno",
+   "Erik Hultenius",
+   "Carolina Cano Macip",
+   "Garrett Evensen",
+   "Shreeya Patel",
+   "Colin Kern",
+   "Elizabeth Smoot",
+   "Jacqueline Olness",
+   "Andrea Rodriguez-Agustin",
+   "Guillermina Garcia",
+   "Yu Xin Wang",
+   "Kevin M. Tharp",
+   "Alessandra Sacco",
+   "Rebecca A. Porritt",
+   "Quan Zhu",
+   "Allen Wang",
+   "Bing Ren",
+   "April Williams",
+   "Nathan Zemke",
+   "Kevin Y. Yip",
+   "Peter D. Adams"
+  ],
+  "authorsShort": "Marcos G. Teneche et al.",
+  "firstAuthor": "Marcos G. Teneche",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-17",
+  "doi": "10.64898/2026.11.16.766897",
+  "url": "https://doi.org/10.64898/2026.11.16.766897",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.16.766897",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata fetched 2026-11-18: CC BY 4.0)"
+  },
+  "whyItMatters": "Preprint: removing the 'genome guardian' p53 from old mouse livers raised DNA damage and inflammation, while a drug that boosts p53 reduced inflammation and delayed frailty in aged mice.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "p53 is often called the guardian of the genome. When DNA is damaged or a cell's copying machinery stalls, p53 can pause the cell, help with repair, push it into senescence or trigger its death. That makes it one of the strongest natural defences against cancer. In ageing research, though, p53 has a mixed reputation. A popular idea, called antagonistic pleiotropy, holds that genes like p53 help us when young (by stopping tumours) but harm us when old, for instance by driving the build-up of inflammatory senescent cells. If that were true, dampening p53 late in life might look attractive. The problem is that this idea had not been properly tested by switching p53 off specifically in old tissue and watching what happens.",
+   "did": "The researchers worked in mouse liver. They first profiled aged livers at the single-cell level, combining RNA, protein, epigenetic and spatial measurements, to see how active the p53 pathway is with age. They then deleted p53 only in hepatocytes (the main liver cells), in either young or aged mice, and compared the consequences. They looked at inflammation, immune-cell infiltration, DNA replication stress, DNA damage, metabolic gene expression and how well the animals coped with a metabolic stress that injures the liver. Finally, they took the opposite approach and gave aged mice HDM201, a small-molecule MDM2 inhibitor that raises p53 activity, and tracked metabolic genes, inflammation and frailty.",
+   "found": "p53 pathway activity rose with age in mouse liver. Deleting p53 from hepatocytes in old mice, but not in young mice, increased inflammation and immune infiltration. Mechanistically, p53 held down DNA replication stress and DNA damage, which are known triggers of inflammatory signalling. In old liver cells p53 also directly bound and maintained the expression of metabolic genes, and old mice without hepatocyte p53 were more vulnerable to liver damage under metabolic stress. Boosting p53 with HDM201 in aged mice reversed the age-related drop in metabolic gene expression, lowered age-related inflammation and delayed the onset of frailty. The authors conclude that, at least in this setting, p53 activity in old tissue is protective rather than harmful, which runs against the antagonistic-pleiotropy prediction.",
+   "limits": "This is a preprint and has not been peer reviewed, so its findings may change. This synopsis is based on the abstract only. The work was done in mice and focused on the liver, so it is not known whether the same holds in other organs or in people. The abstract does not give lifespan data, tumour rates under long-term p53 activation, or effect sizes. MDM2 inhibitors are being developed as cancer drugs and can have significant side effects; nothing here shows they are safe or useful for healthy ageing in humans.",
+   "terms": [
+    {
+     "term": "p53",
+     "definition": "A protein that senses DNA damage and other stress and decides whether a cell pauses, repairs, becomes senescent or dies."
+    },
+    {
+     "term": "Antagonistic pleiotropy",
+     "definition": "The idea that a gene can be beneficial early in life but harmful later."
+    },
+    {
+     "term": "DNA replication stress",
+     "definition": "Stalling or slowing of the machinery that copies DNA, which can lead to breaks and damage."
+    },
+    {
+     "term": "Hepatocyte",
+     "definition": "The main working cell of the liver."
+    },
+    {
+     "term": "MDM2 inhibitor",
+     "definition": "A drug that blocks MDM2, the protein that normally keeps p53 levels low, so p53 activity rises."
+    },
+    {
+     "term": "Frailty",
+     "definition": "A measurable decline in strength, resilience and function with age."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "dna-damage-senescence-human-neural-progenitors",
+  "group": "latest",
+  "title": "DNA Damage-Induced Senescence Reshapes Transcriptomic and Functional Landscape of Human Neural Progenitor Cells",
+  "authors": [
+   "Nisha Vincy Jose",
+   "Muhammad Z. K. Assir",
+   "Olivia Soper",
+   "Susan Janssens",
+   "Bettina Platt",
+   "Eunchai Kang"
+  ],
+  "authorsShort": "Nisha Vincy Jose et al.",
+  "firstAuthor": "Nisha Vincy Jose",
+  "journal": "Aging Cell",
+  "pubDate": "2026-11-18",
+  "doi": "10.1111/acel.70838",
+  "url": "https://doi.org/10.1111/acel.70838",
+  "pmid": "43046807",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1111/acel.70838",
+   "source": "Crossref license field fetched 2026-11-18: CC BY 4.0; CC BY licence starts with online publication on 2026-11-18"
+  },
+  "whyItMatters": "A human stem-cell model shows that a brief dose of DNA damage pushes brain progenitor cells into lasting senescence with weaker DNA repair programs and an inflammatory secretion.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "The hippocampus, a brain region key to memory, keeps making some new neurons in adulthood from neural progenitor cells (NPCs). This process declines with age, and the decline has been linked to memory problems and neurodegenerative disease. One suspected driver is cellular senescence, in which cells permanently stop dividing and often release inflammatory signals. Accumulated DNA damage is a well-known route into senescence. But studying this in human brain progenitors is hard, because living human brain tissue is rarely available, and it has been unclear what senescence actually does to human NPCs.",
+   "did": "The team grew NPCs from human induced pluripotent stem cells (adult cells reprogrammed back to a stem-like state). They briefly exposed the NPCs to a low dose of doxorubicin, a chemotherapy drug that damages DNA, choosing a dose meant to cause genetic stress without killing many cells outright. They then tracked senescence markers, measured gene activity across the genome (transcriptomics), checked cell death responses and mitochondrial respiration, and analysed what the cells secreted. They tested whether fluid from these cells affected blood-vessel growth in vascular organoids, and checked whether key features also appeared in three-dimensional human hippocampal organoids (lab-grown mini-tissues).",
+   "found": "The treated NPCs entered a lasting senescence-like state: higher senescence-associated beta-galactosidase activity, less proliferation, persistent DNA damage and sustained increases in the cell-cycle brakes p21 and p16. Gene activity was broadly reshaped, with p53-linked and inflammatory programs switched up and cell-cycle and DNA repair pathways switched down. The cells largely avoided apoptosis even though apoptosis genes were primed. Their mitochondria were remodelled, with altered respiratory coupling and more ATP-linked respiration. They developed a secretory profile rich in inflammatory, TGF-beta-related and blood-vessel-promoting factors, and their conditioned media promoted vessel growth in vascular organoids. Key senescence features were reproduced in hippocampal organoids. The authors present this as a tractable human model linking genotoxic stress to altered progenitor function and changes in the surrounding niche.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. Doxorubicin is a strong, acute form of DNA damage, unlike the slow accumulation of damage over decades in the ageing brain. Results come from lab-grown cells and organoids, not from aged human brains, so the link to real hippocampal ageing and disease is an inference the authors draw rather than something tested directly.",
+   "terms": [
+    {
+     "term": "Neural progenitor cell (NPC)",
+     "definition": "A dividing brain cell that can give rise to new neurons and support cells."
+    },
+    {
+     "term": "Induced pluripotent stem cell (iPSC)",
+     "definition": "An adult cell reprogrammed into a stem-like state that can become many cell types."
+    },
+    {
+     "term": "Doxorubicin",
+     "definition": "A chemotherapy drug that damages DNA; used here to cause genotoxic stress."
+    },
+    {
+     "term": "p21 and p16",
+     "definition": "Proteins that halt the cell cycle and are classic markers of senescence."
+    },
+    {
+     "term": "SASP",
+     "definition": "The senescence-associated secretory phenotype: signals released by senescent cells."
+    },
+    {
+     "term": "Organoid",
+     "definition": "A small three-dimensional tissue grown in the lab that mimics features of an organ."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "somatic-mosaicism-neurodegeneration-review",
+  "group": "latest",
+  "title": "Developmental and age-acquired somatic mutations in neurodegenerative diseases",
+  "authors": [
+   "Sushmita Nayak",
+   "Michael A. Lodato"
+  ],
+  "authorsShort": "Sushmita Nayak et al.",
+  "firstAuthor": "Sushmita Nayak",
+  "journal": "Trends in Genetics",
+  "pubDate": "2026-11-17",
+  "doi": "10.1016/j.tig.2026.10.004",
+  "url": "https://doi.org/10.1016/j.tig.2026.10.004",
+  "pmid": "43045628",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY-NC-ND 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1016/j.tig.2026.10.004",
+   "source": "Crossref license field fetched 2026-11-18: CC BY-NC-ND 4.0; version of record"
+  },
+  "whyItMatters": "A review arguing that the DNA mutations our cells pick up during development and ageing, not just the genes we inherit, may help explain sporadic ALS and Alzheimer's disease.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Most genetic studies assume that every cell in your body carries the same DNA you inherited. In reality, each of us is a genetic mosaic: cells acquire their own new mutations, called somatic mutations, as they divide during embryonic development and as we age. Some of these mutations give a cell a growth advantage, so its descendants expand into a clone. Most cases of neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS) and Alzheimer's disease are 'sporadic', meaning they do not follow a clear inherited pattern, and their causes remain largely unexplained. Somatic mutation is one candidate explanation that has been relatively little studied.",
+   "did": "This is a review article, not a new experiment. The authors gather published evidence on somatic mosaicism in two settings. The first is developmental mosaicism, mutations that arise in the embryo and end up in a subset of the body's cells. The second is age-associated clonal expansion, where cells that acquired mutations later in life multiply. They focus on how both might bear on adult-onset neurodegeneration and pull the evidence together into a single framework.",
+   "found": "According to the abstract, developmental mosaic mutations are already established contributors to neurodevelopmental disorders, and emerging evidence links them to adult-onset neurodegeneration, including ALS and Alzheimer's disease. After birth, mutation-driven clonal expansions in microglia (the brain's resident immune cells) and in blood-forming cells may add to systemic inflammation and disease progression. The authors propose a framework in which both developmental and age-acquired mutations raise the vulnerability of neurons, help explain why the same disease looks different from person to person, and contribute to how sporadic neurodegenerative disorders arise.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. As a review, it summarises and interprets other studies rather than adding new data, and the abstract describes the evidence for adult neurodegeneration as 'emerging'. The proposed framework is a model to be tested, not a demonstrated cause of ALS or Alzheimer's disease. Detecting mutations present in only a small share of brain cells is technically demanding, which limits how firm current conclusions can be.",
+   "terms": [
+    {
+     "term": "Somatic mutation",
+     "definition": "A DNA change that arises in a body cell after conception and is not inherited from parents."
+    },
+    {
+     "term": "Somatic mosaicism",
+     "definition": "The presence of genetically different cell populations in one person because of somatic mutations."
+    },
+    {
+     "term": "Clonal expansion",
+     "definition": "Growth of a group of cells descended from one cell, often because a mutation gives it an advantage."
+    },
+    {
+     "term": "Microglia",
+     "definition": "The resident immune cells of the brain."
+    },
+    {
+     "term": "Sporadic disease",
+     "definition": "A disease case without a clear inherited cause or family pattern."
+    },
+    {
+     "term": "ALS",
+     "definition": "Amyotrophic lateral sclerosis, a disease that destroys the nerve cells controlling muscles."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "terra-telomere-r-loops-live-imaging",
+  "group": "latest",
+  "title": "Live-cell imaging reveals two modes of TERRA association with telomeres and the dynamics of TERRA R-loops",
+  "authors": [
+   "Eftychia Kyriacou",
+   "Franka Voigt",
+   "Thomas Lunardi",
+   "Albert Dominguez Mantes",
+   "Martin Weigert",
+   "Jeffrey A Chao",
+   "Joachim Lingner"
+  ],
+  "authorsShort": "Eftychia Kyriacou et al.",
+  "firstAuthor": "Eftychia Kyriacou",
+  "journal": "Nucleic Acids Research",
+  "pubDate": "2026-11-10",
+  "doi": "10.1093/nar/gkag1152",
+  "url": "https://doi.org/10.1093/nar/gkag1152",
+  "pmid": "43042552",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1093/nar/gkag1152",
+   "source": "Crossref license field fetched 2026-11-18: CC BY 4.0"
+  },
+  "whyItMatters": "Watching telomere RNA in living cells, researchers found it binds chromosome ends in two ways, with long-lasting RNA-DNA hybrids forming mainly at short telomeres, which matter for ageing and cancer.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Telomeres are the protective caps at the ends of our chromosomes, and they shorten as cells divide. Short telomeres are a recognised hallmark of ageing and can push cells into senescence, while cancer cells must find a way to maintain them. Telomeres were long thought to be silent, but they are actually transcribed into long RNA molecules called TERRA. TERRA helps regulate how telomeres are copied, how the telomere-extending enzyme telomerase works and how damaged telomeres are repaired by homology-directed repair. It can also form R-loops, structures where the RNA pairs with one strand of the telomeric DNA. How and how quickly TERRA actually finds and sticks to telomeres in a living cell has been unclear.",
+   "did": "The researchers tagged TERRA molecules with PP7 stem-loops, a small RNA tag that can be made to glow, using genome editing so that the cell's own TERRA carried the tag. They then filmed living cells with fluorescence microscopy. A deep-learning method detected individual TERRA spots, and single-particle tracking followed how each molecule moved and how long it stayed at a telomere. They tested which proteins were needed for each type of interaction, including the shelterin protein TRF2 and factors involved in homology-directed repair.",
+   "found": "TERRA associates with telomeres in two distinct ways. In the first, it interacts frequently but briefly with TRF2, part of the shelterin complex that protects telomeres. In the second, it forms long-lasting interactions, persisting from seconds to several minutes, in which it builds R-loops with telomeric DNA. These R-loops form preferentially at short telomeres. Their formation needs factors involved in homology-directed repair but does not need TRF2. The authors conclude that there are two parallel ways of recruiting TERRA to telomeres that differ substantially in their dynamics and structure, and they offer this as a framework for understanding how TERRA contributes to telomere function in ageing and cancer.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. This is basic cell biology done in cultured cells, and the abstract does not name the cell types used or test any link to ageing in tissues or people directly; the relevance to ageing is a framework the authors suggest. Imaging tagged RNA can change its behaviour slightly, and results in one cell system may not apply to all human cells.",
+   "terms": [
+    {
+     "term": "Telomere",
+     "definition": "The repetitive DNA cap at each chromosome end that shortens as cells divide."
+    },
+    {
+     "term": "TERRA",
+     "definition": "Telomeric repeat-containing RNA: long RNA molecules copied from telomeres."
+    },
+    {
+     "term": "R-loop",
+     "definition": "A structure where an RNA strand pairs with one strand of DNA, displacing the other."
+    },
+    {
+     "term": "Shelterin / TRF2",
+     "definition": "A protein complex that protects telomeres; TRF2 is one of its members."
+    },
+    {
+     "term": "Homology-directed repair (HDR)",
+     "definition": "A DNA repair route that uses a matching DNA sequence as a template."
+    },
+    {
+     "term": "Single-particle tracking",
+     "definition": "Following individual glowing molecules over time to measure how they move and bind."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "oral-health-epigenetic-aging-mortality-nhanes",
+  "group": "latest",
+  "title": "Poor oral health, epigenetic aging, and mortality in older adults: a nationally representative follow-up study",
+  "authors": [
+   "Hye-Ji Seo",
+   "Yoosoo Chang",
+   "Seungho Ryu",
+   "Kyeezu Kim"
+  ],
+  "authorsShort": "Hye-Ji Seo et al.",
+  "firstAuthor": "Hye-Ji Seo",
+  "journal": "GeroScience",
+  "pubDate": "2026-11-17",
+  "doi": "10.1007/s11357-026-02660-7",
+  "url": "https://doi.org/10.1007/s11357-026-02660-7",
+  "pmid": "43043596",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref license field fetched 2026-11-18 lists only Springer text-and-data-mining terms (no open licence); treated as paywalled"
+  },
+  "whyItMatters": "In 1,764 older Americans followed for about 17 years, gum disease and tooth loss went with faster DNA methylation aging, which partly accounted for the higher death risk of tooth loss.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Gum disease (periodontitis) and tooth loss are common in older adults and have been tied to heart disease and earlier death, probably in part through long-running inflammation. Epigenetic clocks read chemical methylation tags on DNA to estimate how fast someone is ageing biologically. If poor oral health speeds up these clocks, that would point to a measurable biological pathway connecting the mouth to the rest of the body, and to a modifiable habit that could matter for healthy ageing.",
+   "did": "The researchers used data on 1,764 participants from the US National Health and Nutrition Examination Survey (NHANES) cycles of 1999-2000 and 2001-2002, linked to national death records through the end of 2019 (median follow-up 17.4 years). Gum disease was graded as none, mild, moderate or severe using standard CDC/AAP definitions, and remaining teeth were grouped as 20 or more, 10-19, 1-9 or none. They looked at seven measures of epigenetic age acceleration: IEAA, EEAA, SBAA, PhenoAA, GrimAA, Grim2AA and DunedinPoAm. Statistical models adjusted for sociodemographic, lifestyle and body-size factors, and mediation analysis asked how much of the link between oral health and death ran through epigenetic ageing.",
+   "found": "People with periodontitis showed faster epigenetic ageing on all seven measures than those without it (effect estimates of roughly 0.9 to 1.9, all statistically significant). People with fewer than 20 teeth had higher GrimAA and Grim2AA scores. The associations tended to be stronger in men, drinkers and smokers. Grim2AA partly mediated the link between tooth loss and death, accounting for 28.9% of the association with all-cause mortality, 19.1% for cardiovascular deaths and 22.7% for lower respiratory disease deaths. The authors suggest epigenetic ageing may be a key biological link between tooth loss and shorter survival, and that good oral health may help slow biological ageing.",
+   "limits": "This synopsis is based on the abstract only; the article appears to be paywalled and its full text was not reviewed. This is an observational study, so it shows associations, not cause and effect: people with poor oral health may differ in smoking, diet, income and health care in ways that adjustment cannot fully remove. Oral health and DNA methylation were measured once, more than 20 years ago, and mediation estimates rest on modelling assumptions. The study does not test whether treating gum disease slows epigenetic clocks.",
+   "terms": [
+    {
+     "term": "Periodontitis",
+     "definition": "A chronic gum infection that damages the tissue and bone supporting the teeth."
+    },
+    {
+     "term": "Epigenetic age acceleration",
+     "definition": "How much older (or younger) a person's DNA methylation pattern looks than their actual age."
+    },
+    {
+     "term": "GrimAge / Grim2AA",
+     "definition": "Epigenetic clocks built to predict mortality risk; Grim2AA is the acceleration measure from the second version."
+    },
+    {
+     "term": "DunedinPoAm",
+     "definition": "A methylation measure of the current pace of ageing."
+    },
+    {
+     "term": "Mediation analysis",
+     "definition": "A statistical method estimating how much of a link between two things runs through a third factor."
+    },
+    {
+     "term": "NHANES",
+     "definition": "A long-running, nationally representative US health survey."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "enteric-neuron-aging-dna-damage-senescence-preprint",
+  "group": "latest",
+  "title": "Aging enteric neurons develop chromatin remodeling, DNA damage and a senescence-like phenotype",
+  "authors": [
+   "Lobke Marie M Mombeek",
+   "Anton Brosens",
+   "Reindert Jehoul",
+   "Anita J.L. Leembruggen",
+   "Peter H Neckel",
+   "Marlene M Hao",
+   "Werend Boesmans",
+   "David M Wilson"
+  ],
+  "authorsShort": "Lobke Marie M Mombeek et al.",
+  "firstAuthor": "Lobke Marie M Mombeek",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-17",
+  "doi": "10.64898/2026.11.11.765843",
+  "url": "https://doi.org/10.64898/2026.11.11.765843",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.11.765843",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata fetched 2026-11-18: bioRxiv licence FAQ)"
+  },
+  "whyItMatters": "Preprint: nerve cells in the gut wall pile up DNA damage and senescence-like changes with age in mice, with matching damage marks in older human gut tissue.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Constipation, slower gut transit and other digestive problems become more common with age. Gut movement and digestion are controlled by the enteric nervous system (ENS), a large network of neurons in the gut wall sometimes called the 'second brain'. Neurons do not divide, so they must live with whatever DNA damage they accumulate over a lifetime. Whether gut neurons show the classic hallmarks of ageing, such as DNA damage, chromatin changes and senescence, has been poorly characterised.",
+   "did": "The researchers studied enteric neurons in the jejunum (small intestine) and colon of mice aged 2, 13-15 and 22-24 months. They used immunofluorescence staining, transmission electron microscopy, calcium imaging of nerve activity and analysis of network shape. To check whether changes were simply due to gut inflammation, they compared ageing with DSS-induced colitis, a chemical model of gut inflammation. They also compared selected markers in young and aged human gut tissue.",
+   "found": "Gut neurons accumulated DNA damage with age in both regions, and nitrergic neurons carried more damage than cholinergic neurons. By 15 months, both regions showed more overlap of the heterochromatin mark H3K9me3 with DNA staining, consistent with senescence-associated heterochromatin foci, which the authors suggest may be an early driver of gut ageing. At 24 months the colon had fewer neurons, the remaining neurons had larger cell bodies, and roughly 25-30% of neurons showed cytoplasmic p21, a senescence marker. Aged neurons had enlarged, less round mitochondria and more pPDH staining, which the authors read as declining neuronal activity. Calcium responses rose with electrical stimulation but fell after drug-like stimulation, consistent with a remodelled network. Colitis did not reproduce the DNA damage, heterochromatin or p21 changes, suggesting these are driven by ageing itself. Aged human gut neurons showed stronger gammaH2AX (a DNA break marker) and H3K9me3 signals.",
+   "limits": "This is a preprint and has not been peer reviewed, so its findings may change. This synopsis is based on the abstract only. Most of the work is in mice, and the human comparison covers only selected markers in a sample the abstract does not size. The study describes changes that occur with age; it does not show that DNA damage or senescence in gut neurons causes digestive symptoms, or that removing these cells would help.",
+   "terms": [
+    {
+     "term": "Enteric nervous system (ENS)",
+     "definition": "The network of neurons in the gut wall that controls movement and digestion."
+    },
+    {
+     "term": "Senescence-like phenotype",
+     "definition": "Features of senescence, such as p21 expression, seen in cells that normally do not divide, like neurons."
+    },
+    {
+     "term": "H3K9me3 / heterochromatin foci",
+     "definition": "A chemical mark on histones associated with tightly packed, silenced DNA; dense foci are a senescence marker."
+    },
+    {
+     "term": "gammaH2AX",
+     "definition": "A modified histone that marks DNA double-strand breaks."
+    },
+    {
+     "term": "Nitrergic vs cholinergic neurons",
+     "definition": "Gut neurons that signal mainly with nitric oxide versus acetylcholine."
+    },
+    {
+     "term": "DSS colitis",
+     "definition": "A mouse model of gut inflammation induced by the chemical dextran sulfate sodium."
+    }
+   ]
+  }
  }
 ]
