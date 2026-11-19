@@ -7731,5 +7731,494 @@
     }
    ]
   }
+ },
+ {
+  "slug": "mitochondrial-dna-variants-telomere-length",
+  "group": "latest",
+  "title": "Human mitochondrial DNA variants influence telomere length",
+  "authors": [
+   "Manon Mahieu",
+   "Jean-Philippe Defour",
+   "Barbara Mathieu",
+   "Elena Richiardone",
+   "Isaac Heremans",
+   "Elisa Fabiole",
+   "Gabriel Levy",
+   "Gabriel Le Berre",
+   "Isabelle Scheers",
+   "Bénédicte Brichard",
+   "Thierry Arnould",
+   "Patrick Revy",
+   "Guido Bommer",
+   "Bernard Gallez",
+   "Cyril Corbet",
+   "Anabelle Decottignies"
+  ],
+  "authorsShort": "Manon Mahieu et al.",
+  "firstAuthor": "Manon Mahieu",
+  "journal": "eLife",
+  "pubDate": "2026-11-18",
+  "doi": "10.7554/elife.111391",
+  "url": "https://doi.org/10.7554/elife.111391",
+  "pmid": "43049752",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.7554/elife.111391",
+   "source": "Crossref license field fetched 2026-11-19: CC BY 4.0"
+  },
+  "whyItMatters": "Mitochondria taken from people with longer or shorter telomeres changed how fast telomeres shortened in lab cells under oxidative stress, linking the mitochondrial genome to telomere length.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 2
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Telomeres are protective caps of repetitive DNA at the ends of chromosomes. They shorten as cells divide and with oxidative stress, and short telomeres are one of the recognised hallmarks of ageing. People differ a lot in telomere length, and much of that difference is inherited, but the known genes in the nuclear genome explain only part of it. Mitochondria carry their own small genome, mitochondrial DNA (mtDNA), which encodes parts of the energy-producing electron transport chain and is inherited from the mother. Earlier mouse work showed that efficient mitochondria with low production of reactive oxygen species (ROS) are needed for telomeres to lengthen in early embryos. That raised a simple question: do natural differences in human mtDNA help set how long a person's telomeres are?",
+   "did": "The researchers used a transmitochondrial cybrid model. They took mitochondria from the platelets of human donors whose blood telomere lengths were known to differ, and introduced them into cultured cells that had been stripped of their own mtDNA. Because the nuclear background is the same in every cybrid line, differences between lines can be traced to the donated mitochondria. They then measured ROS levels and telomere length in the cybrids, followed the cells through the stressful period while they adapted to their new mitochondria, looked at the activity of complex I (the first enzyme of the electron transport chain), and tested whether an antioxidant or a precursor of NAD+ (a key cellular energy and repair molecule) changed the outcome.",
+   "found": "Donor blood telomere length was inversely related to ROS levels in the cybrids: mitochondria from donors with longer telomeres tended to produce less ROS. Forming cybrids involved a short phase of oxidative stress before the cells adapted. During that phase, cybrids carrying mtDNA variants linked to lower complex I activity showed rapid telomere shortening. Adding an antioxidant or an NAD+ precursor prevented that shortening. Interestingly, some of these lower-activity variants occur naturally in people who have long telomeres, so the authors do not claim the variants shorten telomeres in everyday life. Instead they propose that under acute oxidative stress, complex I activity becomes critical for protecting telomeres, possibly by keeping the NAD+/NADH balance in check and supporting PARP1, an NAD+-using enzyme involved in DNA repair. They suggest mitochondrial replacement approaches as a possible future research direction.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. The key results come from cultured cybrid cells under an artificial, short burst of oxidative stress, which may not reflect what happens to telomeres over decades in the body. The study does not show that mtDNA variants change telomere length or ageing outcomes in living people, and the NAD+/PARP1 link is proposed as a possible mechanism rather than proven. The rescue with an antioxidant and an NAD+ precursor was in cells; it is not evidence that such supplements protect telomeres in humans.",
+   "terms": [
+    {
+     "term": "Telomere",
+     "definition": "Repetitive DNA cap at each chromosome end that shortens with cell division and stress."
+    },
+    {
+     "term": "Mitochondrial DNA (mtDNA)",
+     "definition": "The small, maternally inherited genome inside mitochondria, encoding parts of the energy machinery."
+    },
+    {
+     "term": "Cybrid",
+     "definition": "A cell line made by putting donor mitochondria into cells that lack their own mtDNA, so only the mitochondria differ."
+    },
+    {
+     "term": "Reactive oxygen species (ROS)",
+     "definition": "Reactive oxygen-containing molecules made by mitochondria that can damage DNA, including telomeres."
+    },
+    {
+     "term": "Complex I",
+     "definition": "The first and largest enzyme of the mitochondrial electron transport chain; it uses NADH."
+    },
+    {
+     "term": "NAD+ / PARP1",
+     "definition": "NAD+ is a cellular energy and signalling molecule; PARP1 is a DNA-repair enzyme that consumes NAD+."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "ipsc-long-term-culture-aging-dna-pkcs-dnmt3a",
+  "group": "latest",
+  "title": "DNA-PKcs-DNMT3A axis triggers aging-like deteriorations in mouse pluripotent stem cells",
+  "authors": [
+   "Xiaoyu Xu",
+   "Mengting Wang",
+   "Hao Wang",
+   "Jiayu Yu",
+   "Yanxin Huang",
+   "Li Wu",
+   "Ying Jiang",
+   "Shaorong Gao",
+   "Zhiyong Mao",
+   "Jiayu Chen",
+   "Yu Chen"
+  ],
+  "authorsShort": "Xiaoyu Xu et al.",
+  "firstAuthor": "Xiaoyu Xu",
+  "journal": "Advanced Science",
+  "pubDate": "2026-11-18",
+  "doi": "10.1002/advs.78797",
+  "url": "https://doi.org/10.1002/advs.78797",
+  "pmid": "43052002",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1002/advs.78797",
+   "source": "Crossref license field fetched 2026-11-19: CC BY 4.0"
+  },
+  "whyItMatters": "Stem cells thought to be 'ageless' lost DNA-repair capacity and identity after long culture, through a chain running from lamin A to the repair enzyme DNA-PKcs to the methylation enzyme DNMT3A.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 2
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Induced pluripotent stem cells (iPSCs) are adult cells reprogrammed back to an embryo-like state. They can, in principle, become any cell type, which makes them a major hope for regenerative medicine, including treatments for age-related diseases. They are often described as ageless because they can keep dividing in the lab without obvious decline. But if iPSCs quietly accumulate damage while they are grown for long periods, the cells used to make therapies could be of lower quality than assumed. The question also matters for ageing biology in general, because it touches the links between DNA repair, the epigenome and loss of cell identity, three processes that go wrong in ageing tissues.",
+   "did": "The researchers grew mouse iPSCs for long periods with repeated passaging and compared long-term cultured cells with earlier-passage cells. They examined DNA repair through non-homologous end joining (NHEJ), the main pathway that rejoins broken DNA strands, along with markers of pluripotent identity, the ability to differentiate into other cell types and genome-wide gene expression. They then traced the molecular steps involved, focusing on the nuclear scaffold protein lamin A, the repair enzyme DNA-PKcs, the transcription factors SP1/3 and the DNA methylation enzyme DNMT3A.",
+   "found": "Long-term cultured iPSCs developed what the authors call ageing-like decline: impaired NHEJ repair, loss of cellular identity and reduced ability to differentiate. The proposed chain of events starts with falling levels of lamin A, which leads to inactivation of DNA-PKcs and therefore poorer NHEJ repair. Inactive DNA-PKcs in turn reduced expression of DNMT3A, acting through SP1/3, and this was accompanied by gene-expression patterns typical of ageing and by weakened pluripotency. The authors describe this as crosstalk between DNA damage and the epigenome, argue that genome stability should be monitored in iPSCs destined for the clinic, and say they have identified targets that could be used to improve cell quality.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. The work is in mouse cells grown in culture, so it is unclear how closely the changes match ageing in a living body or in human iPSCs. 'Ageing-like' is the authors' description of a set of molecular and functional changes, not proof that the cells age in the same way tissues do. The abstract does not say how many passages were needed, how large the effects were, or whether the suggested targets have been tested to restore cell quality.",
+   "terms": [
+    {
+     "term": "Induced pluripotent stem cells (iPSCs)",
+     "definition": "Adult cells reprogrammed into an embryo-like state that can become many cell types."
+    },
+    {
+     "term": "Passaging",
+     "definition": "Repeatedly splitting and re-plating cells to keep them growing in the lab."
+    },
+    {
+     "term": "Non-homologous end joining (NHEJ)",
+     "definition": "The main pathway that directly rejoins the two ends of a broken DNA double strand."
+    },
+    {
+     "term": "DNA-PKcs",
+     "definition": "A key kinase enzyme that drives NHEJ repair."
+    },
+    {
+     "term": "Lamin A",
+     "definition": "A protein that forms part of the scaffold lining the inside of the nucleus; its loss is linked to premature ageing."
+    },
+    {
+     "term": "DNMT3A",
+     "definition": "An enzyme that adds new methyl marks to DNA, shaping which genes are on or off."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "proteostasis-lbr-chromatin-genome-instability-senescence",
+  "group": "latest",
+  "title": "Disturbed proteostasis is the key event that triggers the induction of cellular senescence through the regulation of chromatin organization and genome stability",
+  "authors": [
+   "Yuki Takauji",
+   "Keisuke Tanabe",
+   "Haruna Miyashita",
+   "Takuma Katakawa",
+   "Saeri Fujii",
+   "Mami Sugimoto",
+   "Atsuki En",
+   "Dai Ayusawa",
+   "Michihiko Fujii"
+  ],
+  "authorsShort": "Yuki Takauji et al.",
+  "firstAuthor": "Yuki Takauji",
+  "journal": "The FEBS Journal",
+  "pubDate": "2026-11-18",
+  "doi": "10.1111/febs.70789",
+  "url": "https://doi.org/10.1111/febs.70789",
+  "pmid": "43049256",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1111/febs.70789",
+   "source": "Crossref license field fetched 2026-11-19: CC BY 4.0"
+  },
+  "whyItMatters": "Proposes a shared route into senescence: a surge in protein making disturbs protein balance, depletes the chromatin organiser LBR, and that loss destabilises the genome.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Cellular senescence is a state in which cells permanently stop dividing after stress. Senescent cells build up with age and are thought to contribute to tissue decline and inflammation. Many different stresses can push a cell into senescence, including DNA damage, oncogene activation and repeated division, yet senescent cells end up looking remarkably similar. That suggests a common pathway underneath. Three features show up again and again in senescent cells: disturbed proteostasis (the cell's balance of making, folding and clearing proteins), altered chromatin organisation and increased genome instability. How these connect has been unclear. This group had earlier shown that the lamin B receptor (LBR), which helps organise tightly packed heterochromatin at the nuclear edge, drops in senescent cells and that reducing it can cause senescence, and that slowing protein synthesis can suppress senescence.",
+   "did": "Building on that earlier work, the researchers studied cells as they were induced into senescence. They tracked protein synthesis, looked at whether rising protein production disturbed proteostasis, and measured how this affected LBR protein levels. They then examined what happened to chromatin organisation and genome stability when LBR protein fell, to test whether this sequence could explain entry into senescence.",
+   "found": "Protein synthesis increased while cells were being pushed into senescence. This rise disturbed proteostasis, and the disturbance led to lower LBR protein levels. Reduced LBR then drove senescence by changing chromatin organisation and increasing genome instability. The authors argue this links protein synthesis to chromatin structure and offers a single explanation for three features that senescent cells share: disturbed proteostasis, altered chromatin and genome instability. They present disturbed proteostasis as the key initiating event.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. The abstract does not state which cell types or senescence triggers were tested, so it is unclear how general the pathway is across different stresses or tissues. The work appears to be in cultured cells, and the abstract gives no data from ageing animals or people. Calling proteostasis the key event is the authors' interpretation; other routes into senescence may operate in parallel.",
+   "terms": [
+    {
+     "term": "Cellular senescence",
+     "definition": "A stable state in which a cell stops dividing after stress but stays alive and active."
+    },
+    {
+     "term": "Proteostasis",
+     "definition": "The cell's balance of making, folding and breaking down proteins."
+    },
+    {
+     "term": "Lamin B receptor (LBR)",
+     "definition": "A protein of the inner nuclear membrane that anchors tightly packed heterochromatin."
+    },
+    {
+     "term": "Heterochromatin",
+     "definition": "Densely packed, mostly silent DNA."
+    },
+    {
+     "term": "Chromatin organisation",
+     "definition": "How DNA and its packaging proteins are arranged in the nucleus, which affects gene activity and stability."
+    },
+    {
+     "term": "Genome instability",
+     "definition": "An increased tendency for DNA to break, mutate or rearrange."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "als-neuron-somatic-mutation-trajectories-preprint",
+  "group": "latest",
+  "title": "Altered age-dependent somatic mutational trajectories in ALS motor cortex neurons",
+  "authors": [
+   "Liyueyue Liu",
+   "Charlotte van Dijk",
+   "Sam Bonsall",
+   "Rodrigo Siqueira Kazu",
+   "Sai Zhang",
+   "Johnathan Cooper-Knock",
+   "Jan Veldink",
+   "Kevin Patrick Kenna"
+  ],
+  "authorsShort": "Liyueyue Liu et al.",
+  "firstAuthor": "Liyueyue Liu",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-18",
+  "doi": "10.64898/2026.11.17.767052",
+  "url": "https://doi.org/10.64898/2026.11.17.767052",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.17.767052",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata fetched 2026-11-19: CC BY-NC-ND 4.0)"
+  },
+  "whyItMatters": "Preprint: motor-cortex neurons from younger ALS patients carried more somatic mutations than controls of the same age, a gap that narrowed in older donors.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Every cell picks up new DNA changes, called somatic mutations, over a lifetime. In neurons, which rarely or never divide, these mutations build up steadily with age, and they have been proposed as one link between ageing and why some neurons become vulnerable to disease. Amyotrophic lateral sclerosis (ALS) is a fatal disease in which motor neurons die. Its onset depends on genes, environment and age, but the age component is poorly understood. If neurons in people with ALS accumulate mutations differently from neurons in healthy people, that could point to a mechanism connecting genome damage, ageing and neurodegeneration.",
+   "did": "Instead of generating new data, the researchers reanalysed three existing single-nucleus datasets from ALS and control motor cortex that combined RNA sequencing and ATAC sequencing (a map of open, accessible DNA) using the 10X platform. They called variants within the parts of the genome those methods cover, checked that the calls behaved like known neuronal somatic mutations, and compared mutation burden and mutational signatures across age in ALS versus controls. They then looked for the same pattern in an independent dataset of single-cell whole-genome sequencing.",
+   "found": "The variant calls showed the expected hallmarks of real neuronal somatic mutations: they were enriched in neurons, increased with age and included SBS5, a 'clock-like' mutational signature that accumulates steadily over life. In ALS, neuronal mutation burden followed a different age trajectory from controls. Younger ALS donors had a higher burden, and the difference shrank in older donors. SBS5 was the largest fitted component and showed a matching age-dependent difference. A similar pattern appeared in the independent whole-genome dataset. The authors conclude that ALS is associated with age-dependent changes in neuronal somatic mutation patterns.",
+   "limits": "This is a preprint and has not been peer reviewed, so its findings may change. This synopsis is based on the abstract only. The analysis reuses data that were not designed for mutation calling and covers only the genomic regions captured by these methods, which may miss or misclassify some mutations. The abstract does not give donor numbers or effect sizes. The finding is an association: it does not show whether extra mutations help cause ALS or result from the disease process.",
+   "terms": [
+    {
+     "term": "Somatic mutation",
+     "definition": "A DNA change that arises in a body cell after conception and is not inherited."
+    },
+    {
+     "term": "ALS",
+     "definition": "Amyotrophic lateral sclerosis, a fatal disease in which motor neurons degenerate."
+    },
+    {
+     "term": "Single-nucleus RNA/ATAC sequencing",
+     "definition": "Methods that read gene activity and open-DNA regions in individual cell nuclei."
+    },
+    {
+     "term": "Mutational signature",
+     "definition": "A characteristic pattern of DNA changes left by a particular mutational process."
+    },
+    {
+     "term": "SBS5",
+     "definition": "A 'clock-like' single-base-substitution signature that builds up steadily with age in many tissues."
+    },
+    {
+     "term": "Mutation burden",
+     "definition": "The number of somatic mutations in a cell or sample."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "ercc1-progeroid-mice-translation-dietary-restriction",
+  "group": "latest",
+  "title": "Translational changes upon aging and dietary restriction in progeroid DNA-repair-deficient mice",
+  "authors": [
+   "Wilbert P. Vermeij",
+   "Ivar van Galen",
+   "Rutger A. Ozinga",
+   "Damon A. Hofman",
+   "Jip van Dinter",
+   "Sem A. G. Engels",
+   "Kimberly Smit",
+   "Sebastiaan van Heesch",
+   "Jan H. J. Hoeijmakers"
+  ],
+  "authorsShort": "Wilbert P. Vermeij et al.",
+  "firstAuthor": "Wilbert P. Vermeij",
+  "journal": "Aging Biology",
+  "pubDate": "2026-02-03",
+  "doi": "10.59368/agingbio.20260043",
+  "url": "https://doi.org/10.59368/agingbio.20260043",
+  "pmid": "43048381",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "gold",
+   "isOpen": true,
+   "url": "https://agingbiologyjournal.org/Archive/Volume4/20260043/",
+   "source": "OpenAlex open_access field fetched 2026-11-19 (gold; Crossref listed no license)"
+  },
+  "whyItMatters": "In DNA-repair-deficient mice that age fast, damage-driven changes in gene activity carried through to protein production largely unchanged, while dietary restriction fine-tuned how ribosomes read genes.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "One leading idea in ageing research is that DNA damage builds up over time and gets in the way of reading genes. This group showed earlier that accumulating damage physically stalls RNA polymerase, the enzyme that copies genes into RNA, so long genes in particular are under-expressed in old tissue. What was not known is whether the next step, translation of RNA into protein by ribosomes, is affected in the same way, or whether cells compensate. The question was studied in Ercc1 mutant mice, which lack an important DNA-repair factor, age prematurely and are a well-known model for DNA damage-driven ageing. Dietary restriction (eating less without malnutrition) strongly delays ageing in these mice, which makes it a useful comparison.",
+   "did": "The researchers compared liver tissue from Ercc1 Δ/- progeroid mice and normal (wild-type) mice, under free feeding and under dietary restriction, and included normally aged wild-type mice. They measured gene activity at the RNA level and, in parallel, used ribosome profiling, a method that captures exactly which RNA stretches ribosomes are reading, to measure translation. This let them see whether changes in RNA carried through to protein production, and to look at codon occupancy (how long ribosomes sit on each three-letter code), ribosome pausing and upstream open reading frames, short regulatory stretches in front of genes.",
+   "found": "Changes in gene activity during accelerated, normal and delayed ageing were largely preserved at the translation level, so the authors rule out a major separate effect of translation on gene expression in ageing. Both Ercc1 mutant and naturally aged wild-type mice prioritised inflammation, metabolic redesign and production of translation initiation factors, and showed a shift in codon occupancy. Dietary restriction increased translation initiation factors further but partly normalised codon occupancy, which the authors call a discordant response. Dietary restriction also intensified ribosomal pausing and relatively reduced upstream open reading frame expression. They interpret this as fine-tuning of protein output under stress, and highlight dietary restriction as a way to modify DNA damage-driven translational changes during ageing.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. The work is in mice and looks only at liver, so other organs may behave differently. The Ercc1 model has extreme DNA-repair failure, which is useful for study but much more severe than normal human ageing. The abstract gives no numbers for the size of the changes, and dietary restriction results in mice do not show that eating less produces the same effects in people. The PubMed record appeared this week, but the paper's listed publication date is 3 February 2026.",
+   "terms": [
+    {
+     "term": "Progeroid",
+     "definition": "Showing features of premature, accelerated ageing."
+    },
+    {
+     "term": "Ercc1",
+     "definition": "A gene needed for several DNA-repair pathways; mice with reduced Ercc1 age prematurely."
+    },
+    {
+     "term": "Dietary restriction (DR)",
+     "definition": "Reduced food intake without malnutrition, which delays ageing in many animals."
+    },
+    {
+     "term": "Translation",
+     "definition": "The process by which ribosomes read RNA to make protein."
+    },
+    {
+     "term": "Ribosome profiling",
+     "definition": "Sequencing the RNA pieces protected by ribosomes to see exactly what is being translated."
+    },
+    {
+     "term": "Upstream open reading frame (uORF)",
+     "definition": "A short coding stretch before a gene's main coding region that can regulate its translation."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "blue-zone-epigenetic-clock-calibration-nicoya",
+  "group": "latest",
+  "title": "Aging out of the blue: region-specific epigenetic clock calibration for a blue zone with the DNAm SuperLearner",
+  "authors": [
+   "Nolan Gunter",
+   "Andres Cardenas",
+   "Michael Kobor",
+   "Nicole Gladish",
+   "Julie MacIsaac",
+   "Kristy Dever",
+   "David Rehkopf",
+   "William Dow",
+   "Luis Rosero-Bixby",
+   "Alan Hubbard"
+  ],
+  "authorsShort": "Nolan Gunter et al.",
+  "firstAuthor": "Nolan Gunter",
+  "journal": "PLOS Computational Biology",
+  "pubDate": "2026-11-18",
+  "doi": "10.1371/journal.pcbi.1014949",
+  "url": "https://doi.org/10.1371/journal.pcbi.1014949",
+  "pmid": "43050493",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1371/journal.pcbi.1014949",
+   "source": "Crossref license field fetched 2026-11-19: CC BY 4.0"
+  },
+  "whyItMatters": "Off-the-shelf epigenetic clocks disagreed by about seven years on Costa Rica's Nicoya blue zone; after careful local calibration only a small biological-age advantage remained.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks estimate biological age from chemical methyl marks on DNA at specific CpG sites, and the gap between that estimate and calendar age, called epigenetic age acceleration (EAA), predicts disease and death. 'Blue zones' are regions where unusually many people live long lives, so they are natural places to ask whether residents age more slowly at the molecular level. But most clocks are trained on large mixed populations, so they reflect average trends and may be biased in a particular region. If different clocks give different answers, conclusions about a blue zone could depend more on the tool than on the people.",
+   "did": "Using data from the Costa Rican Longevity and Healthy Aging Study (CRELES), the researchers analysed DNA methylation in 206 residents of the Nicoya blue zone and 875 people from elsewhere in Costa Rica. They trained a SuperLearner, a machine-learning method that finds the best weighted combination of many existing clocks and flexible algorithms, on the non-Nicoyan group only. They then used it to build a calibrated statistical test comparing EAA between Nicoya and the reference population, and compared results before and after calibration, including calibration within 10-year age groups.",
+   "found": "Before calibration or adjustment, the answer depended heavily on the clock. The SuperLearner placed Nicoyans about three years younger on average (−3.05 years, 95% CI −3.64 to −2.46), while the DNAmFitAge clock placed them almost four years older (+3.59 years, 95% CI 3.02 to 4.17). Calibrating each clock's average to the non-Nicoyan Costa Ricans made the clocks agree, with an estimated EAA advantage of about two years for Nicoya (−1.96 years, 95% CI −2.56 to −1.37). After calibrating within 10-year age groups, only a small advantage remained (−0.35 years, 95% CI −0.64 to −0.05), concentrated among the oldest participants. The authors offer the approach as a reproducible framework for comparing regions when a suitable reference population exists.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so sample sizes, effect sizes and methods details are not given here. The study is cross-sectional and measures methylation once, so it cannot show that Nicoyans age more slowly over time or explain why. Results depend on having a well-matched reference population, and the Nicoya sample is modest in size. The paper mainly addresses how to measure fairly; the small remaining difference shows that headline claims of much younger biological age in blue zones can shrink with careful calibration.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A model that estimates age from DNA methylation at selected CpG sites."
+    },
+    {
+     "term": "Epigenetic age acceleration (EAA)",
+     "definition": "How much older or younger a person's epigenetic age is than expected for their calendar age."
+    },
+    {
+     "term": "Blue zone",
+     "definition": "A region with unusually high rates of long life, such as Nicoya in Costa Rica."
+    },
+    {
+     "term": "SuperLearner",
+     "definition": "An ensemble machine-learning method that combines many predictors into the best weighted mix."
+    },
+    {
+     "term": "Calibration",
+     "definition": "Adjusting a model's outputs so they match a reference population, removing systematic bias."
+    },
+    {
+     "term": "95% confidence interval (CI)",
+     "definition": "The range within which the true value is likely to lie, given the data."
+    }
+   ]
+  }
  }
 ]
