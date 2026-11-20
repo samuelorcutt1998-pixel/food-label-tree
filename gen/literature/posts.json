@@ -8220,5 +8220,400 @@
     }
    ]
   }
+ },
+ {
+  "slug": "clonal-hematopoiesis-age-related-eye-disease",
+  "group": "latest",
+  "title": "Clonal hematopoiesis and the risk of major age-related eye diseases",
+  "authors": [
+   "Ruijie Xie",
+   "Robert P. Finger",
+   "Davide Garzone",
+   "Lei Peng",
+   "Hermann Brenner",
+   "Ben Schöttker"
+  ],
+  "authorsShort": "Ruijie Xie et al.",
+  "firstAuthor": "Ruijie Xie",
+  "journal": "GeroScience",
+  "pubDate": "2026-11-19",
+  "doi": "10.1007/s11357-026-02679-w",
+  "url": "https://doi.org/10.1007/s11357-026-02679-w",
+  "pmid": "43058396",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref license field fetched 2026-11-20 lists only Springer text-and-data-mining terms (no open licence); treated as paywalled"
+  },
+  "whyItMatters": "In over 436,000 UK Biobank adults, carrying age-related blood-cell mutations (CHIP) was linked to a higher risk of cataract, macular degeneration and diabetic eye disease, though most effects were small.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "As we age, blood stem cells in the bone marrow pick up random DNA changes. Occasionally one of these somatic mutations gives a stem cell a growth edge, and its descendants expand into a sizeable share of the blood. When this happens without any blood cancer it is called clonal hematopoiesis of indeterminate potential, or CHIP. CHIP becomes more common with age and is one of the clearest, measurable examples of how mutations accumulating in our own tissues can shape health. It has already been tied to heart disease and other conditions, probably in part because the mutated immune cells push the body toward chronic inflammation. Whether it also matters for the eye's common age-related diseases, such as cataract, glaucoma and macular degeneration, has been uncertain. This study asks that question in a very large population.",
+   "did": "The team used UK Biobank, a cohort of volunteers who enrolled between 2006 and 2010 and whose health records were followed until March 2022. Whole-exome sequencing of blood DNA was used to spot CHIP, defined as known driver mutations present in at least 2% of the sequenced DNA copies (the variant allele fraction). They then followed people for new diagnoses of cataract, glaucoma, age-related macular degeneration (AMD) and diabetic retinopathy, the last analysed only in people with diabetes. Statistical models adjusted for other factors and estimated hazard ratios, which describe how much higher the rate of a new diagnosis was in people with CHIP. They also looked at which gene carried the mutation, how big the clone was, and whether blood counts and inflammation markers explained the links.",
+   "found": "Of 436,469 participants, with an average age of about 56, 14,110 (3.2%) had CHIP. Over a median of 14.4 years, people with CHIP had a modestly higher risk of cataract (about 8% higher) and AMD (about 12% higher), and a clearly higher risk of diabetic retinopathy among people with diabetes (about 48% higher). For glaucoma overall the link was not statistically significant, but it was significant in people without high blood pressure. The size of the association differed by clone size and by which driver gene was mutated. Blood and inflammation markers explained less than 5% of the links, so the measured inflammation does not seem to be the main route.",
+   "limits": "This synopsis is based on the abstract only, because the full text is paywalled. This is an observational study, so it shows associations, not that CHIP causes eye disease. Apart from diabetic retinopathy the effects were small, as the authors themselves note. UK Biobank volunteers tend to be healthier and are mostly of European ancestry, and the eye diagnoses came from health records rather than eye examinations. CHIP was measured once, at enrolment, so changes in clones over time were not captured.",
+   "terms": [
+    {
+     "term": "CHIP",
+     "definition": "Clonal hematopoiesis of indeterminate potential: an expanded group of blood cells carrying the same acquired mutation, without a blood cancer."
+    },
+    {
+     "term": "Somatic mutation",
+     "definition": "A DNA change that arises in a body cell during life rather than being inherited."
+    },
+    {
+     "term": "Variant allele fraction",
+     "definition": "The share of DNA reads that carry a given mutation; a rough measure of how big a clone is."
+    },
+    {
+     "term": "Hazard ratio",
+     "definition": "How much higher (or lower) the rate of a new event is in one group compared with another over follow-up."
+    },
+    {
+     "term": "Age-related macular degeneration",
+     "definition": "Damage to the central retina that blurs central vision, mostly in older adults."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "colibactin-early-life-colorectal-mutagenesis-preprint",
+  "group": "latest",
+  "title": "Common early-life exposure of the colorectal epithelium to the microbiome-derived mutagen colibactin",
+  "authors": [
+   "Henry N. Marshall",
+   "My H. Pham",
+   "Hyunchul Jung",
+   "Laura Humphreys",
+   "Yvette Hooks",
+   "Anh Phuong Le",
+   "Sarah Moody",
+   "Yichen Wang",
+   "Will Knight",
+   "Stephen Fitzgerald",
+   "Yan Shao",
+   "Soyeon Kim",
+   "Jiali Pang",
+   "Nicolas Wyvekens",
+   "Andrew Ramos",
+   "Calli Latimer",
+   "Rashesh Sanghvi",
+   "Ammal Abbasi",
+   "Claire Glemas",
+   "Kelly Spike",
+   "Komal Nayak",
+   "Rob Heuschkel",
+   "Ievgeniia Chicherova",
+   "Peter Campbell",
+   "Inigo Martincorena",
+   "Trevor D. Lawley",
+   "Ludmil B. Alexandrov",
+   "Tim H.H. Coorens",
+   "Raheleh Rahbari",
+   "Paul Brennan",
+   "Maria Dorn-Rasmussen",
+   "Vibeke Wewer",
+   "Johan Burisch",
+   "Matthias Zilbauer",
+   "Michael R. Stratton"
+  ],
+  "authorsShort": "Henry N. Marshall et al.",
+  "firstAuthor": "Henry N. Marshall",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-18",
+  "doi": "10.64898/2026.11.16.766949",
+  "url": "https://doi.org/10.64898/2026.11.16.766949",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.16.766949",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata fetched 2026-11-20: CC BY-NC-ND 4.0)"
+  },
+  "whyItMatters": "Sequencing normal colon cells from 90 young people found a bacterial toxin's mutation fingerprint in about 43%, mostly laid down before age five, sometimes at mutation loads typical of people over 60.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Normal cells lining the colon slowly collect somatic mutations as we age, and a few of these can eventually start a cancer. Most mutations come from ordinary processes like copying errors, but some come from outside sources that leave recognisable patterns called mutational signatures. Colibactin is a DNA-damaging chemical made by certain strains of gut bacteria that live in some healthy people. Earlier work showed it leaves two signatures, SBS88 and ID18, in normal colon cells. Researchers have proposed that more people being exposed to colibactin during the twentieth century could help explain the rise of colorectal cancer in younger adults worldwide. To test that idea, it helps first to know when in life this exposure happens, how common it is, and how many mutations it leaves behind.",
+   "did": "The researchers sequenced the genomes of normal epithelial cells taken from the colon and rectum of 90 children and adolescents. Some were healthy and some had inflammatory bowel disease. They searched each genome for the SBS88 and ID18 signatures to detect past colibactin damage, then estimated how common it was, when it started and stopped, how many mutations it added, and how it was spread along the colon.",
+   "found": "Colibactin damage was found in about 43% of the young people, whether or not they had inflammatory bowel disease. It usually began shortly after birth and stopped by about age five. Mutation loads were higher in the left side of the colon than the right, and they varied a lot between people. In some children, the total number of mutations was similar to what is seen in healthy adults over 60 who were never exposed. This means a common early-life exposure can give some people's colon cells a mutation burden normally reached only after decades of ageing.",
+   "limits": "This is a preprint and has not been peer reviewed, so its findings may change. This synopsis is based on the abstract only. The abstract does not say how many cell genomes were sequenced per person or give exact mutation counts. The group of 90 is fairly small and includes children with inflammatory bowel disease, so it may not represent all children. The study does not show that colibactin exposure causes colorectal cancer; the authors say its public-health meaning depends on clarifying that role.",
+   "terms": [
+    {
+     "term": "Colibactin",
+     "definition": "A DNA-damaging compound made by some strains of gut bacteria, including some E. coli."
+    },
+    {
+     "term": "Mutational signature",
+     "definition": "A characteristic pattern of DNA changes that points to the process that caused them."
+    },
+    {
+     "term": "SBS88 / ID18",
+     "definition": "The single-letter and small insertion-deletion signatures linked to colibactin."
+    },
+    {
+     "term": "Epithelium",
+     "definition": "The layer of cells lining the inside of the gut."
+    },
+    {
+     "term": "Mutation burden",
+     "definition": "The total number of somatic mutations carried by a cell."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "intermittent-hypoxia-epigenetic-age-p16-senescence-mice",
+  "group": "latest",
+  "title": "Intermittent Hypoxia Induces Epigenetic Changes and p16-Mediated Senescence in Vascular Dysfunction in Male Mice",
+  "authors": [
+   "Rene Cortese",
+   "Kylie Cataldo",
+   "Mohammad Badran",
+   "Milda Milciute",
+   "Juozas Gordevicius",
+   "Zhuanhong Qiao",
+   "Jonathan Eusey",
+   "Abdelnaby Khalyfa",
+   "David Gozal"
+  ],
+  "authorsShort": "Rene Cortese et al.",
+  "firstAuthor": "Rene Cortese",
+  "journal": "Sleep",
+  "pubDate": "2026-11-19",
+  "doi": "10.1093/sleep/zsag307",
+  "url": "https://doi.org/10.1093/sleep/zsag307",
+  "pmid": "43055727",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1093/sleep/zsag307",
+   "source": "Crossref license field fetched 2026-11-20: CC BY 4.0"
+  },
+  "whyItMatters": "In mice, the on-off low oxygen of sleep apnea shifted DNA methylation, altered epigenetic age, and drove p16 senescent cells whose removal reversed high blood pressure.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Obstructive sleep apnea, where the airway repeatedly closes during sleep, is very common and raises the risk of heart and blood vessel disease. It has also been linked to faster biological ageing. One way ageing shows up in DNA is through methylation, chemical tags that switch genes on or off and that change in predictable ways over time. Epigenetic clocks use these tags to estimate biological age. Another ageing process is cellular senescence, where damaged cells stop dividing but stay in the tissue and release harmful signals; the protein p16 is a classic marker of such cells. This mouse study asks whether the repeated drops in oxygen of sleep apnea change DNA methylation and drive senescence in blood vessels.",
+   "did": "Male mice were housed either with intermittent hypoxia, cycles of lowered oxygen that mimic sleep apnea, or with normal room air, for between 7 and 210 days, with 25 mice per group. The researchers profiled DNA methylation in the heart's left ventricle and in circulating immune cells (PBMCs), and tracked how the changes depended on exposure length. They estimated epigenetic age acceleration using a multi-tissue epigenetic clock. Using genetically modified mice, they then tested whether removing p16-expressing cells changed the blood vessel problems.",
+   "found": "Intermittent hypoxia raised blood pressure and impaired the function of the blood vessel lining. It changed methylation at 5,747 sites in heart tissue and 1,307 sites in blood cells, with only 163 shared, showing the effects were largely tissue-specific. Epigenetic age acceleration followed different paths in the two tissues over time. The methylation changes pointed to genes involved in heart function and senescence, especially Cdkn2a, which encodes p16. p16 levels rose in aortic endothelial cells after hypoxia, and clearing p16-expressing cells throughout the body reversed the high blood pressure and restored blood flow reserve in the heart's vessels.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so methods details are not given here. Only male mice were studied, and mouse hypoxia exposure is a model, not human sleep apnea. The abstract does not report the direction or size of the epigenetic age changes in each tissue. Group sizes for the p16 removal experiments were small (8 mice per group). Whether the same mechanism holds in people, or whether senolytic treatment helps patients with sleep apnea, is not tested here.",
+   "terms": [
+    {
+     "term": "Intermittent hypoxia",
+     "definition": "Repeated short drops in oxygen level, as occur during sleep apnea episodes."
+    },
+    {
+     "term": "DNA methylation",
+     "definition": "Chemical tags on DNA that help control which genes are active."
+    },
+    {
+     "term": "Epigenetic age acceleration",
+     "definition": "How much older (or younger) an epigenetic clock estimates a tissue to be than its actual age."
+    },
+    {
+     "term": "p16 (Cdkn2a)",
+     "definition": "A protein that halts cell division; high levels mark senescent cells."
+    },
+    {
+     "term": "Endothelium",
+     "definition": "The thin layer of cells lining blood vessels."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "cgas-sting-dalt-framework-senescence-inflammaging",
+  "group": "latest",
+  "title": "Beyond binary cGAS-STING signaling: a duration, abundance, localization, and cell type (DALT) framework for interpreting divergent findings in senescence and inflammaging",
+  "authors": [
+   "Sebastián Mesa",
+   "Paola Murgas"
+  ],
+  "authorsShort": "Sebastián Mesa et al.",
+  "firstAuthor": "Sebastián Mesa",
+  "journal": "Frontiers in Aging",
+  "pubDate": "2026-11-18",
+  "doi": "10.3389/fragi.2026.2003398",
+  "url": "https://doi.org/10.3389/fragi.2026.2003398",
+  "pmid": null,
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.3389/fragi.2026.2003398",
+   "source": "Crossref license field fetched 2026-11-20: CC BY 4.0"
+  },
+  "whyItMatters": "A review argues that conflicting results on the DNA-sensing cGAS-STING pathway in ageing can be reconciled by measuring how long, how much, where and in which cell it is active.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "When DNA ends up in the wrong place inside a cell, for example fragments leaking from a damaged nucleus or from mitochondria into the surrounding cytoplasm, a sensor protein called cGAS can detect it. cGAS then makes a messenger molecule, cGAMP, that switches on a protein called STING, which in turn triggers inflammatory signals. This chain is widely seen as a key link between DNA damage, cellular senescence and inflammaging, the low-grade chronic inflammation of old age. Because of that, drugs that block cGAS or STING have been proposed for age-related disease. But experimental results have been inconsistent, sometimes even opposite, which makes it hard to know when blocking this pathway would help or harm.",
+   "did": "This is a critical review, not a new experiment. The authors examine the studies that seem to disagree and propose a framework they call DALT, standing for duration, abundance, localization and cell type. For each of the four dimensions they give an operational definition, a variable that can be measured and a prediction that could be proven wrong. They then apply the framework to three specific controversies in the field and set out its limitations.",
+   "found": "The authors argue that the simple linear story (misplaced DNA leads to cGAS activation, cGAMP, STING and then inflammaging) no longer fits the evidence. DNA being present, and even cGAS binding it, does not always lead to cGAMP production. cGAS also has roles inside the nucleus that do not involve making cGAMP. Both cGAMP and immune-stimulating DNA can pass between cells. STING does more than inflammatory signalling, including roles in stress responses, a form of autophagy, endolysosome upkeep and ion transport. Interventions have given opposite results, for example short-term blocking being helpful while lifelong loss is harmful, or the same gene acting differently in human and mouse cells. They propose that many apparent contradictions are really different configurations of the same machinery that were never compared on the same terms, so the key question becomes how much, for how long, where and in which cell the pathway is active.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so methods details are not given here. As a review and conceptual framework, it presents no new data, and its usefulness depends on whether future studies adopt and test its measurements. The abstract does not name the three controversies examined. The framework itself has not yet been validated.",
+   "terms": [
+    {
+     "term": "cGAS",
+     "definition": "An enzyme that senses DNA in the cell's cytoplasm and makes the signalling molecule cGAMP."
+    },
+    {
+     "term": "STING",
+     "definition": "A protein activated by cGAMP that can switch on inflammatory and other responses."
+    },
+    {
+     "term": "Inflammaging",
+     "definition": "Chronic, low-grade inflammation that rises with age."
+    },
+    {
+     "term": "Cellular senescence",
+     "definition": "A state in which damaged cells stop dividing but remain active and release inflammatory signals."
+    },
+    {
+     "term": "Cytosolic DNA",
+     "definition": "DNA found outside the nucleus and mitochondria, often a sign of damage."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "valproic-acid-lithium-telomere-homeostasis-neuronal-cells",
+  "group": "latest",
+  "title": "Valproic acid, but not lithium, alters telomere homeostasis and telomerase activity in a neuronal in vitro model",
+  "authors": [
+   "Johanna Thurin",
+   "Arthna Rathes",
+   "Lou-Ann Marivin",
+   "Alicja Puszkiel",
+   "Xavier Decleves",
+   "Frank Bellivier",
+   "Bruno Etain",
+   "Cynthia Marie-Claire"
+  ],
+  "authorsShort": "Johanna Thurin et al.",
+  "firstAuthor": "Johanna Thurin",
+  "journal": "Journal of Psychopharmacology",
+  "pubDate": "2026-11-20",
+  "doi": "10.1177/02698811261504443",
+  "url": "https://doi.org/10.1177/02698811261504443",
+  "pmid": "43059428",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref license field fetched 2026-11-20 lists only SAGE text-and-data-mining terms (no open licence); treated as paywalled"
+  },
+  "whyItMatters": "In lab-grown neuron-like cells, the mood stabiliser valproic acid, but not lithium, reshaped telomere maintenance genes and cut telomerase activity after three weeks, without changing telomere length yet.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Telomeres are protective DNA caps at the ends of chromosomes. They shorten over a lifetime and are used as a biomarker of cellular ageing. People with bipolar disorder tend to have shorter telomeres than average. Telomere length is maintained by three protein complexes, shelterin, which shields the telomere, the telomerase enzyme, which can lengthen it, and the CST complex, plus several helper proteins. Lithium and valproic acid are two of the most commonly prescribed mood stabilisers for bipolar disorder, and some earlier work suggested lithium might protect telomeres. But how either drug affects the whole telomere maintenance system, at doses similar to those used in treatment, had not been studied.",
+   "did": "The researchers grew SH-SY5Y cells, an immortalised human cell line often used as a stand-in for neurons, with lithium (1 mM) or valproic acid (0.48 mM), concentrations chosen to match therapeutic levels, for 7, 14 and 21 days. They measured the activity of 18 genes involved in telomere upkeep, levels of the telomerase catalytic protein TERT, telomerase enzyme activity, and telomere length.",
+   "found": "Lithium had no effect on any part of the telomere system. Valproic acid affected the whole system by day 21. It raised the activity of two of the six shelterin genes, lowered four of the seven telomerase-complex genes including TERT, pushed two CST complex genes in opposite directions, and lowered the helper genes RTEL1 and APOLLO. It also reduced TERT protein in the cell nucleus and reduced telomerase activity at day 21. Telomere length itself did not change over the three weeks. In other words, valproic acid turned down the machinery that maintains telomeres before any measurable shortening had appeared.",
+   "limits": "This synopsis is based on the abstract only, because the full text is paywalled. The cells are an immortalised cancer-derived line, which, as the authors note, limits how directly the results apply to real neurons. The experiment lasted only 21 days, which may be too short for telomere length to change. Only one dose of each drug was tested, and there were no patient data, so the study cannot say whether valproic acid affects telomeres or ageing in people taking it.",
+   "terms": [
+    {
+     "term": "Telomere",
+     "definition": "A repeating DNA sequence that caps and protects chromosome ends."
+    },
+    {
+     "term": "Telomerase",
+     "definition": "An enzyme that adds DNA repeats to telomeres; TERT is its catalytic part."
+    },
+    {
+     "term": "Shelterin",
+     "definition": "A six-protein complex that binds and protects telomeres."
+    },
+    {
+     "term": "CST complex",
+     "definition": "A protein complex that helps finish copying telomere DNA and limits telomerase."
+    },
+    {
+     "term": "SH-SY5Y",
+     "definition": "A human neuroblastoma cell line widely used as a model of neurons."
+    }
+   ]
+  }
  }
 ]
