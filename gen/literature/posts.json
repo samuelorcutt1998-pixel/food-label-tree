@@ -8615,5 +8615,303 @@
     }
    ]
   }
+ },
+ {
+  "slug": "tyg-index-epigenetic-aging-acceleration-nhanes",
+  "group": "latest",
+  "title": "The triglyceride glucose index as a potent predictor of epigenetic aging acceleration: a national cohort study",
+  "authors": [
+   "Shuwen Chen",
+   "Feilong Zhang",
+   "Xinlin Yang",
+   "Jinfeng Wang",
+   "Qie Zhang",
+   "Junpeng Xiong",
+   "Ronghui Yu"
+  ],
+  "authorsShort": "Shuwen Chen et al.",
+  "firstAuthor": "Shuwen Chen",
+  "journal": "Nutrition & Metabolism",
+  "pubDate": "2026-11-19",
+  "doi": "10.1186/s12986-026-01242-w",
+  "url": "https://doi.org/10.1186/s12986-026-01242-w",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY-NC-ND 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1186/s12986-026-01242-w",
+   "source": "Crossref license field fetched 2026-11-21: CC BY-NC-ND 4.0"
+  },
+  "whyItMatters": "In 957 US adults, a simple blood-fat-and-sugar marker of insulin resistance (the TyG index) tracked with faster aging on several DNA methylation clocks, with smoking explaining part of the link.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks read chemical tags called methyl groups at hundreds of spots on our DNA and turn the pattern into an estimate of biological age. When that estimate runs ahead of a person's actual age, it is called age acceleration, and in many studies it predicts disease and earlier death. A practical question is which everyday, changeable factors line up with faster clock aging. Insulin resistance is a strong candidate because it sits upstream of diabetes, heart disease and fatty liver. The triglyceride glucose (TyG) index is a cheap way to estimate insulin resistance from two routine fasting blood tests, triglycerides and glucose. This study asks whether people with a higher TyG index also look older on a broad panel of epigenetic clocks.",
+   "did": "The authors used data from the US National Health and Nutrition Examination Survey (NHANES), a national health survey that includes blood tests and, for a subset, DNA methylation measurements. They worked with 957 adults and compared the TyG index and related indicators with age acceleration on 12 established DNA methylation clocks, using regression models that adjust for other factors. To check how sturdy the results were, they ran trend tests, looked at subgroups and tested whether other factors sat in the pathway between TyG and clock aging (mediation analysis). As an exploratory extra step, they ran a two-sample Mendelian randomization analysis, which uses published genetic association data to ask whether people genetically inclined to a higher TyG index also show faster clock aging.",
+   "found": "A higher TyG index went with faster biological aging on several clocks. The clearest positive links were with second-generation clocks, which were built to predict health outcomes rather than calendar age, including GrimAge2Mort and PhenoAge. The TyG index was also negatively linked with HorvathTeloAccel, a methylation-based estimate of telomere length, consistent with shorter estimated telomeres relative to age. Smoking emerged as a key go-between: the mediation analysis attributed roughly 9% to 23% of the TyG link with clock aging to smoking. The genetic analysis pointed to a link between genetically predicted TyG and acceleration on the Hannum clock. The authors conclude that metabolic dysregulation may influence several aging pathways and suggest that stopping smoking may help slow epigenetic aging.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so methods details beyond what the abstract states are not given here. The main analysis is cross-sectional, so it shows associations rather than proof that insulin resistance speeds up epigenetic aging. The sample of 957 people is modest for testing 12 clocks, and NHANES methylation data come from a single time point, so changes over time could not be followed. The Mendelian randomization part was described as exploratory and only supported one clock. The advice on smoking is the authors' interpretation of the mediation results, not a tested intervention.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates biological age from DNA methylation at many sites in the genome."
+    },
+    {
+     "term": "Age acceleration",
+     "definition": "How far a person's clock age runs ahead of (or behind) their actual age."
+    },
+    {
+     "term": "TyG index",
+     "definition": "A marker of insulin resistance calculated from fasting triglycerides and fasting glucose."
+    },
+    {
+     "term": "GrimAge and PhenoAge",
+     "definition": "Second-generation clocks trained to predict health outcomes and mortality, not just calendar age."
+    },
+    {
+     "term": "Mendelian randomization",
+     "definition": "A method that uses inherited gene variants as natural experiments to probe cause and effect."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "cd4-tcr-diversity-frailty-cmv-epigenetic-aging",
+  "group": "latest",
+  "title": "CD4+ TCR diversity defines frailty distinct from CMV-skewed epigenetic aging",
+  "authors": [
+   "Moira Breëns",
+   "Kevin De Man",
+   "Yann Heylen",
+   "My Ha",
+   "Mariia Kuznetsova",
+   "Hajar Besbassi",
+   "Fabio Affaticati",
+   "Wim Vanden Berghe",
+   "Benson Ogunjimi",
+   "Pieter Meysman"
+  ],
+  "authorsShort": "Moira Breëns et al.",
+  "firstAuthor": "Moira Breëns",
+  "journal": "Immunity & Ageing",
+  "pubDate": "2026-11-20",
+  "doi": "10.1186/s12979-026-00611-6",
+  "url": "https://doi.org/10.1186/s12979-026-00611-6",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY-NC-ND 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1186/s12979-026-00611-6",
+   "source": "Crossref license field fetched 2026-11-21: CC BY-NC-ND 4.0"
+  },
+  "whyItMatters": "In a small pilot of 16 older adults, immune-cell receptor diversity separated frail from healthy people while epigenetic clocks did not, though clocks ran faster in people carrying the common CMV virus.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks, which estimate biological age from DNA methylation, are often promoted as a way to tell who is aging well and who is not. Frailty, a state of low physical reserve and high vulnerability to illness, is one of the most important outcomes such a measure should pick up. The immune system offers a second molecular readout: T cells each carry a receptor (the TCR), and the variety of receptors across a person's T cells, called the TCR repertoire, tends to shrink with age. Cytomegalovirus (CMV), a lifelong and very common viral infection, is known to reshape the T cell pool. This study puts the two readouts side by side to see which one better separates healthy from frail older people, and whether CMV changes the picture.",
+   "did": "The researchers took blood from sixteen people: healthy older adults and frail older adults of matched age. From the same samples they sequenced T cell receptors to measure repertoire diversity and profiled DNA methylation to compute epigenetic clock estimates of the pace of biological aging relative to calendar age. They also took each person's CMV antibody status (seropositive or seronegative) into account.",
+   "found": "Diversity of the receptor repertoire in CD4+ T cells (helper T cells) was significantly higher in the healthy older group than in the frail group, so it separated the two. The epigenetic clock measures did not show a clear difference between healthy and frail people. When CMV status was considered, however, CMV-seropositive people showed significantly faster epigenetic aging. In seropositive people, TCR diversity was lower than in seronegative people, and a larger share of CD8+ T cells (killer T cells) carried receptors linked to CMV. The authors propose that in healthy older people CMV is kept in check mainly by CD4+ T cells, while in frail people the burden shifts to CD8+ T cells. They argue that the TCR repertoire deserves further study as a marker of healthspan.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so methods details beyond what the abstract states are not given here. Sixteen people is a very small sample, so the study is best seen as a pilot; a lack of difference in epigenetic clocks between frail and healthy groups could simply reflect too few participants. The abstract does not name which clocks were used or give effect sizes. The design is cross-sectional, so it cannot show whether CMV speeds up epigenetic aging or whether the proposed CD4-to-CD8 shift actually happens over time.",
+   "terms": [
+    {
+     "term": "T cell receptor (TCR)",
+     "definition": "The protein on each T cell that recognises a specific target; the mix across all T cells is the repertoire."
+    },
+    {
+     "term": "CD4+ and CD8+ T cells",
+     "definition": "Helper T cells that coordinate immune responses, and killer T cells that destroy infected cells."
+    },
+    {
+     "term": "Cytomegalovirus (CMV)",
+     "definition": "A common herpes-family virus that stays in the body for life and shapes the immune system."
+    },
+    {
+     "term": "Frailty",
+     "definition": "A state of reduced physical reserve that makes older people more vulnerable to illness and stress."
+    },
+    {
+     "term": "Seropositive",
+     "definition": "Having antibodies in the blood showing past or ongoing infection."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "transposable-elements-aging-visceral-fat-preprint",
+  "group": "latest",
+  "title": "Cross-Species Dynamics of Transposable Elements in Aging Female Visceral Adipose Tissues",
+  "authors": [
+   "Syed S Ali",
+   "Amrit Gaire",
+   "Nissi Paidimukkala",
+   "Linshan Laux",
+   "Ann Hertzel",
+   "Mythili Dileepan",
+   "Erich Kumerfeld",
+   "Paul D Robbins",
+   "Constantin Aliferis",
+   "Laura J Niedernhofer",
+   "Jinhua Wang"
+  ],
+  "authorsShort": "Syed S Ali et al.",
+  "firstAuthor": "Syed S Ali",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-20",
+  "doi": "10.64898/2026.11.13.766407",
+  "url": "https://doi.org/10.64898/2026.11.13.766407",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.13.766407",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata fetched 2026-11-21: bioRxiv licence code cc_no (no CC licence; free to read))"
+  },
+  "whyItMatters": "Preprint: jumping-gene RNA (LINEs and SINEs) rose in aging female human belly fat and in likely senescent cells, and some of these elements may push up inflammatory genes they sit inside.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Transposable elements, sometimes called jumping genes, are stretches of DNA that can copy themselves into new places in the genome. They make up nearly half of mammalian DNA. Most are kept silent, but with age that control can loosen, and active elements are thought to contribute to genome instability, to cell stress responses and to the chronic inflammation seen in aging. Visceral fat, the fat packed around the abdominal organs, is closely tied to metabolic disease and inflammation in later life, yet how transposable elements behave in this tissue as it ages has been little studied, especially in women. This preprint looks at that question in both mice and humans.",
+   "did": "The authors reanalysed single-nucleus RNA sequencing data, which reads the RNA in thousands of individual cell nuclei, from visceral fat of aging female mice and women. They used a computational tool called SoloTE, which assigns reads to transposable elements as well as to ordinary genes, and analysed the results with the Seurat software. They compared older with younger cells and also looked at cells marked by CDKN1A (the p21 gene), which they treat as potentially senescent. They then examined transposable elements that sit inside genes to see whether their activity rose together with the host gene.",
+   "found": "In aging human female visceral fat, and in the likely senescent CDKN1A-positive cells, retrotransposons of the LINE and SINE families located on chromosomes 1 and 19 were significantly more active. Changes in mouse fat were less pronounced, and there a different class, long terminal repeat elements, predominated in older cells. Several LINE and SINE elements embedded in genes such as CUX1, SOD2, C3, NAMPT, ALDH1A3 and IL6 (an inflammatory signal) rose together with their host genes. The authors suggest that higher element activity may directly drive the host genes, giving C3 as an example, and propose these elements as possible drivers of aging and senescence in female human visceral fat and as possible treatment targets.",
+   "limits": "This is a preprint and has not been peer reviewed, so its findings may change. This synopsis is based on the abstract only. The work measures RNA, so it shows that transposable elements are more active, not that they are jumping to new places or damaging DNA. The link between elements and their host genes is a correlation; the abstract does not describe experiments showing that the elements cause the host genes to rise. The abstract does not give sample sizes or ages, and only female tissue was studied, so the findings may not apply to men or to other tissues.",
+   "terms": [
+    {
+     "term": "Transposable element",
+     "definition": "A DNA sequence that can copy or move itself to new places in the genome; also called a jumping gene."
+    },
+    {
+     "term": "LINE and SINE",
+     "definition": "Long and short interspersed nuclear elements, the main families of copy-and-paste retrotransposons in human DNA."
+    },
+    {
+     "term": "Visceral adipose tissue",
+     "definition": "Fat stored deep in the abdomen around the organs."
+    },
+    {
+     "term": "Single-nucleus RNA sequencing",
+     "definition": "A method that reads the RNA in thousands of individual cell nuclei separately."
+    },
+    {
+     "term": "CDKN1A (p21)",
+     "definition": "A gene that halts cell division and is used as a marker of senescent cells."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "buccal-pace-like-methylation-aging-rate-score",
+  "group": "latest",
+  "title": "A Pseudo-Longitudinal Methylome Projection Framework Defines a Buccal PACE-like Projection Index from Cross-Sectional DNA Methylation Data",
+  "authors": [
+   "Tatsuma Shoji",
+   "Ryo Nakaki"
+  ],
+  "authorsShort": "Tatsuma Shoji et al.",
+  "firstAuthor": "Tatsuma Shoji",
+  "journal": "Computational and Structural Biotechnology Journal",
+  "pubDate": "2026-11-19",
+  "doi": "10.34133/csbj.0304",
+  "url": "https://doi.org/10.34133/csbj.0304",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY)",
+   "isOpen": true,
+   "url": "https://doi.org/10.34133/csbj.0304",
+   "source": "OpenAlex open_access fetched 2026-11-21: gold OA, licence cc-by (Crossref lists no licence)"
+  },
+  "whyItMatters": "Researchers built a cheek-swab DNA methylation score meant to estimate the pace of aging without long-term data; it was predictable from swabs but only modestly matched the blood-based DunedinPACE clock.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Most epigenetic clocks estimate how old your body looks at one moment. DunedinPACE is different: it was trained on people followed for decades and estimates how fast you are aging right now, which makes it popular in longevity research and consumer tests. But it was built for blood, and the long-term data needed to build similar pace measures for other tissues usually do not exist. Cheek (buccal) swabs are painless and easy to collect at home, so a reliable buccal pace-of-aging score would be useful. This paper tries to build one from data collected at a single time point.",
+   "did": "The authors used an existing buccal biological age estimator as a stand-in for time. For each methylation site (CpG) they fitted smooth curves describing how methylation shifts with biological age, using cross-validation. They then used the slope of those curves to project each person's cheek methylation pattern a small step forward in time, recalculated biological age from the projected pattern, and treated the change in biological age per unit of time as a pseudo-aging velocity. This was converted into a score centred on 1.0, like DunedinPACE. They then trained models to predict the score directly from buccal methylation, checked the results under different settings, and compared the score with measured blood DunedinPACE. They also tried to rebuild DunedinPACE itself from cheek samples.",
+   "found": "In 151 people, the new score could be predicted reliably from cheek methylation in samples held out from training, with correlations of about 0.71 between observed and predicted scores. Results held across different numbers of CpG sites and different model types. However, the buccal score was only modestly associated with measured blood DunedinPACE, and attempts to reconstruct DunedinPACE from cheek samples, either by training a proxy model or by imputing blood CpG values from buccal ones, performed poorly for individual people. The authors conclude that a tissue-specific pace-like score can be derived from single-time-point cheek data, but stress that it is an exploratory index and not a replacement for blood DunedinPACE.",
+   "limits": "This synopsis is based on the abstract only. The article is listed as open access, but its full text was not reviewed for this page, so methods details beyond what the abstract states are not given here. The score is predicted well partly because it is derived from the same methylation data and an existing age estimator, so good internal prediction does not show it tracks real health outcomes; the abstract reports no links to disease, function or mortality. The sample of 151 people is small, and the weak match with DunedinPACE means the two scores should not be treated as interchangeable. The method assumes cross-sectional differences between people mirror changes within a person over time, which may not hold.",
+   "terms": [
+    {
+     "term": "DunedinPACE",
+     "definition": "A blood DNA methylation measure of the current pace of biological aging, trained on decades of follow-up."
+    },
+    {
+     "term": "Buccal",
+     "definition": "Relating to the inner cheek; buccal swabs collect cheek cells."
+    },
+    {
+     "term": "CpG site",
+     "definition": "A spot in DNA where a C is followed by a G, the main place methyl tags are added."
+    },
+    {
+     "term": "Cross-sectional data",
+     "definition": "Data collected at a single time point from many people, rather than following them over time."
+    },
+    {
+     "term": "Out-of-fold prediction",
+     "definition": "Testing a model on samples it was not trained on, to check it generalises."
+    }
+   ]
+  }
  }
 ]
