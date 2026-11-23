@@ -9147,5 +9147,87 @@
     }
    ]
   }
+ },
+ {
+  "slug": "mrn-atm-dna-damage-cd4-t-cell-senescence-chronic-hepatitis-b",
+  "group": "latest",
+  "title": "MRN-ATM pathway activation and senescence-associated phenotype of CD4+ T cells in chronic hepatitis B",
+  "authors": [
+   "Xiaoying Deng",
+   "Xiaoyan Wang",
+   "Xuyang Zheng",
+   "Yun Zhou",
+   "Jianqi Lian",
+   "Chao Fan",
+   "Ying Zhang"
+  ],
+  "authorsShort": "Xiaoying Deng et al.",
+  "firstAuthor": "Xiaoying Deng",
+  "journal": "Clinical and Experimental Medicine",
+  "pubDate": "2026-11-21",
+  "doi": "10.1007/s10238-026-02386-y",
+  "url": "https://doi.org/10.1007/s10238-026-02386-y",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY-NC-ND 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1007/s10238-026-02386-y",
+   "source": "Crossref license field fetched 2026-11-23: CC BY-NC-ND 4.0 (publisher page checked 2026-11-23: abstract only, no full text yet)"
+  },
+  "whyItMatters": "In chronic hepatitis B, helper T cells carry more DNA damage and shorter telomeres and switch on the MRN-ATM DNA-repair alarm, a real-world look at how genome damage pushes immune cells toward an aged, senescent state.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "As we get older, the immune system ages too, a process often called immunosenescence. One of the main ways immune cells age is by building up damage to their DNA and losing length from their telomeres, the protective caps at the ends of chromosomes. When that damage piles up, cells can enter senescence: they stop dividing and change how they behave. Long-lasting viral infections can speed this up, because they keep immune cells working and dividing for years. Chronic hepatitis B, a lifelong liver infection that affects many millions of people, is one such case. Cells have a built-in alarm system for broken DNA. A protein complex called MRN (made of MRE11, RAD50 and NBS1) finds DNA breaks and switches on a master signaling enzyme called ATM, which then coordinates repair and decides whether the cell keeps going. How this DNA damage response relates to the aging of CD4+ helper T cells in chronic hepatitis B was not well understood, and that is the question here. The study sits at the meeting point of two hallmarks of aging, genomic instability and telomere attrition, and immune aging.",
+   "did": "The researchers compared CD4+ T cells, the helper T cells that coordinate immune responses, from people with chronic hepatitis B and from healthy volunteers. They looked for signs of a senescence-like state, including a surface marker called KLRG1 that tends to appear on aged, worn-out T cells. They also measured DNA damage and telomere length in these cells, and checked how active the MRN-ATM pathway was. Then they ran lab experiments on CD4+ T cells taken from both groups: they suppressed the MRN complex to see what happened to ATM activation and its downstream signals, and they blocked ATM to see how that changed the cells' output of two key immune messengers, interferon gamma (IFN-γ) and interleukin-2 (IL-2). The abstract does not give the number of people studied or the exact lab methods used.",
+   "found": "CD4+ T cells from people with chronic hepatitis B showed a senescence-associated profile compared with healthy volunteers, with more KLRG1, more DNA damage and shorter telomeres. The MRN-ATM pathway was clearly more active in the patients' cells. In the lab, suppressing MRN reduced ATM activation and the signals ATM normally sends on. Blocking ATM lowered the amount of IFN-γ and IL-2 the T cells made, in cells from both patients and healthy people. The authors read this as the cells switching on MRN-ATM to repair DNA damage, a response that seems tied to their ability to make immune messengers, but that does not fully stop them from sliding into senescence. They suggest this helps explain why the virus persists and could point to future treatments.",
+   "limits": "This synopsis is based on the abstract only. The article is open access, but at the time of this sweep the publisher page showed only the abstract (no full text yet), so methods details and numbers beyond what the abstract states are not given here. The study links DNA damage, short telomeres and MRN-ATM activity to a senescence-like state, but the patient comparison is observational, so it cannot show that the damage causes the T cells to age, or rule out other differences between the groups. The setting is a specific chronic viral infection, not normal aging, so it is not clear how far the results apply to immune aging in healthy older people. The abstract does not say how many people were studied, their ages, or how large the differences were, and the lab experiments were done on isolated cells rather than in the body. KLRG1 is one marker of a senescence-like state, not proof of full cellular senescence.",
+   "terms": [
+    {
+     "term": "Immunosenescence",
+     "definition": "The gradual decline and change in immune function that comes with age."
+    },
+    {
+     "term": "CD4+ T cell",
+     "definition": "A helper T cell, a white blood cell that coordinates other immune cells."
+    },
+    {
+     "term": "Telomere",
+     "definition": "The protective cap of repeated DNA at each end of a chromosome; it shortens as cells divide."
+    },
+    {
+     "term": "MRN complex",
+     "definition": "Three proteins (MRE11, RAD50, NBS1) that detect broken DNA and switch on ATM."
+    },
+    {
+     "term": "ATM",
+     "definition": "A master signaling enzyme that responds to DNA breaks by triggering repair or stopping the cell cycle."
+    },
+    {
+     "term": "KLRG1",
+     "definition": "A surface protein often found on aged, highly differentiated T cells."
+    },
+    {
+     "term": "Cellular senescence",
+     "definition": "A state in which a cell stops dividing for good and changes what it secretes."
+    }
+   ]
+  }
  }
 ]
