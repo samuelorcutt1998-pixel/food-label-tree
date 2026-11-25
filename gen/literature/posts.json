@@ -9229,5 +9229,558 @@
     }
    ]
   }
+ },
+ {
+  "slug": "cortical-neuron-point-mutation-rate-mouse-vs-human",
+  "group": "latest",
+  "title": "Cortical neurons accumulate point mutations at similar rates in mice and humans",
+  "authors": [
+   "Matin Saeidi",
+   "Juyoun Yoo",
+   "Anastasia Stolyarova",
+   "Franck Polleux",
+   "Molly Przeworski",
+   "Natanael Spisak"
+  ],
+  "authorsShort": "Matin Saeidi et al.",
+  "firstAuthor": "Matin Saeidi",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-23",
+  "doi": "10.64898/2026.11.21.768276",
+  "url": "https://doi.org/10.64898/2026.11.21.768276",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.21.768276",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata fetched 2026-11-25: CC BY 4.0)"
+  },
+  "whyItMatters": "Mouse brain neurons pick up new DNA mutations each year at about the same pace as human neurons, which suggests that, in non-dividing cells, mutation rate does not shrink to match a long lifespan.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Every cell in the body slowly collects small changes in its DNA over a lifetime. These are called somatic mutations, and their build-up is one of the leading ideas for why tissues decline with age. A striking pattern has been seen before: across animal species, the yearly rate of new mutations in sperm and eggs is lower in animals that reproduce later in life, and a recent study found something similar in the lining of the colon, where long-lived mammals gained fewer mutations per year than short-lived ones. That led to a tempting idea, that long-lived species might protect all of their cells by slowing the mutation clock in step with their lifespan. Colon cells divide constantly, though. Neurons in the brain mostly stop dividing early in life and then have to last for decades. Whether the same lifespan scaling holds for these non-dividing cells is an open and important question, because neurons cannot be replaced easily and any damage they collect stays with them.",
+   "did": "The team estimated how fast single-letter DNA changes (point mutations) build up in cortical neurons of mice. They used a long-read sequencing method from PacBio called HiFi circular consensus sequencing, in which the same DNA molecule is read many times over, so that genuine mutations can be told apart from sequencing errors. They looked at how the number of point mutations changed with the age of the animals and then compared the yearly rate with the rate that has already been reported for human neurons. The abstract does not state how many mice or neurons were analysed or what ages were covered.",
+   "found": "Age had a clear effect on the number of point mutations in mouse cortical neurons. The authors estimate a rate of 25.9 mutations per diploid genome per year, with a 95% confidence interval of 17.7 to 34.1. They describe this rate as comparable to the rate reported for human neurons. Because a mouse lives only a few years while a human lives many decades, this means that, at least in these neurons, the yearly mutation rate does not appear to scale down with lifespan the way it does in the germline and in the colon. The authors conclude that somatic mutation rates need not scale with lifespan. They add that a widely available sequencing method can reliably pick up somatic mutations at single-cell resolution.",
+   "limits": "This is a preprint posted to bioRxiv and has not been peer reviewed, so its results may change. This synopsis is based on the abstract only. The comparison with humans relies on a previously reported human rate rather than on human neurons measured side by side in the same way, so differences in method could affect the comparison. The abstract does not give sample sizes, and it covers only point mutations in one brain cell type in one other species. Showing that mutations build up at a similar rate does not by itself show what those mutations do to how neurons work or to brain ageing.",
+   "terms": [
+    {
+     "term": "Somatic mutation",
+     "definition": "A change in the DNA of a body cell that arises during life and is not inherited or passed to children."
+    },
+    {
+     "term": "Point mutation",
+     "definition": "A change in a single DNA letter, such as a C swapped for a T."
+    },
+    {
+     "term": "Postmitotic cell",
+     "definition": "A cell, such as a mature neuron, that no longer divides."
+    },
+    {
+     "term": "HiFi circular consensus sequencing",
+     "definition": "A PacBio long-read method that reads the same DNA molecule many times to produce a highly accurate sequence."
+    },
+    {
+     "term": "Diploid genome",
+     "definition": "The full set of DNA in a cell, with two copies of each chromosome, one from each parent."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "clonal-landscape-human-nephrons-chromosome-18-loss",
+  "group": "latest",
+  "title": "Clonal landscape of human nephrons",
+  "authors": [
+   "Kosuke Ieiri",
+   "Nobuyuki Kakiuchi",
+   "Koichi Watanabe",
+   "Tomonori Hirano",
+   "Shun Kawaguchi",
+   "Hirona Maeda",
+   "Yoshikage Inoue",
+   "Tomomi Nishimura",
+   "Taisho Noda",
+   "Masanori Motomura",
+   "Tomoe Nakagawa",
+   "Masahiro M Nakagawa",
+   "Ryunosuke Saiki",
+   "Yotaro Ochi",
+   "Satoru Miyano",
+   "Yoshinao Oda",
+   "Ryota Nakagawa",
+   "Tatsuki R Kataoka",
+   "Marin Takaso",
+   "Masahito Hitosugi",
+   "Genshiro Fukuchi",
+   "Dai Takamatsu",
+   "Shohei Nagakawa",
+   "Tokiyoshi Tanegashima",
+   "Shigehiro Tsukahara",
+   "Jun Mutaguchi",
+   "Satoshi Kobayashi",
+   "Shunsuke Goto",
+   "Takashi Matsumoto",
+   "Masaki Shiota",
+   "Masatoshi Eto",
+   "Seishi Ogawa"
+  ],
+  "authorsShort": "Kosuke Ieiri et al.",
+  "firstAuthor": "Kosuke Ieiri",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-24",
+  "doi": "10.64898/2026.11.19.763808",
+  "url": "https://doi.org/10.64898/2026.11.19.763808",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.19.763808",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata fetched 2026-11-25: CC BY-NC 4.0)"
+  },
+  "whyItMatters": "Ageing human kidneys turn out to be a patchwork of mutant cell families, and in the collecting ducts, cells that have lost chromosome 18 slowly take over and track with scarring.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "As we age, many tissues quietly fill up with clones: families of cells that all descend from one ancestor carrying a particular set of DNA changes. This patchwork is called somatic mosaicism. It has been mapped in blood, skin, the oesophagus and the colon, and in some cases it links to disease. The kidney is less well understood. Its working unit, the nephron, is a long tube with several distinct segments, each with its own job, from filtering blood to fine-tuning salt and water. Kidney function declines with age, and scarring (fibrosis) becomes more common. If different nephron segments pick up different mutations, and if some mutant clones spread, that could help explain how ageing kidneys change.",
+   "did": "The researchers microdissected more than 1,000 small samples from anatomically distinct segments of human nephrons and sequenced them in an integrated way to find somatic mutations, mutational signatures (the fingerprints left by different causes of DNA damage) and copy number abnormalities (gains or losses of chromosomes or large chromosome pieces). They compared mutation burden and clone size between segments, and looked more closely at collecting duct cells that had lost chromosome 18, including their gene activity and how they related to fibrosis. The abstract refers to aged donors but does not give the number of donors or their ages.",
+   "found": "Ageing nephrons were extensively remodelled by mosaic clones, with striking differences between segments. Proximal tubules carried markedly higher mutation burdens, mutational signatures typical of clear cell renal cell carcinoma, and larger clones than other segments. Cancer-related mutations were found only infrequently and mostly in proximal tubules. Copy number abnormalities, by contrast, were quite common, most often involving chromosomes 18, 10, 7, X, 22, 3 and 9, in a segment-specific way. Clone size seemed to depend more on how quickly cells turn over than on driver mutations. In collecting ducts, many clones had independently lost chromosome 18. Over years these clones came to replace 15% to 47% of collecting duct cells in aged donors, even though each clone barely grew in size, which the authors read as a strong fitness advantage in a slowly renewing tissue. Cells lacking chromosome 18 were significantly correlated with fibrosis and showed lower activity of chromosome 18 genes, including NEDD4L, which is involved in sodium handling, and SMAD2, SMAD4 and SMAD7 of the TGF-beta signalling pathway. Gene set analysis showed boosted pathways overlapping those seen in acute kidney injury, linked to TGF-beta signalling, epithelial-mesenchymal transition and inflammation.",
+   "limits": "This is a preprint posted to bioRxiv and has not been peer reviewed, so its results may change. This synopsis is based on the abstract only. The link between chromosome 18 loss and fibrosis is a correlation, so it does not prove that these clones cause scarring or loss of kidney function. The fitness advantage of chromosome 18-deficient clones is the authors' interpretation ('likely'). The abstract does not report donor numbers, ages, health status or kidney function measures, so how general the findings are cannot be judged from it.",
+   "terms": [
+    {
+     "term": "Somatic mosaicism",
+     "definition": "The presence of genetically different groups of cells within one person, caused by mutations acquired during life."
+    },
+    {
+     "term": "Clone",
+     "definition": "A family of cells descended from a single ancestor cell and sharing its mutations."
+    },
+    {
+     "term": "Nephron",
+     "definition": "The basic working unit of the kidney, a tube with segments such as the proximal tubule and collecting duct."
+    },
+    {
+     "term": "Copy number abnormality",
+     "definition": "A gain or loss of a whole chromosome or a large piece of one."
+    },
+    {
+     "term": "Mutational signature",
+     "definition": "A characteristic pattern of DNA changes that points to the process that caused them."
+    },
+    {
+     "term": "Fibrosis",
+     "definition": "Scarring, where normal tissue is replaced by stiff connective tissue."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "medaka-epigenetic-transcriptomic-clocks-nfixb",
+  "group": "latest",
+  "title": "Epigenetic and transcriptomic clocks capture independent aging signals and reveal nfixb as a modifier of epigenetic aging in a model teleost",
+  "authors": [
+   "Ethan P Shealy",
+   "Megan E Deeter",
+   "Marilyn W Mason",
+   "Benjamin B Parrott"
+  ],
+  "authorsShort": "Ethan P Shealy et al.",
+  "firstAuthor": "Ethan P Shealy",
+  "journal": "Genome Research",
+  "pubDate": "2026-11-24",
+  "doi": "10.1101/gr.282193.126",
+  "url": "https://doi.org/10.1101/gr.282193.126",
+  "pmid": "43078605",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref license field fetched 2026-11-25 lists no open licence; treated as paywalled"
+  },
+  "whyItMatters": "In a small fish, DNA-methylation clocks and gene-activity clocks track different sides of ageing, and a gene called nfixb, also implicated in human epigenetic ageing, nudges how fast the methylation clock runs.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "People age at different speeds, and scientists want to know which molecular changes drive those differences. Two popular ways to measure biological age are epigenetic clocks, which read chemical tags called methyl groups on DNA, and transcriptomic clocks, which read which genes are switched on. It is not clear whether these two kinds of clock measure the same thing, or whether inherited gene variants shape how fast a clock runs. Answering these questions in people is hard, so the authors turned to the Japanese medaka, a small, short-lived fish used as a model for vertebrate ageing.",
+   "did": "The team profiled liver tissue from medaka across the lifespan with whole-genome bisulfite sequencing, which maps DNA methylation across the genome, and with transcriptomic profiling, which measures gene activity. They built and compared an epigenetic clock and a transcriptomic clock, and checked whether each fish's age acceleration (how much older or younger it looked than its true age) agreed between the two clocks. They looked at whether age-related methylation and gene activity changes clustered in the same parts of the genome. They then sequenced the exomes (protein-coding parts of the genome) and ran genetic association scans to find variants linked to age acceleration, validated a key result in an independent group of fish, and compared methylation at the same gene in medaka and mice. The abstract does not give the number of fish.",
+   "found": "Both clocks predicted chronological age accurately, but the methylation-based clocks did better than the gene-expression-based ones. The age acceleration values from the two clocks were largely uncorrelated, meaning they capture different aspects of biological ageing. Even so, age-related changes in methylation and in gene expression tended to overlap in location along the genome, hinting at local regulatory interactions. The genetic scans found variants linked to age acceleration. In particular, variants in a region containing the genes nfixb and rad23a had strong effects on epigenetic age estimates, and this held up in the independent cohort. Age-related methylation at the start sites of nfixb, plus genotype-specific effects on methylation and on how its exons are used, point to nfixb as a modifier of epigenetic ageing. Age-related methylation at nfixb (Nfix in mice) was conserved between medaka and mice, which the authors note fits recent work implicating NF1 transcription factors in human epigenetic ageing. They conclude that ageing has a modular architecture shaped by genetic and random factors.",
+   "limits": "This synopsis is based on the abstract only. Crossref lists no open licence for this article, so it is treated as paywalled and the full text was not read. The work measures liver tissue in a fish, so how far the clock findings carry over to human tissues is not shown. Naming nfixb as a modifier rests on genetic association and methylation and splicing patterns; the abstract does not describe experiments that change nfixb directly to test whether it alters ageing. The nearby gene rad23a, which is involved in DNA repair, sits in the same region, and the abstract does not say how its role was ruled in or out.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates age from DNA methylation patterns."
+    },
+    {
+     "term": "Transcriptomic clock",
+     "definition": "A formula that estimates age from the activity levels of many genes."
+    },
+    {
+     "term": "Age acceleration",
+     "definition": "How much older (or younger) an individual's clock age is than its actual age."
+    },
+    {
+     "term": "Whole-genome bisulfite sequencing",
+     "definition": "A method that maps which DNA letters carry methyl tags across the whole genome."
+    },
+    {
+     "term": "Medaka",
+     "definition": "Oryzias latipes, a small Japanese fish used as a model organism for vertebrate biology and ageing."
+    },
+    {
+     "term": "Exon usage",
+     "definition": "Which coding pieces of a gene are included when the gene's message is assembled."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "non-b-dna-mitochondrial-genome-mutations-review",
+  "group": "latest",
+  "title": "Non-B DNA-associated mutations in the mitochondrial genome",
+  "authors": [
+   "Václav Brázda",
+   "Minjun Kim",
+   "Haram Kim",
+   "Filip Kledus",
+   "Michaela Dobrovolná",
+   "Karolína Drápalová",
+   "Seonghyun Lee"
+  ],
+  "authorsShort": "Václav Brázda et al.",
+  "firstAuthor": "Václav Brázda",
+  "journal": "Experimental & Molecular Medicine",
+  "pubDate": "2026-11-24",
+  "doi": "10.1038/s12276-026-01890-1",
+  "url": "https://doi.org/10.1038/s12276-026-01890-1",
+  "pmid": "43078939",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1038/s12276-026-01890-1",
+   "source": "Crossref license field fetched 2026-11-25: CC BY 4.0"
+  },
+  "whyItMatters": "Unusual knotted and twisted DNA shapes cluster at key control spots in mitochondrial DNA, where they may help run the genome but also act as hotspots for the mutations that build up with age.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Most people picture DNA as the classic right-handed double helix, called B-DNA. But some DNA sequences can fold into other shapes, known as non-B DNA. Examples include G-quadruplexes (four-stranded knots formed by runs of the letter G), cruciforms (cross-shaped hairpins) and Z-DNA (a left-handed zig-zag helix). These shapes help control how genes are read, but they can also trip up the machinery that copies DNA. The small genome inside mitochondria, the cell's power plants, is a special case. Mitochondrial DNA (mtDNA) sits close to a major source of oxidative stress and has a more limited set of repair tools than the DNA in the nucleus. Mutations and deletions in mtDNA build up with age and are linked to mitochondrial disease and cancer, so understanding where they come from matters for the ageing field.",
+   "did": "This is a review article. The authors gather current evidence linking non-B DNA structures to mutations in mtDNA and to mitochondrial dysfunction, with a focus on ageing, cancer and mitochondrial disease. They also summarise available approaches for predicting and detecting these structures, and discuss emerging treatment ideas, including heteroplasmy shifting and mitochondrial base editing. As a review, it does not report a new experiment, and the abstract does not describe how the literature was selected.",
+   "found": "According to the review, non-B DNA-forming motifs appear to be enriched in key regulatory regions of mtDNA, including the D-loop region and elements involved in copying the genome. In these spots they may act both as normal regulators of replication and transcription and as hotspots of instability. The authors explain why mtDNA is especially vulnerable: high exposure to oxidative stress and a limited repair repertoire make it prone to replication pausing, strand misalignment and error-prone processing at sequences that tend to form these shapes. Stabilising non-B structures could therefore lead to mutations and wider genome instability. The authors argue that knowing when these structures are helpful regulators and when they turn harmful will be essential for designing safe and effective mitochondrial therapies.",
+   "limits": "This synopsis is based on the abstract only. The article is open access (CC BY 4.0), but the full text was not read for this summary. As a narrative review, it summarises existing studies rather than testing a new hypothesis, and the abstract frames much of the evidence as 'emerging' and the roles as things non-B structures 'may' do. The abstract gives no numbers on how much of the age-related mtDNA mutation load can be traced to non-B DNA, and the therapies it mentions are prospects rather than proven treatments.",
+   "terms": [
+    {
+     "term": "Non-B DNA",
+     "definition": "DNA folded into shapes other than the standard right-handed double helix."
+    },
+    {
+     "term": "G-quadruplex",
+     "definition": "A four-stranded knot that can form in DNA rich in the letter G."
+    },
+    {
+     "term": "Mitochondrial DNA (mtDNA)",
+     "definition": "The small circular genome inside mitochondria, inherited from the mother."
+    },
+    {
+     "term": "D-loop",
+     "definition": "A control region of mtDNA where copying and gene reading start."
+    },
+    {
+     "term": "Heteroplasmy",
+     "definition": "A mix of normal and mutant mtDNA copies within one cell or tissue."
+    },
+    {
+     "term": "Base editing",
+     "definition": "A gene-editing method that changes a single DNA letter without cutting both DNA strands."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "progerin-farnesylation-polymerization-premature-aging",
+  "group": "latest",
+  "title": "Progerin-Induced Premature Aging Depends on Both Its Farnesylation and Polymerization Status",
+  "authors": [
+   "Mattheus Xing Rong Foo",
+   "Peh Fern Ong",
+   "Oliver Dreesen"
+  ],
+  "authorsShort": "Mattheus Xing Rong Foo et al.",
+  "firstAuthor": "Mattheus Xing Rong Foo",
+  "journal": "Aging Cell",
+  "pubDate": "2026-11-24",
+  "doi": "10.1111/acel.70858",
+  "url": "https://doi.org/10.1111/acel.70858",
+  "pmid": "43079698",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1111/acel.70858",
+   "source": "Crossref license field fetched 2026-11-25: CC BY 4.0"
+  },
+  "whyItMatters": "The faulty protein behind progeria, a premature-ageing disease, only causes heterochromatin loss, DNA damage and early senescence when it is both stuck to the nuclear membrane and linked up with other lamin proteins.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Hutchinson-Gilford progeria syndrome (HGPS) is a rare disease in which children age very fast. It is caused by a mutation in lamin A, a protein that forms a mesh lining the inside of the nucleus and helps organise DNA. Normally, the precursor of lamin A gets a fatty tag (a farnesyl group) that anchors it to the inner nuclear membrane, and then the tagged tail is cut off to release mature lamin A. In HGPS, a shortened version called progerin lacks the cutting site, so it stays permanently tagged and stuck to the membrane. The same group previously showed that this permanent farnesyl tag, rather than the shortening itself, causes loss of heterochromatin (tightly packed DNA), DNA damage and premature senescence. What was still unclear is how being stuck to the membrane leads to senescence. Because progerin is also found at low levels in normal ageing, this matters beyond the rare disease.",
+   "did": "The researchers adapted a two-part dimerisation system, FRB-FKBP, in which two protein pieces can be joined on demand by a drug called a rapalog. This let them express only progerin's farnesylated tail, only its front end (N-terminus), or both pieces joined together. They then introduced mutations that block the N-terminus from polymerising, meaning linking up into chains with other lamins, and separately reduced the pool of normal lamin A available to polymerise with progerin. Finally, to test their model, they fused normal lamin A to the permanently farnesylated tail of lamin B1, creating chimeras anchored to the membrane. The abstract does not name the cell types used.",
+   "found": "Only the joined, full-length progerin caused heterochromatin loss; the tail or front end alone did not. Mutations that disrupt polymerisation of progerin's N-terminus prevented the defects that progerin normally causes. Lowering the amount of normal lamin A available to polymerise with progerin had the same rescuing effect. From this, the authors propose a two-anchor model: lamin A or progerin must be both tethered to the inner nuclear membrane and polymerised with other A-type lamins to cause premature senescence. Supporting this, the lamin A/lamin B1 chimeras reproduced the cellular defects seen with progerin.",
+   "limits": "This synopsis is based on the abstract only. The article is open access (CC BY 4.0), but the full text was not read for this summary. The work appears to be in cultured cells with engineered protein systems, so it shows a mechanism at the cell level rather than effects in patients or animals. The abstract reports DNA damage as part of the defects from the group's earlier work and focuses here on heterochromatin loss and senescence; it gives no numbers, and it does not test whether blocking polymerisation could work as a treatment.",
+   "terms": [
+    {
+     "term": "Progeria (HGPS)",
+     "definition": "Hutchinson-Gilford progeria syndrome, a rare genetic disease causing rapid premature ageing in children."
+    },
+    {
+     "term": "Lamin A",
+     "definition": "A protein that forms part of the mesh lining the inside of the nucleus."
+    },
+    {
+     "term": "Progerin",
+     "definition": "The shortened, permanently farnesylated form of lamin A made in progeria."
+    },
+    {
+     "term": "Farnesylation",
+     "definition": "Attachment of a fatty tag that anchors a protein to a membrane."
+    },
+    {
+     "term": "Heterochromatin",
+     "definition": "Tightly packed DNA that is mostly switched off; its loss is a feature of ageing cells."
+    },
+    {
+     "term": "Polymerisation",
+     "definition": "The linking of many protein units into long chains or networks."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "longreadclock-cell-type-resolved-epigenetic-aging",
+  "group": "latest",
+  "title": "Measuring Cell Type Resolved Aging Through Long-Read Sequencing",
+  "authors": [
+   "Yinjie Wu",
+   "Harlan Stevens",
+   "Alec Eames",
+   "Mahdi Moqri",
+   "Vadim N Gladyshev"
+  ],
+  "authorsShort": "Yinjie Wu et al.",
+  "firstAuthor": "Yinjie Wu",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-24",
+  "doi": "10.64898/2026.11.22.768438",
+  "url": "https://doi.org/10.64898/2026.11.22.768438",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.22.768438",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata fetched 2026-11-25: CC BY 4.0)"
+  },
+  "whyItMatters": "A new long-read sequencing clock pulls separate ageing estimates for different white blood cell types out of an ordinary blood sample, without having to sort the cells.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks estimate biological age from DNA methylation, chemical tags on DNA that shift with age. Most clocks use bulk blood, a mix of many cell types. The trouble is that the mix itself changes with age: older people tend to have different proportions of immune cells. A bulk clock therefore blurs two things together, true age-related changes inside each kind of cell and simple shifts in which cells are present. Separating them usually means physically sorting cells, which is costly and hard to do in large studies. Being able to read ageing for each cell type from a standard blood draw would make the clocks easier to interpret and could show which parts of the immune system age faster in which people.",
+   "did": "The researchers built LongReadClock, a set of epigenetic ageing clocks for individual blood cell types, using cohort-scale long-read whole-genome sequencing of bulk blood. Long reads capture methylation along long stretches of a single DNA molecule. Each read was assigned to a likely cell type with seven cell-type-specific models that score its methylation pattern against an atlas of purified cells. Clocks were then trained and tested on held-out samples. They ran covariate-adjusted analyses linking each cell type's epigenetic age deviation to traits such as sex, blood pressure, resting heart rate and asthma. They also used a Fisher-information screen to rank the most age-informative genomic windows and looked at read-level patterns at ELOVL2, a well-known age-linked gene. The abstract does not give the cohort size.",
+   "found": "LongReadClock achieved mean absolute errors of 2.8 to 5.7 years on held-out samples, across bulk blood and the digitally separated cell types. Associations differed by cell type. Males had lower mean epigenetic age deviation in B cells and NK cells. Systolic blood pressure and resting heart rate were associated with epigenetic age deviation in myeloid cells. Participants with asthma had higher epigenetic age deviation in NK cells. The authors conclude that their results support estimating cell-type-specific epigenetic age from long-read methylation data on standard bulk blood samples.",
+   "limits": "This is a preprint posted to bioRxiv and has not been peer reviewed, so its results may change. This synopsis is based on the abstract only. Cell types are assigned to reads by computer models rather than by physically sorting cells, so some reads may be misclassified. The trait associations are cross-sectional correlations and do not show cause and effect, and the abstract does not give the cohort size, its makeup, or effect sizes. Long-read whole-genome sequencing is still more expensive than the methylation arrays used for most clocks, and the abstract does not report replication in a separate cohort.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates age from DNA methylation patterns."
+    },
+    {
+     "term": "Long-read sequencing",
+     "definition": "Sequencing that reads long, unbroken stretches of a single DNA molecule, including its methylation."
+    },
+    {
+     "term": "Epigenetic age deviation",
+     "definition": "The gap between a person's clock age and their actual age."
+    },
+    {
+     "term": "Mean absolute error",
+     "definition": "The average size of the gap between predicted and real ages, ignoring direction."
+    },
+    {
+     "term": "NK cells",
+     "definition": "Natural killer cells, immune cells that kill infected or abnormal cells."
+    },
+    {
+     "term": "Myeloid cells",
+     "definition": "A family of white blood cells that includes monocytes and neutrophils."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "telomere-biology-vascular-aging-hypertension-review",
+  "group": "latest",
+  "title": "Telomere Biology, Vascular Aging, and Hypertension: Mechanistic Pathways, Cellular Senescence, and Cardiovascular Risk",
+  "authors": [
+   "Tatiana Palotta Minari",
+   "Luciana Neves Consenso-Martin",
+   "José Fernando Vilela-Martin"
+  ],
+  "authorsShort": "Tatiana Palotta Minari et al.",
+  "firstAuthor": "Tatiana Palotta Minari",
+  "journal": "Ageing Research Reviews",
+  "pubDate": "2026-11-23",
+  "doi": "10.1016/j.arr.2026.103453",
+  "url": "https://doi.org/10.1016/j.arr.2026.103453",
+  "pmid": "43072718",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "closed",
+   "isOpen": false,
+   "url": null,
+   "source": "Crossref license field fetched 2026-11-25 lists no open licence; treated as paywalled"
+  },
+  "whyItMatters": "A careful review of whether worn telomeres drive high blood pressure and blood vessel ageing, concluding that the link is real but whether it is cause, consequence or shared marker is still unsettled.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "High blood pressure is one of the biggest drivers of heart attacks and strokes worldwide. Doctors know a lot about the pressure, hormone and inflammation side of it, but ageing biology may also play a part. Telomeres are the protective DNA-protein caps on the ends of chromosomes. They help keep the genome stable and tend to shorten with age. Shorter telomeres have been linked to cellular senescence, oxidative stress, inflammation and poor function of the endothelium, the inner lining of blood vessels. Many people now see telomere tests marketed as health markers, so a sober look at what the evidence says about telomeres and blood pressure is useful.",
+   "did": "This is a narrative review. The authors bring together epidemiological, genetic and experimental evidence on telomere biology, vascular ageing and hypertension. They pay particular attention to DNA damage response pathways, mitochondrial dysfunction, cellular senescence, the senescence-associated secretory phenotype (the inflammatory signals released by senescent cells), endothelial impairment and vascular remodelling. They also discuss nutritional, environmental and drug factors that may influence telomeres, keeping observational links separate from experimental and clinical evidence. As a narrative review, it does not pool data statistically, and the abstract does not describe how studies were chosen.",
+   "found": "The review stresses that telomere dysfunction can occur even without much change in average telomere length, through telomere uncapping, oxidative DNA damage, lesions from DNA copying, and weaker protection by shelterin, the protein complex that guards telomeres. Human studies frequently report that shorter telomeres in white blood cells go with hypertension. Genetic studies are not consistent, however, and some Mendelian randomisation analyses suggest that genetically longer telomeres may go with higher blood pressure or certain cardiometabolic traits. The authors also point out that telomere length in white blood cells does not necessarily reflect telomere health in blood vessel walls. Overall, they conclude that current evidence supports a possible relationship between telomere dysfunction and vascular ageing, but does not establish whether telomere changes cause hypertension, result from chronic stress on blood vessels, or simply mark shared biological processes. They call for long-term, tissue-specific and mechanistic studies before telomere biomarkers can be used clinically.",
+   "limits": "This synopsis is based on the abstract only. Crossref lists only Elsevier text-and-data-mining terms (no open licence), so the article is treated as paywalled and the full text was not read. A narrative review reflects the authors' selection and reading of the literature, and the abstract gives no effect sizes. The authors themselves state that causation is not established, so readers should not take this as evidence that telomere-targeted products lower blood pressure.",
+   "terms": [
+    {
+     "term": "Telomere",
+     "definition": "The protective cap of repeated DNA and proteins at each chromosome end."
+    },
+    {
+     "term": "Shelterin",
+     "definition": "A group of proteins that binds telomeres and shields them from being mistaken for DNA breaks."
+    },
+    {
+     "term": "Endothelium",
+     "definition": "The thin layer of cells lining the inside of blood vessels."
+    },
+    {
+     "term": "Senescence-associated secretory phenotype (SASP)",
+     "definition": "The mix of inflammatory signals released by senescent cells."
+    },
+    {
+     "term": "Mendelian randomisation",
+     "definition": "A method that uses inherited gene variants as natural experiments to test whether a trait may cause an outcome."
+    },
+    {
+     "term": "Leukocyte telomere length",
+     "definition": "Telomere length measured in white blood cells, the usual blood test for telomeres."
+    }
+   ]
+  }
  }
 ]
