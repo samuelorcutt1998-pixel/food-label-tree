@@ -9782,5 +9782,570 @@
     }
    ]
   }
+ },
+ {
+  "slug": "chip-driver-mutations-heterogeneous-effects",
+  "group": "latest",
+  "title": "Heterogeneous Effects Across Clonal Hematopoiesis of Indeterminate Potential (CHIP) Driver Mutations Challenges a Unified Model of CHIP",
+  "authors": [
+   "Matthew Hui Liu",
+   "Xinyu Sun",
+   "Lissette Gomez",
+   "Tianjie Gu",
+   "Makaela A Mews",
+   "Yousef Mustafa",
+   "Anthony J Griswold",
+   "William Bush"
+  ],
+  "authorsShort": "Matthew Hui Liu et al.",
+  "firstAuthor": "Matthew Hui Liu",
+  "journal": "bioRxiv (preprint)",
+  "pubDate": "2026-11-25",
+  "doi": "10.64898/2026.11.24.768778",
+  "url": "https://doi.org/10.64898/2026.11.24.768778",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.64898/2026.11.24.768778",
+   "source": "bioRxiv preprints are free to read (Crossref license metadata fetched 2026-11-26: CC BY 4.0)"
+  },
+  "whyItMatters": "Different CHIP driver mutations, the age-related blood-stem-cell mutations, seem to do quite different things to the body, so lumping them together as one risk factor may hide what is really going on.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "As people age, some blood stem cells pick up DNA mutations that give them a growth edge. Those cells multiply until a noticeable share of a person's blood comes from one mutated family of cells, or clone. When this happens without any blood cancer it is called clonal hematopoiesis of indeterminate potential, or CHIP. CHIP becomes common in later life and has been linked to heart disease, blood cancer and, in some studies, Alzheimer's disease, though the links do not always agree. One possible reason is that research often treats CHIP as a single condition, even though it can be caused by mutations in many different genes that each do different jobs. This preprint asks whether the specific driver gene matters for what CHIP does downstream.",
+   "did": "The team analysed 466 samples from the Multi-Ancestry Genomics, Epigenomics, and Transcriptomics of Alzheimer's Disease dataset, which combines several layers of molecular data from the same people. They grouped CHIP carriers by driver gene and by the function of that gene, for example genes involved in blood stem cell differentiation versus genes involved in growth signalling, and then compared DNA methylation, overall mutation burden and gene activity patterns across these groups. The abstract does not say how many of the 466 samples carried CHIP or what tissue each data layer came from.",
+   "found": "The different CHIP categories showed distinct, function-specific signatures. CHIP driven by DNMT3A, a gene that adds methyl tags to DNA, was uniquely associated with global loss of DNA methylation. CHIP driven by STAG2, part of the machinery that holds chromosomes together, was associated with a higher mutation burden. CHIP in genes that control stem cell differentiation strongly switched on adaptive immune responses, while CHIP in growth-signalling genes was linked to coagulation and cell-adhesion pathways. The authors say these different functions push inflammation in different ways, and they argue that CHIP should be studied by driver-gene function rather than as one entity. They suggest this could help explain conflicting links between CHIP and diseases such as Alzheimer's disease, heart disease and cancer.",
+   "limits": "This is a preprint posted to bioRxiv and has not been peer reviewed, so its results may change. This synopsis is based on the abstract only. The sample of 466 comes from an Alzheimer's disease dataset, so the people studied may not represent the general ageing population, and once split by driver gene some groups are probably small. The abstract does not give effect sizes or statistical details. The analysis is observational, so it shows associations between mutation types and molecular patterns rather than proving that a given mutation causes them, and the abstract does not report replication in another cohort.",
+   "terms": [
+    {
+     "term": "Clonal hematopoiesis (CHIP)",
+     "definition": "Age-related expansion of blood stem cells that carry a growth-boosting mutation, without blood cancer."
+    },
+    {
+     "term": "Driver mutation",
+     "definition": "A mutation that gives a cell a growth advantage and lets its clone expand."
+    },
+    {
+     "term": "Somatic mutation",
+     "definition": "A DNA change acquired during life in body cells, not inherited."
+    },
+    {
+     "term": "DNMT3A",
+     "definition": "A gene that adds methyl tags to DNA; the most common CHIP driver."
+    },
+    {
+     "term": "Hypomethylation",
+     "definition": "Loss of methyl tags across DNA."
+    },
+    {
+     "term": "Multi-omics",
+     "definition": "Combining several molecular data types, such as DNA, methylation and gene activity, from the same samples."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "sleep-apnea-intermittent-hypoxia-epigenetic-aging",
+  "group": "latest",
+  "title": "Epigenetic Aging and Severity of Nocturnal Intermittent Hypoxia",
+  "authors": [
+   "Ilia Ostrovski",
+   "A.J.Hirsch Allen",
+   "Beryl Zhuang",
+   "Chaini Konwar",
+   "Andrew E. Beaudin",
+   "Patrick J. Hanly",
+   "Robert P. Skomro",
+   "R.John Kimoff",
+   "Frédéric Sériès",
+   "Rebecca Robillard",
+   "Annie Lajoie",
+   "Jill K. Raneri",
+   "Allan I. Pack",
+   "Julie Carrier",
+   "Michael Kobor",
+   "Tetyana Kendzerska",
+   "Calvin Chang",
+   "Josh B. Hicks",
+   "Andrée-Ann Baril",
+   "Ali Abdul Ghafoor",
+   "Jackie Lee-Son",
+   "Min Ryu",
+   "Colin Ellis",
+   "Najib T. Ayas"
+  ],
+  "authorsShort": "Ilia Ostrovski et al.",
+  "firstAuthor": "Ilia Ostrovski",
+  "journal": "CHEST",
+  "pubDate": "2026-11-25",
+  "doi": "10.1016/j.chest.2026.11.010",
+  "url": "https://doi.org/10.1016/j.chest.2026.11.010",
+  "pmid": "43085574",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY-NC-ND 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1016/j.chest.2026.11.010",
+   "source": "Crossref license field fetched 2026-11-26: CC BY-NC-ND 4.0"
+  },
+  "whyItMatters": "In 1,364 people tested for sleep apnea, more frequent drops in blood oxygen at night went with faster epigenetic ageing on the newer PhenoAge and DunedinPACE clocks.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Obstructive sleep apnea makes the airway close off again and again during sleep, so blood oxygen dips and recovers many times a night. These repeated dips, called intermittent hypoxia, cause oxidative stress and inflammation, both of which are thought to speed up biological ageing. Epigenetic clocks estimate biological age from DNA methylation, chemical tags on DNA whose pattern changes with age. If sleep apnea leaves a measurable mark on these clocks, that would strengthen the case that it harms long-term health and could give doctors a new way to track its effects.",
+   "did": "The researchers studied adults referred for suspected sleep apnea at several sites of a multisite sleep and circadian research network, recruited between 2016 and 2021. This was a cross-sectional study, meaning each person was measured once. Severity of intermittent hypoxia was measured as the 4% oxygen desaturation index, the number of times per hour that blood oxygen fell by at least 4%, from home sleep tests or overnight lab studies. DNA methylation in white blood cells was measured on Illumina EPIC arrays, and several epigenetic clocks were used to calculate epigenetic age acceleration and pace of ageing. The statistical models adjusted for blood cell mix, age, sex, ethnicity, body mass index, smoking, study site, alcohol, diabetes and high blood pressure, and corrected for testing many clocks at once.",
+   "found": "The study included 1,364 people, with a median age of 56, a median of 16 oxygen dips per hour, a median body mass index of 32, and 57% men. A higher oxygen desaturation index was linked to greater age acceleration on the PhenoAge clock and to a faster pace of ageing on DunedinPACE. Both associations stayed statistically significant after correcting for multiple tests. The first-generation clocks, which were designed mainly to predict calendar age, showed no significant link. The authors conclude that more severe intermittent hypoxia is independently associated with faster biological ageing on these clocks, and they raise the possibility of using epigenetic age measures as biomarkers of the health damage caused by sleep apnea.",
+   "limits": "This synopsis is based on the abstract only. Because each person was measured once, the study cannot show whether low oxygen at night causes faster epigenetic ageing or whether something else drives both. Everyone in the sample had been referred for suspected sleep apnea, so the results may not apply to the general population. The abstract reports small regression coefficients and does not translate them into years of ageing, so the real-world size of the effect is unclear. Blood methylation may not reflect ageing in other organs, and the abstract does not say whether treating sleep apnea changes these clocks.",
+   "terms": [
+    {
+     "term": "Obstructive sleep apnea",
+     "definition": "Repeated collapse of the upper airway during sleep, interrupting breathing."
+    },
+    {
+     "term": "Intermittent hypoxia",
+     "definition": "Repeated short drops in blood oxygen followed by recovery."
+    },
+    {
+     "term": "Oxygen desaturation index (ODI)",
+     "definition": "The number of times per hour that blood oxygen falls by a set amount, here 4%."
+    },
+    {
+     "term": "Epigenetic age acceleration",
+     "definition": "How much older or younger a clock says someone is compared with their actual age."
+    },
+    {
+     "term": "PhenoAge",
+     "definition": "A second-generation epigenetic clock trained on markers of health and mortality risk."
+    },
+    {
+     "term": "DunedinPACE",
+     "definition": "A methylation measure of how fast a person is ageing right now, in biological years per calendar year."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "fruit-vegetables-fish-epigenetic-ageing-generation-scotland",
+  "group": "latest",
+  "title": "Associations between fruit, vegetable and fish and epigenetic markers of ageing and protein EpiScores in Generation Scotland",
+  "authors": [
+   "Sarah Gregory",
+   "Jure Mur",
+   "Oliver M. Shannon",
+   "Hannah M. Smith",
+   "Riccardo E. Marioni",
+   "Makis Tzioras",
+   "Graciela Muniz-Terrera"
+  ],
+  "authorsShort": "Sarah Gregory et al.",
+  "firstAuthor": "Sarah Gregory",
+  "journal": "GeroScience",
+  "pubDate": "2026-11-26",
+  "doi": "10.1007/s11357-026-02654-5",
+  "url": "https://doi.org/10.1007/s11357-026-02654-5",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1007/s11357-026-02654-5",
+   "source": "Crossref license field fetched 2026-11-26: CC BY 4.0"
+  },
+  "whyItMatters": "In several thousand Scottish adults, how much fruit, vegetables and fish people ate was linked to several DNA methylation markers of biological ageing, hinting that diet leaves traces on the epigenome.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Eating more fruit, vegetables and fish has long been tied to lower risk of chronic diseases such as heart disease and to longer life. Why this happens is less clear. One idea is that diet changes DNA methylation, the chemical tags on DNA that help control which genes are active and whose pattern shifts with age. If certain foods are linked to younger-looking methylation patterns, that would offer one possible route from the dinner plate to healthier ageing, and would give researchers measurable markers to track in diet studies.",
+   "did": "The researchers used Generation Scotland, a large population study with dietary information and blood DNA methylation data. Diet data covered how often and how much people ate fresh fruit (8,648 people), vegetables (8,686 people) and fish (5,070 people). They tested links between each of these foods and several methylation-based markers: GrimAge and PhenoAge, two epigenetic clocks tied to health and mortality risk; DNAm telomere length, a methylation estimate of telomere length; a methylation marker of the inflammatory protein IL6; and EpiScores for 109 proteins, which are methylation-based stand-ins for blood protein levels. They used linear regression and corrected for testing many markers at once. The study was cross-sectional, looking at one point in time.",
+   "found": "After correction for multiple testing, there were several significant associations between the foods and the epigenetic biomarkers. The abstract does not list which foods were linked to which markers, nor the direction or size of the effects, so this summary cannot report them. The authors conclude that their findings add to evidence that eating habits are associated with DNA methylation-derived markers of ageing and health. They call for checking the results in other groups of people and for using data collected over time to explore whether diet actually causes these changes.",
+   "limits": "This synopsis is based on the abstract only, and the abstract gives no specific results, effect sizes or directions, so it is not possible to say here which links were found. Diet was self-reported, which is often inaccurate. The design is cross-sectional and observational: people who eat more fruit, vegetables and fish may also differ in income, exercise, smoking and other habits that could explain the links. The results come from one Scottish population and have not yet been confirmed elsewhere, as the authors note. EpiScores and DNAm telomere length are indirect estimates rather than direct measures of protein levels or telomeres.",
+   "terms": [
+    {
+     "term": "DNA methylation",
+     "definition": "Small chemical tags on DNA that help switch genes on or off and change with age."
+    },
+    {
+     "term": "GrimAge",
+     "definition": "An epigenetic clock built to predict lifespan and health risk."
+    },
+    {
+     "term": "PhenoAge",
+     "definition": "An epigenetic clock trained on blood markers of health and mortality."
+    },
+    {
+     "term": "DNAm telomere length",
+     "definition": "An estimate of telomere length made from DNA methylation rather than measured directly."
+    },
+    {
+     "term": "EpiScore",
+     "definition": "A methylation-based score that stands in for the blood level of a particular protein."
+    },
+    {
+     "term": "Cross-sectional study",
+     "definition": "A study that measures people at a single point in time."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "saliva-epigenetic-age-short-term-repeatability",
+  "group": "latest",
+  "title": "Short-term repeatability of saliva-based epigenetic age measurements: implications for longitudinal intervention studies",
+  "authors": [
+   "David Cheishvili",
+   "Stanley Wong",
+   "Alex Fok",
+   "Moshe Szyf",
+   "Shulamit Weiss",
+   "Nurit Tinsky",
+   "Noa Davis",
+   "Tzipora Strauss",
+   "Abigail Goshen"
+  ],
+  "authorsShort": "David Cheishvili et al.",
+  "firstAuthor": "David Cheishvili",
+  "journal": "Aging (Albany NY)",
+  "pubDate": "2026-11-25",
+  "doi": "10.18632/aging.206442",
+  "url": "https://doi.org/10.18632/aging.206442",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open",
+   "isOpen": true,
+   "url": "https://doi.org/10.18632/aging.206442",
+   "source": "OpenAlex open_access fetched 2026-11-26: is_oa true (hybrid); Crossref lists no licence"
+  },
+  "whyItMatters": "A saliva epigenetic age test gave readings that bounced by around two years over just a few days, which sets a floor for how big a change a trial must see before claiming someone got biologically younger.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic age tests, which estimate biological age from DNA methylation, are increasingly used to judge whether a diet, drug or lifestyle change slows ageing. The usual approach is to measure someone before and after and look at the change. But every test has some noise. If a reading can drift by a couple of years from one day to the next for no biological reason, a small before-and-after difference could be nothing more than that noise. Knowing how much a test naturally varies is therefore essential for designing and interpreting these studies, and for anyone reading the results of a consumer test.",
+   "did": "The researchers studied epiAge, a saliva test that estimates age from methylation at a gene region called ELOVL2, measured with targeted next-generation sequencing. Ninety-four adults gave saliva up to three times, 48 hours apart. Samples were anonymised and analysed in a blinded lab, and each one was run three times to measure the lab's own technical noise. They then compared readings across the repeated collections and split the total variation into differences between people, between visits and between lab runs.",
+   "found": "Technical noise was low: repeat runs of the same sample differed by a mean standard deviation of about 1.04 years across 255 samples, with high agreement (intraclass correlation 0.93). Across repeated saliva collections, the mean absolute difference between the first and last reading was 2.22 years, with an average shift of 0.74 years and 95% limits of agreement from about minus 5.6 to plus 7.1 years. Among the 71 people who gave all three samples, the average within-person standard deviation was 1.58 years and agreement across visits was still fairly high (0.85). Most of the variation, 81.3%, came from real differences between people; 11.5% came from visit-to-visit changes and 7.1% from the lab process. The authors say these numbers define the short-term variability that should be taken into account when interpreting changes in epigenetic age.",
+   "limits": "This synopsis is based on the abstract only. The results apply to one specific test, a saliva measure based on a single gene region, and may not carry over to blood-based or genome-wide clocks. The repeat samples were only 48 hours apart, so the study does not show how much readings vary over weeks or months, which is the usual length of an intervention trial. With 94 participants, the estimates have some uncertainty. The study measures repeatability, not whether the test predicts health outcomes.",
+   "terms": [
+    {
+     "term": "Epigenetic age",
+     "definition": "An estimate of biological age based on DNA methylation patterns."
+    },
+    {
+     "term": "ELOVL2",
+     "definition": "A gene whose methylation rises steadily with age and is widely used in age estimation."
+    },
+    {
+     "term": "Technical variability",
+     "definition": "Differences between repeated lab runs of the same sample."
+    },
+    {
+     "term": "Intraclass correlation (ICC)",
+     "definition": "A 0-to-1 measure of how consistently repeated measurements rank the same people; closer to 1 is better."
+    },
+    {
+     "term": "Limits of agreement",
+     "definition": "The range within which most differences between two repeated measurements fall."
+    },
+    {
+     "term": "Variance components",
+     "definition": "A breakdown of total variation into its sources, such as people, visits and lab runs."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "combined-epigenetic-clocks-adiposity-young-filipino-adults",
+  "group": "latest",
+  "title": "Greater than the sum of its parts: Combining epigenetic clocks to characterize the association of biological age acceleration and adiposity in young Filipino adults",
+  "authors": [
+   "Romaniya S. Voloshchuk",
+   "Anthony S. Zannas",
+   "Christopher W. Kuzawa",
+   "Nanette R. Lee",
+   "Delia B. Carba",
+   "Linda S. Adair"
+  ],
+  "authorsShort": "Romaniya S. Voloshchuk et al.",
+  "firstAuthor": "Romaniya S. Voloshchuk",
+  "journal": "PLOS One",
+  "pubDate": "2026-11-25",
+  "doi": "10.1371/journal.pone.0347070",
+  "url": "https://doi.org/10.1371/journal.pone.0347070",
+  "pmid": null,
+  "pmcid": "PMC13805912",
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1371/journal.pone.0347070",
+   "source": "Crossref license field fetched 2026-11-26: CC BY 4.0"
+  },
+  "whyItMatters": "Merging six epigenetic clocks into one combined score showed that more body fat, especially around the waist, already goes with faster biological ageing in Filipino adults in their early twenties.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Many different epigenetic clocks now exist, each built in a different way and each giving a slightly different answer about how fast someone is ageing. Researchers often have to pick one or report a long list of results that do not fully agree. Excess body fat is known to be linked with faster ageing on several of these clocks, but most of that research comes from older adults in wealthy Western countries. This study tested two things: whether several clocks can be combined into one overall measure, and whether body fat is linked to faster biological ageing in young adults in a lower-middle-income Asian country.",
+   "did": "The researchers analysed 1,745 participants, about 21.7 years old and 45% female, from the Cebu Longitudinal Health and Nutrition Survey in the Philippines. They calculated biological age acceleration with six measures: Horvath, Hannum, PhenoAge, GrimAge, DNAm telomere length and DunedinPACE, each in standard form and in a more noise-resistant principal-component (PC) form. After checking that the data suited the method, they used factor analysis, a statistical way of finding the shared signal in several measures, to build two combined scores, FactorAge and PCFactorAge. Body fat was measured as body mass index (BMI), waist circumference and waist-to-height ratio, and each was tested against each ageing measure with linear regression.",
+   "found": "All three fat measures were positively linked to both combined scores. A 5-unit higher BMI went with about a 0.1 standard deviation increase in FactorAge and PCFactorAge. A 10 cm larger waist went with about a 0.09 standard deviation increase in each. A 0.1 higher waist-to-height ratio went with about a 0.16 standard deviation increase in each. Waist-to-height ratio was also linked to higher scores on several individual clocks, including PhenoAge, PCGrimAge and DunedinPACE; waist size and BMI were linked to a smaller set of clocks. The authors conclude that combining clocks is a new way to build an overall biological age estimate, and that fat measures predict it in this young Filipino group.",
+   "limits": "This synopsis is based on the abstract only. The analysis is cross-sectional, so it cannot show whether extra body fat causes faster epigenetic ageing or the other way round, and other lifestyle factors may play a part. The effect sizes are modest, a tenth to a sixth of a standard deviation, and the combined scores are expressed in standard deviations rather than years, which makes them harder to interpret. The results come from one cohort of young adults and need checking elsewhere. The abstract does not say whether the combined score predicts health outcomes better than single clocks.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates age from DNA methylation patterns."
+    },
+    {
+     "term": "Biological age acceleration",
+     "definition": "How much faster or slower someone is ageing biologically than their calendar age suggests."
+    },
+    {
+     "term": "Factor analysis",
+     "definition": "A statistical method that pulls out the common signal shared by several related measures."
+    },
+    {
+     "term": "PC clocks",
+     "definition": "Versions of epigenetic clocks rebuilt from principal components to reduce technical noise."
+    },
+    {
+     "term": "Waist-to-height ratio",
+     "definition": "Waist size divided by height; a simple measure of belly fat."
+    },
+    {
+     "term": "Standard deviation",
+     "definition": "A measure of spread; here, the unit used for the combined ageing scores."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "multiparametric-flow-fish-telomere-length-leukocyte-subsets",
+  "group": "latest",
+  "title": "Telomere length measurement in immunophenotypically defined human leukocyte subsets using multiparametric flow-FISH",
+  "authors": [
+   "Joévin Besombes",
+   "Benjamin Lebecque",
+   "Allison Voisin",
+   "Céline Bourgne",
+   "Mattéo Parisseaux",
+   "Gabriel Dhaiby",
+   "Clara Tournebize",
+   "Mélanie Soucal",
+   "Delphine Voisin",
+   "Inès Ramos",
+   "Sylvain Moinard",
+   "Andrei Tchirkov",
+   "Marc G. Berger"
+  ],
+  "authorsShort": "Joévin Besombes et al.",
+  "firstAuthor": "Joévin Besombes",
+  "journal": "Scientific Reports",
+  "pubDate": "2026-11-25",
+  "doi": "10.1038/s41598-026-82410-z",
+  "url": "https://doi.org/10.1038/s41598-026-82410-z",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY-NC-ND 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1038/s41598-026-82410-z",
+   "source": "Crossref license field fetched 2026-11-26: CC BY-NC-ND 4.0"
+  },
+  "whyItMatters": "A new single-tube flow-FISH method measures telomere length separately in several white blood cell types at once, a step towards more precise telomere ageing tests.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Telomeres are protective caps at the ends of chromosomes that shorten each time a cell divides. Their length works as a record of a cell's past divisions and is used in ageing research, in diagnosing inherited telomere disorders and in some blood cancers. Different kinds of white blood cells divide at different rates, so their telomeres can differ in length, and an average across all blood cells can blur important differences. Flow-FISH is a reference method that tags telomeres with a fluorescent probe and reads them cell by cell, but measuring several cell types at the same time has been technically difficult because the harsh steps that let the probe in tend to strip away the markers used to identify cell types.",
+   "did": "The researchers built a multiparametric flow-FISH assay around a commercially available telomere probe kit so they could measure relative telomere length in several leukocyte subsets in one test. They added a chemical cross-linking step with a compound called BS3 before hybridisation, intended to lock the cell-type marker stains in place. They used imaging flow cytometry to check where the probe signal sat in the cells, compared flow-FISH results with a separate qPCR telomere test in sorted T cells, and looked at how telomere length related to age in healthy controls. As a proof of concept, they also tested five patients with chronic myeloid leukaemia and five with chronic lymphocytic leukaemia.",
+   "found": "Cross-linking with BS3 helped the cell-type marker stains survive the procedure without any detectable effect on the telomere signal, and imaging showed the probe signal was mainly in the nucleus in each subset. In controls, telomere length by flow-FISH correlated moderately with qPCR results in sorted T cells (r = 0.595) and declined with age in T cells. In the small patient groups, descriptive analyses suggested shorter telomeres in neutrophils and monocytes in chronic myeloid leukaemia, and variable telomere length in one lymphocyte-like cell group in chronic lymphocytic leukaemia. The authors say the work supports measuring cell-type-specific telomere length in a single assay.",
+   "limits": "This synopsis is based on the abstract only. It is a proof-of-concept methods study; the abstract does not say how many healthy controls were tested, and the patient groups had only five people each, so the leukaemia findings are descriptive only. The agreement with qPCR was moderate rather than strong, and was shown only for T cells. Measurements are relative telomere length rather than absolute length in base pairs. The method still needs testing in larger groups and in other labs before it could be used routinely.",
+   "terms": [
+    {
+     "term": "Telomere",
+     "definition": "A repeated DNA sequence that caps and protects the end of each chromosome."
+    },
+    {
+     "term": "Flow-FISH",
+     "definition": "A method that tags telomeres with a fluorescent probe and measures them cell by cell in a flow cytometer."
+    },
+    {
+     "term": "Leukocyte subsets",
+     "definition": "Different types of white blood cells, such as T cells, neutrophils and monocytes."
+    },
+    {
+     "term": "Immunophenotyping",
+     "definition": "Identifying cell types by staining the marker proteins on their surface."
+    },
+    {
+     "term": "Cross-linking",
+     "definition": "Chemically tying molecules together so they stay in place during later steps."
+    },
+    {
+     "term": "qPCR telomere assay",
+     "definition": "A DNA-amplification method that estimates average telomere length in a sample."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "marking-time-multimodal-biological-aging-clocks-review",
+  "group": "latest",
+  "title": "Marking Time: Multilayered and Multimodal Frameworks for Measuring Human Biological Aging",
+  "authors": [
+   "José M. Izquierdo"
+  ],
+  "authorsShort": "José M. Izquierdo",
+  "firstAuthor": "José M. Izquierdo",
+  "journal": "Aging Cell",
+  "pubDate": "2026-11-24",
+  "doi": "10.1111/acel.70847",
+  "url": "https://doi.org/10.1111/acel.70847",
+  "pmid": "43078670",
+  "pmcid": "PMC13796083",
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1111/acel.70847",
+   "source": "Crossref license field fetched 2026-11-26: CC BY 4.0"
+  },
+  "whyItMatters": "A perspective that maps how ageing clocks grew from single DNA methylation predictors of calendar age into multi-omic, organ-level tools, and lists what still stops them being used in the clinic.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Calendar age is a poor guide to how fast a person's body is actually ageing; two people of the same age can differ a lot, and different organs within one person can age at different speeds. That has driven a boom in biological ageing clocks, starting with DNA methylation clocks and now spreading to other kinds of molecular and clinical data. With so many clocks available, it is hard for researchers, doctors and the public to know what each one measures and how much to trust it. A framework for sorting clocks could help people choose and interpret them.",
+   "did": "This is a perspective article by a single author, not a new experiment. It traces how ageing clocks have evolved: from first-generation predictors of calendar age, to clocks tied to health and mortality, to measures of ageing rate, clocks designed to capture causal biology, clocks that work across species, and multimodal models. It covers clocks built from epigenomic (DNA methylation), transcriptomic, proteomic, metabolomic, clinical and physiological data, from different organs and species. The author proposes a framework that classifies clocks by what they were trained to predict, their biological scope, and how they were validated, and highlights two recent studies as examples of highly integrated clocks.",
+   "found": "The article argues that clocks have potential uses in risk stratification, personalised medicine, monitoring interventions, clinical trial design, healthy-ageing guidelines and public health planning. It discusses the trade-offs of combining several kinds of molecular data, including dimensionality, reproducibility, computing demands, cost, interpretability and whether the approach can scale in the clinic. It lists remaining obstacles: overfitting, costly gains from adding more data types, the need for calibration in each population, limited generalisability across species and demographic groups, and uncertainty about whether biomarker associations reflect true causal mechanisms. The author concludes that these limits must be overcome before clocks can become routine in personalised geromedicine.",
+   "limits": "This synopsis is based on the abstract only. As a perspective, the article presents one author's synthesis and proposed framework rather than new data, and the abstract does not describe how the literature was selected or name the two highlighted studies. The proposed classification has not been tested for how useful it is in practice. The abstract does not give performance numbers for any clock, so readers cannot judge from it which clocks work best.",
+   "terms": [
+    {
+     "term": "Biological age",
+     "definition": "An estimate of how old the body appears based on biological measurements rather than birthdays."
+    },
+    {
+     "term": "Aging clock",
+     "definition": "A model that turns biological data into an age estimate."
+    },
+    {
+     "term": "Epigenomic",
+     "definition": "Relating to chemical tags on DNA, such as methylation, that affect gene activity."
+    },
+    {
+     "term": "Multi-omic",
+     "definition": "Combining several molecular data types, such as DNA methylation, RNA, proteins and metabolites."
+    },
+    {
+     "term": "Overfitting",
+     "definition": "When a model learns quirks of its training data and performs worse on new data."
+    },
+    {
+     "term": "Geromedicine",
+     "definition": "Medicine aimed at the biology of ageing itself rather than single diseases."
+    }
+   ]
+  }
  }
 ]
