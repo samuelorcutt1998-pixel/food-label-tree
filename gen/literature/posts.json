@@ -10347,5 +10347,408 @@
     }
    ]
   }
+ },
+ {
+  "slug": "frailty-baseline-dna-damage-cfdna-methylation",
+  "group": "latest",
+  "title": "Elevated baseline DNA damage and hypomethylated circulating free DNA distinguish frailty from healthy aging",
+  "authors": [
+   "Stefania Farina",
+   "Sander Barnhoorn",
+   "Martina Sette",
+   "Cesar Payan-Gomez",
+   "Daisy Sproviero",
+   "Jean Helmijr",
+   "Maurice Jansen",
+   "John Martens",
+   "Monica Pinoli",
+   "Franca Marino",
+   "Alfredo Costa",
+   "Matteo Cotta Ramusino",
+   "Silvia Cerri",
+   "Fabio Blandini",
+   "Chiara Milanese",
+   "Pier G. Mastroberardino"
+  ],
+  "authorsShort": "Stefania Farina et al.",
+  "firstAuthor": "Stefania Farina",
+  "journal": "Cell Death & Disease",
+  "pubDate": "2026-09-04",
+  "doi": "10.1038/s41419-026-09207-w",
+  "url": "https://doi.org/10.1038/s41419-026-09207-w",
+  "pmid": "43098992",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1038/s41419-026-09207-w",
+   "source": "Crossref license field fetched 2026-11-27: CC BY 4.0"
+  },
+  "whyItMatters": "Frail older people carried more unrepaired DNA damage in their skin cells than healthy people of the same age, and their blood DNA fragments carried a distinct methylation fingerprint, hinting at both a cause and a possible blood test for frailty.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old or newly indexed"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Getting older raises the risk of many diseases, including cancer and brain disorders, and the slow build-up of damage to DNA is thought to be one of the main forces behind this. But people do not all age the same way. Some stay robust into late life, while others become frail: they lose strength and reserve across several body systems at once, become easier to tip into illness, and are more likely to end up disabled. Two people with the same birthday can therefore be in very different shape, and it is not clear what separates frailty from healthy ageing at the molecular level. This study asks whether DNA damage, and traces of DNA released into the blood, look different in frail older people compared with healthy older people of a similar age.",
+   "did": "The researchers compared three groups: frail older individuals, healthy older individuals of a similar age, and healthy young people. From skin samples they grew fibroblasts, the cells that make connective tissue, and measured how much DNA damage these cells carried under normal conditions and how well they responded after being exposed to radiation. They also measured circulating free DNA, the small fragments of DNA released into the bloodstream when cells die or break down, and compared those levels with TNF-alpha, a marker of inflammation. Finally, they sequenced the methylation pattern of the cell-free DNA. Because each tissue has its own methylation signature, this can hint at which tissues the fragments came from, a process called deconvolution. The abstract does not give the number of people in each group.",
+   "found": "Fibroblasts from frail people showed more DNA damage at rest, seen as more spots of two markers of DNA breaks, gamma-H2AX and 53BP1, than cells from age-matched healthy people. However, when the cells were deliberately damaged with radiation, the frail and non-frail groups did not differ in how well they responded. In other words, frail cells seemed to start from a higher damage baseline rather than having an obviously weaker repair response. Frail people also had more cell-free DNA in their blood, and higher levels tracked with higher TNF-alpha, linking the DNA fragments with inflammation. The cell-free DNA from frail people contained many under-methylated fragments, and a set of differently methylated regions could tell frail people apart from age-matched controls. Deconvolution pointed to the small intestine as a possible source of some of this DNA.",
+   "limits": "This synopsis is based on the abstract only; the full text was not read. The study shows associations at one point in time, so it cannot say whether the extra DNA damage causes frailty or follows from it. The abstract does not report group sizes or how well the methylation fingerprint performed, and the gut-origin finding is described as a possible source that needs confirming. Skin fibroblasts grown in the lab may not reflect every tissue in the body. Any blood test for frailty based on these results would need testing in larger, independent groups first.",
+   "terms": [
+    {
+     "term": "Frailty",
+     "definition": "A state of reduced physical reserve in older age across several body systems, raising vulnerability to illness and disability."
+    },
+    {
+     "term": "Circulating free DNA (cfDNA)",
+     "definition": "Short fragments of DNA floating in the blood, released when cells die or break down."
+    },
+    {
+     "term": "gamma-H2AX and 53BP1 foci",
+     "definition": "Spots inside the nucleus that mark sites of DNA breaks; more spots means more damage."
+    },
+    {
+     "term": "DNA methylation",
+     "definition": "Small chemical tags on DNA that help control which genes are used; patterns differ between tissues."
+    },
+    {
+     "term": "Deconvolution",
+     "definition": "A computational method that estimates which tissues a mix of DNA came from using their methylation signatures."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "bcg-vaccination-age-dependent-epigenetic-aging",
+  "group": "latest",
+  "title": "Age-dependent effect of BCG vaccination on the kinetics of biological aging",
+  "authors": [
+   "Cancan Qi",
+   "Yihan Zhang",
+   "Simone Moorlag",
+   "Sarah Sun",
+   "Mohamad Ballan",
+   "Charlotte deBree",
+   "Valerie Koeken",
+   "Vera P. Mourits",
+   "Zhaoli Liu",
+   "Wenchao Li",
+   "Akshayata Naidu",
+   "Martin Jaeger",
+   "Frederik Schaltz-Buchholzer",
+   "Anne Marie Rosendahl Madsen",
+   "Leo A.B. Joosten",
+   "Lennart M. Roesner",
+   "Jochen Huehn",
+   "Thomas Werfel",
+   "Luis B. Barreiro",
+   "Christine Stabell Benn",
+   "Yang Li",
+   "Mihai G. Netea",
+   "Cheng-Jian Xu"
+  ],
+  "authorsShort": "Cancan Qi et al.",
+  "firstAuthor": "Cancan Qi",
+  "journal": "Research Square (preprint)",
+  "pubDate": "2026-11-26",
+  "doi": "10.21203/rs.3.rs-11451703/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-11451703/v1",
+  "pmid": null,
+  "pmcid": null,
+  "type": "preprint",
+  "preprint": true,
+  "openAccess": {
+   "status": "preprint",
+   "isOpen": true,
+   "url": "https://doi.org/10.21203/rs.3.rs-11451703/v1",
+   "source": "Research Square preprints are free to read (Crossref license metadata fetched 2026-11-27: CC BY 4.0)"
+  },
+  "whyItMatters": "The BCG vaccine appeared to slow epigenetic ageing in young adults but speed it up in people over 65, a reminder that the same intervention can push DNA-methylation clocks in opposite directions depending on age.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old or newly indexed"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "BCG is a century-old tuberculosis vaccine. Beyond tuberculosis, it is known to train the immune system more broadly, and some studies suggest it can boost immune responsiveness and calm long-term, low-grade inflammation. Both of those processes are closely tied to immune ageing, which has made BCG interesting as a possible tool to slow parts of ageing. A common way to measure biological ageing is with epigenetic clocks: formulas that read DNA methylation, the chemical tags on DNA, and estimate how old the body looks at a molecular level. This preprint asks whether BCG vaccination changes epigenetic age, and whether the effect depends on how old the person is when vaccinated.",
+   "did": "The team measured DNA methylation across the genome in two vaccinated groups. The first was 284 young adults from the 300BCG study, sampled before vaccination, two weeks after and three months after. The second was 117 adults over 65 from the BCG-DENMARK-SENIOR study, sampled before vaccination and one year after. They then calculated epigenetic age acceleration, which is how much older or younger someone's methylation looks compared with their real age, plus an inflammation-related age score. They also looked at a possible mechanism involving CD38, a protein on blood stem cells.",
+   "found": "The effects depended on both age and sex. In young people, and especially in young men, BCG vaccination significantly reduced epigenetic age acceleration, and an inflammatory age score fell in parallel. In older adults the opposite happened: vaccination was followed by faster epigenetic ageing. The authors propose that CD38 may help explain this split. According to the abstract, BCG raises CD38 on blood-forming stem cells; in youth this helps the stem cells multiply, but in older organisms it contributes to the stem cells becoming depleted and working less well. The authors argue that BCG's effects should be characterised fully, both as a way to study ageing biology and because of renewed interest in giving vaccines like BCG to older people for their wider immune benefits.",
+   "limits": "This is a preprint posted to Research Square and has not been peer reviewed, so its results may change. This synopsis is based on the abstract only; the full text was not read. The two cohorts differ in age, study design and follow-up time (three months versus one year), so the young and old results are not a like-for-like comparison. The abstract does not name the specific clocks used or give effect sizes. The CD38 explanation is described as a possible partial mechanism, not a proven one. A shift in a methylation clock is not the same as a change in health or lifespan, and nothing here should be read as advice for or against BCG vaccination.",
+   "terms": [
+    {
+     "term": "BCG vaccine",
+     "definition": "A live, weakened tuberculosis vaccine known to train the immune system more broadly."
+    },
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates biological age from DNA methylation patterns."
+    },
+    {
+     "term": "Epigenetic age acceleration",
+     "definition": "How much older or younger a person's methylation-based age is than their actual age."
+    },
+    {
+     "term": "Hematopoietic stem cells (HSCs)",
+     "definition": "Stem cells in the bone marrow that produce all blood and immune cells."
+    },
+    {
+     "term": "CD38",
+     "definition": "A protein on many immune and stem cells, involved in NAD+ breakdown and cell signalling."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "mechanical-unloading-macf1-telomere-osteocyte-senescence",
+  "group": "latest",
+  "title": "Mechanical Unloading Disrupts MACF1-Mediated Telomere Homeostasis to Drive Osteocyte Senescence and Bone Loss",
+  "authors": [
+   "Zhihao Chen",
+   "Lifang Hu",
+   "Kang Ru",
+   "Wenjing Mao",
+   "Ying Huai",
+   "Yan Zhang",
+   "Baoshi Ping",
+   "Xia Xu",
+   "Ye Tian",
+   "Hailing Yang",
+   "Hong Yang",
+   "Suryaji Patil",
+   "Long Zhao",
+   "Chunyu Zhu",
+   "Shuai Liu",
+   "Xin Xu",
+   "Tielin Yang",
+   "Airong Qian"
+  ],
+  "authorsShort": "Zhihao Chen et al.",
+  "firstAuthor": "Zhihao Chen",
+  "journal": "Advanced Science",
+  "pubDate": "2026-11-26",
+  "doi": "10.1002/advs.79017",
+  "url": "https://doi.org/10.1002/advs.79017",
+  "pmid": "43098989",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1002/advs.79017",
+   "source": "Crossref license field fetched 2026-11-27: CC BY 4.0"
+  },
+  "whyItMatters": "Taking load off bone, as in spaceflight or bed rest, shortened telomeres in bone cells through a MACF1-to-telomerase pathway and pushed them into senescence, offering a telomere-based explanation for disuse bone loss.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old or newly indexed"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Astronauts in space and people stuck in bed for long periods lose bone quickly. That loss looks a lot like age-related osteoporosis, which suggests that removing the normal mechanical load on bones may speed up skeletal ageing through a shared mechanism. Osteocytes, the cells buried inside bone, sense physical forces and help control how bone is built up and broken down. If these cells age early, bone may suffer. It was not known how lack of load causes osteocytes to become senescent, meaning they stop dividing and change their behaviour. This study looks for that link, focusing on telomeres, the protective caps at the ends of chromosomes. Telomeres shorten over time, and when they get too short a cell treats them as damaged DNA and can enter senescence, so they are a natural place to look.",
+   "did": "The researchers studied osteocytes under mechanical unloading, the removal of normal physical load. They focused on MACF1, a large protein that links the cell's internal scaffolding and responds to mechanical signals, and traced a chain of steps from MACF1 to telomerase, the enzyme that can lengthen telomeres. They then tested a bone-targeted gene therapy, AAV-DSS-Macf1, which delivers the MACF1 gene to bone, to see whether restoring it would prevent bone loss. The abstract does not describe the exact animal or cell models or how many were used.",
+   "found": "Unloading caused osteocytes to become senescent quickly, and this came with telomere shortening. The driver was a drop in MACF1. Normally MACF1 helps a signalling protein called beta-catenin move into the nucleus, where it switches on a gene regulator called TCF7. TCF7 then turns on TERT, the core part of telomerase, which keeps telomeres long. Unloading broke this MACF1, beta-catenin, TCF7, TERT chain, leading to shorter telomeres and early osteocyte senescence. Restoring MACF1 with the bone-targeted gene therapy repaired the chain and prevented bone loss. The authors conclude that osteocyte senescence may be a cause of disuse osteoporosis and that MACF1 could be a target for protecting bone in space and on Earth.",
+   "limits": "This synopsis is based on the abstract only; the full text was not read. The work appears to be in laboratory and animal models; the abstract does not report results in people. Unloading bone loss and normal age-related osteoporosis share features, but they are not the same condition, so the findings may not transfer directly to ordinary ageing. The gene therapy is experimental, and the abstract gives no safety data. Turning up telomerase is a delicate idea because telomerase activity is also used by many cancers. It also remains to be shown whether exercise or other loading in people acts on the same pathway.",
+   "terms": [
+    {
+     "term": "Osteocyte",
+     "definition": "A bone cell embedded in the bone matrix that senses mechanical load and helps control bone remodelling."
+    },
+    {
+     "term": "Mechanical unloading",
+     "definition": "Removal of the normal physical forces on bone, as in spaceflight or bed rest."
+    },
+    {
+     "term": "Telomere",
+     "definition": "Repeated DNA at each chromosome end that protects it and shortens as cells divide."
+    },
+    {
+     "term": "TERT / telomerase",
+     "definition": "The enzyme that adds DNA back onto telomeres; TERT is its key protein part."
+    },
+    {
+     "term": "Cellular senescence",
+     "definition": "A state in which damaged cells stop dividing but stay active, often releasing inflammatory signals."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "nanoplastic-ros-r-loops-cgas-sting-senescence",
+  "group": "latest",
+  "title": "ROS-driven R-loop accumulation mediates nanoplastic-induced inflammation and cellular senescence",
+  "authors": [
+   "Seo Yun Lee",
+   "Soo Hyeon Lee",
+   "Min Jae Kwak",
+   "Ja Young Kim",
+   "Jae Jin Kim"
+  ],
+  "authorsShort": "Seo Yun Lee et al.",
+  "firstAuthor": "Seo Yun Lee",
+  "journal": "Redox Biology",
+  "pubDate": "2026-11-23",
+  "doi": "10.1016/j.redox.2026.104502",
+  "url": "https://doi.org/10.1016/j.redox.2026.104502",
+  "pmid": "43097959",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1016/j.redox.2026.104502",
+   "source": "Crossref license field fetched 2026-11-27: CC BY 4.0"
+  },
+  "whyItMatters": "In skin cells, plastic nanoparticles triggered oxidative stress that tangled RNA with DNA into R-loops, damaging the genome and switching on an inflammation alarm that drove senescence, mapping one route from pollution to genome instability.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old or newly indexed"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Tiny plastic particles from the breakdown of everyday plastics are now found widely in the environment, and one common effect of exposure is oxidative stress, an excess of reactive oxygen species (ROS) inside cells. It is less clear how that oxidative burden turns into damage to the genome and long-lasting inflammation, two features linked with ageing. One possible route involves R-loops: structures that form when a newly made RNA strand sticks back onto its DNA template, leaving the other DNA strand exposed. R-loops that are not cleared can cause DNA breaks. This study asks whether polystyrene nanoplastics damage cells through this route, and how that damage connects to inflammation and senescence, the state in which cells stop dividing but stay active.",
+   "did": "The researchers exposed human keratinocytes, the main cells of the outer skin, to polystyrene nanoplastics. They tracked ROS, R-loops, DNA damage signals and signs of senescence. To test cause and effect they used several tools: the antioxidant N-acetylcysteine (NAC) to remove ROS; extra RNase H1, an enzyme that dissolves R-loops; and gene knockdown of XPF, an enzyme that cuts DNA structures, and TOP2B, an enzyme that untangles DNA. They also measured activity of cGAS-STING, a sensor that raises an inflammatory alarm when DNA turns up where it should not, in the cell's cytoplasm.",
+   "found": "Nanoplastic exposure raised ROS inside the cells, and these ROS were needed for R-loops to build up. Blocking ROS with NAC prevented R-loop formation, reduced the DNA damage markers gamma-H2AX and activated Chk1, and stopped cells becoming senescent. Removing R-loops directly with RNase H1 also prevented the DNA damage, the halt in cell division and senescence. XPF and TOP2B were needed to produce nucleic acid fragments that leaked into the cytoplasm, where they switched on cGAS-STING and contributed to the inflammatory secretions typical of senescent cells. Knocking down XPF or TOP2B reduced these fragments, interferon signalling and the secretions. The authors describe a chain from ROS to R-loops to XPF and TOP2B to cGAS-STING as a potential target for limiting oxidative inflammatory damage.",
+   "limits": "This synopsis is based on the abstract only; the full text was not read. All work described is in cultured skin cells, and the abstract does not give the nanoplastic doses or compare them with real-world exposure. Polystyrene is only one type of plastic, and particles in the environment vary in size and chemistry. The results show a mechanism in a dish, not that nanoplastics speed up ageing in people. Whether skin or other tissues build up R-loops after real exposures has not been tested here.",
+   "terms": [
+    {
+     "term": "R-loop",
+     "definition": "A three-stranded structure in which RNA pairs with one DNA strand, leaving the other exposed; unresolved R-loops can break DNA."
+    },
+    {
+     "term": "Reactive oxygen species (ROS)",
+     "definition": "Reactive oxygen-containing molecules that can damage DNA, proteins and fats when in excess."
+    },
+    {
+     "term": "cGAS-STING",
+     "definition": "A cell alarm system that senses DNA in the cytoplasm and triggers inflammation."
+    },
+    {
+     "term": "SASP",
+     "definition": "Senescence-associated secretory phenotype: the inflammatory molecules released by senescent cells."
+    },
+    {
+     "term": "Genomic instability",
+     "definition": "A raised tendency for the genome to acquire damage, breaks and mutations."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "breast-cancer-risk-epigenetic-aging-clocks-review",
+  "group": "latest",
+  "title": "Breast cancer risk, epigenetic aging and DNA methylation clocks",
+  "authors": [
+   "Khalid B. Mir",
+   "Denys Rujchanarong",
+   "Patricia A. Thompson",
+   "Christopher J. McCabe",
+   "Jeanne S. Mandelblatt",
+   "Moray J. Campbell"
+  ],
+  "authorsShort": "Khalid B. Mir et al.",
+  "firstAuthor": "Khalid B. Mir",
+  "journal": "Clinical Epigenetics",
+  "pubDate": "2026-09-05",
+  "doi": "10.1186/s13148-026-02238-2",
+  "url": "https://doi.org/10.1186/s13148-026-02238-2",
+  "pmid": "43099727",
+  "pmcid": null,
+  "type": "review",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY-NC-ND 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1186/s13148-026-02238-2",
+   "source": "Crossref license field fetched 2026-11-27: CC BY-NC-ND 4.0"
+  },
+  "whyItMatters": "A review argues that DNA-methylation clocks capture breast cancer risk beyond calendar age, since known risk factors like oestrogen exposure, BMI and breast density all appear to speed up epigenetic ageing.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old or newly indexed"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Breast cancer is the most commonly diagnosed cancer among women in the United States and a major cause of cancer death worldwide. Age is a risk factor for every cancer, but people of the same age carry very different risks. Biological age, meaning how worn the body is after years of exposures and lifestyle, has been proposed as one way to explain that spread. Epigenetic clocks, which estimate age from DNA methylation patterns across the genome, offer a measurable stand-in for biological age. This review asks what these clocks can tell us about breast cancer risk, tumour biology and outcomes.",
+   "did": "The authors review how DNA methylation clocks were built and the biology behind them, then gather evidence on links between epigenetic age and breast cancer. They cover risk factors, tumour biology and clinical outcomes, as well as possible uses in early detection, risk grouping and treatment. They also discuss pregnancy, cell-free DNA in the blood, and drugs that act on the epigenome. As a narrative review, it summarises existing studies rather than producing new data. Breast cancer is not one disease: it has several molecular subtypes with different genomic and epigenomic profiles, and the review notes that these subtypes differ in how they start, progress and respond to treatment.",
+   "found": "The review reports that established breast cancer risk factors, including oestrogen exposure, menopause, higher body mass index and dense breast tissue on mammograms, are associated with faster epigenetic ageing. The authors read this as a sign that clocks hold cancer risk information beyond chronological age alone. They describe pregnancy as causing a temporary rise in epigenetic age followed by a possible reversal after birth. They discuss two emerging tools: analysing the size and pattern of cell-free DNA fragments in blood (fragmentomics), and epidrugs that block enzymes such as DNA methyltransferases and histone deacetylases. They conclude that combining methylation-based biological age with other molecular data could help set screening intensity for high-risk women and track whether prevention or survivorship treatments are working.",
+   "limits": "This synopsis is based on the abstract only; the full text was not read. It is a narrative review, so it reflects the authors' selection and reading of the literature rather than a systematic pooling of results. Most links between epigenetic age and breast cancer risk come from observational studies, which show association, not cause. The clinical uses discussed are proposals; the abstract does not report any clock that is already validated for routine breast cancer screening. Different clocks can also give different answers for the same person, which complicates clinical use.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates biological age from DNA methylation patterns."
+    },
+    {
+     "term": "DNA methylation (DNAm)",
+     "definition": "Chemical tags on DNA that help control gene activity and shift with age."
+    },
+    {
+     "term": "Biological age",
+     "definition": "An estimate of how aged the body is, as opposed to years since birth."
+    },
+    {
+     "term": "Cell-free DNA fragmentomics",
+     "definition": "Study of the size and pattern of DNA fragments in blood, used to detect disease."
+    },
+    {
+     "term": "Epidrugs",
+     "definition": "Drugs that change epigenetic marks, such as DNMT or HDAC inhibitors."
+    }
+   ]
+  }
  }
 ]
