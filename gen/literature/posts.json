@@ -10750,5 +10750,228 @@
     }
    ]
   }
+ },
+ {
+  "slug": "leukocyte-composition-longitudinal-methylation-clocks",
+  "group": "latest",
+  "title": "Leukocyte composition change persists through within-person differencing in ten-year blood methylation measures of aging",
+  "authors": [
+   "Frederic Scheer"
+  ],
+  "authorsShort": "Frederic Scheer",
+  "firstAuthor": "Frederic Scheer",
+  "journal": "GeroScience",
+  "pubDate": "2026-11-27",
+  "doi": "10.1007/s11357-026-02672-3",
+  "url": "https://doi.org/10.1007/s11357-026-02672-3",
+  "pmid": "43102808",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY (Unpaywall, publisher hybrid open access, fetched 2026-11-28))",
+   "isOpen": true,
+   "url": "https://doi.org/10.1007/s11357-026-02672-3",
+   "source": "CC BY (Unpaywall, publisher hybrid open access, fetched 2026-11-28)"
+  },
+  "whyItMatters": "Ten-year tracking of twins shows that shifting white-blood-cell mix explains up to 41% of the variation in how fast blood epigenetic clocks such as PhenoAge 'tick', so clock change is partly immune ageing rather than pure DNA-methylation ageing.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old or newly indexed"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Epigenetic clocks estimate biological age from DNA methylation, the chemical tags on DNA that shift as we get older. Most clock studies use blood, but blood is a mixture of many white-cell types, and each type has its own methylation pattern. A common shortcut in long-term studies is to measure the same person twice and look only at the change, on the assumption that the person's own cell mix cancels out. That only works if the cell mix stays the same over time. In later life it does not: the immune system shifts, and this paper asks how much that shift contaminates, or is part of, what longitudinal clocks report as ageing.",
+   "did": "The researchers used blood samples from 86 people in the Danish Longitudinal Study of Aging Twins, collected about 10 years apart and measured on the Illumina 450K methylation array. For each person they calculated the 10-year change in four epigenetic clocks (Horvath multi-tissue, skin-and-blood, Hannum and PhenoAge) and in a 48-site methylation burden score. They then estimated each person's white-cell fractions from the same methylation data and tested how much the change in cell mix explained the change in each clock. They repeated the analysis with three different reference panels for estimating cell types, including one that separates naive and memory immune cells. They checked the direction of cell-mix change in two further cohorts: Health, Aging and Body Composition (16 people) and the Swedish Adoption/Twin Study of Aging (287 people).",
+   "found": "Change in white-cell composition explained a sizeable share of the differences between people in how much their clocks moved. The share ranged from 11.5% for the Horvath multi-tissue clock, which was not statistically significant, to 41.2% for PhenoAge, which was highly significant. PhenoAge was the most sensitive to cell mix under all three reference panels. Hannum, the burden score and PhenoAge all showed clear composition-linked shifts in their average change, while the Horvath and skin-and-blood clocks did not. The burden score's apparent rate of ageing fell to about a third of its unadjusted value after accounting for cell mix and was no longer clearly different from zero, though a leftover signal depended on how the score and the cell estimates were built. The shift from lymphoid towards myeloid cells replicated in the second cohort, and in the Swedish cohort its speed depended on age, appearing after 65. The authors argue that cell-mix change is itself part of immune ageing, not only noise, and that studies should report both adjusted and unadjusted clock change and say which they mean to measure.",
+   "limits": "This synopsis is based on the abstract only; the full text was not read. The main sample is small (86 people), and one replication cohort had only 16 people. Cell fractions were estimated from methylation data rather than counted directly, and the results shifted somewhat with the reference panel used. All participants are from older Scandinavian or US cohorts measured on one array type, so the size of the effect may differ in younger or more diverse groups. The study shows how much clock change tracks cell-mix change; it does not settle which part reflects 'true' ageing.",
+   "terms": [
+    {
+     "term": "Epigenetic clock",
+     "definition": "A formula that estimates biological age from DNA methylation patterns."
+    },
+    {
+     "term": "Within-person differencing",
+     "definition": "Measuring the same person twice and analysing only the change between visits."
+    },
+    {
+     "term": "Leukocyte composition",
+     "definition": "The mix of white-blood-cell types in a blood sample."
+    },
+    {
+     "term": "Deconvolution",
+     "definition": "Estimating cell-type proportions from a mixed-tissue methylation profile."
+    },
+    {
+     "term": "Lymphoid-to-myeloid shift",
+     "definition": "An age-linked move from lymphocytes toward myeloid cells such as neutrophils and monocytes."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "dna-polymerase-delta-lamin-progeria-mdpl",
+  "group": "latest",
+  "title": "Unraveling Pathogenetic Pathways Involving DNA Polymerase δ in HGPS and MDPL Premature Aging Syndromes",
+  "authors": [
+   "Elisa Schena",
+   "Michela Murdocca",
+   "Camilla Bruna Cerchier",
+   "Paola Spitalieri",
+   "Daniela Benati",
+   "Alessandra Recchia",
+   "Maria Rosaria D'Apice",
+   "Federica Sangiuolo",
+   "Cristina Capanni",
+   "Giovanna Lattanzi"
+  ],
+  "authorsShort": "Elisa Schena et al.",
+  "firstAuthor": "Elisa Schena",
+  "journal": "Aging Cell",
+  "pubDate": "2026-11-27",
+  "doi": "10.1111/acel.70842",
+  "url": "https://doi.org/10.1111/acel.70842",
+  "pmid": "43102262",
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "open (CC BY 4.0)",
+   "isOpen": true,
+   "url": "https://doi.org/10.1111/acel.70842",
+   "source": "CC BY 4.0"
+  },
+  "whyItMatters": "Links two premature-ageing diseases through one DNA-repair enzyme: DNA polymerase delta binds lamin A/C, and in both progeria and MDPL it fails to stay in the nucleus after DNA damage, with ATM trapped at the nuclear envelope in progeria.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old or newly indexed"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract",
+  "synopsis": {
+   "why": "Rare premature-ageing syndromes are useful windows into normal ageing because a single faulty gene produces many signs of old age early in life. Hutchinson-Gilford progeria syndrome (HGPS) is caused by mutations in LMNA, the gene for lamin A, a protein that forms a supporting mesh inside the nuclear envelope. MDPL syndrome (mandibular hypoplasia, deafness, progeroid features and lipodystrophy) is caused by mutations in POLD1, which makes the core part of DNA polymerase delta, an enzyme that copies DNA and helps repair it. Cells from both conditions have misshapen nuclei, faulty mitochondria and slow DNA repair. This study asks whether the two diseases share a common broken step that connects nuclear structure to DNA repair.",
+   "did": "The researchers worked with cells from people with MDPL and HGPS and compared them with control cells. They exposed the cells to ultraviolet light or oxidative stress, both of which damage DNA, and tracked whether DNA polymerase delta moved into the nucleus as expected. They tested whether the polymerase's catalytic subunit physically interacts with lamin A/C. Because export of the polymerase out of the nucleus depends on a carrier protein called CRM1, they treated cells with leptomycin B, a CRM1 blocker, to try to keep the enzyme inside the nucleus. They also followed ATM, a master sensor of DNA damage that activates repair proteins, to see where it sat in the cell before and after damage.",
+   "found": "In both MDPL and HGPS cells, DNA polymerase delta failed to shuttle into the nucleus normally after UV or oxidative stress, a shared functional defect. The team found that the polymerase's catalytic subunit physically binds lamin A/C, and this interaction was disrupted in both conditions, which the authors propose explains the shuttling problem. In MDPL cells, leptomycin B improved the polymerase's position in UV-damaged nuclei and improved the DNA damage response. In HGPS cells, putting more polymerase back in the nucleus did not improve the damage response. The authors link this to ATM: in HGPS cells, but not in control or MDPL cells, ATM was held at the nuclear envelope even without stress, and its move into the nucleus after UV damage was impaired. They conclude that DNA polymerase delta sits at a crossroads of lamin- and POLD1-related ageing mechanisms, and that ATM plays a major role in HGPS.",
+   "limits": "This synopsis is based on the abstract only; the full text was not read. The work was done in cultured patient cells, not in animals or people, and the abstract does not give the number of cell lines studied. Leptomycin B is a laboratory tool that blocks nuclear export broadly and is not a treatment. Progeroid syndromes copy some, not all, features of normal ageing, so how far these findings apply to everyday ageing is not tested here. The suggested link between ATM's position and failed repair in HGPS is described as a possible explanation.",
+   "terms": [
+    {
+     "term": "DNA polymerase delta",
+     "definition": "An enzyme that copies DNA during replication and fills gaps during DNA repair."
+    },
+    {
+     "term": "Lamin A/C",
+     "definition": "Proteins that form a mesh lining the inside of the nucleus and help organise DNA."
+    },
+    {
+     "term": "HGPS (progeria)",
+     "definition": "A rare LMNA disease causing rapid ageing features in childhood."
+    },
+    {
+     "term": "ATM",
+     "definition": "A kinase that senses DNA breaks and switches on the repair response."
+    },
+    {
+     "term": "CRM1",
+     "definition": "A carrier protein that exports proteins from the nucleus; blocked by leptomycin B."
+    }
+   ]
+  }
+ },
+ {
+  "slug": "cumulative-blood-pressure-epigenetic-aging",
+  "group": "latest",
+  "title": "Cumulative blood pressure burden and epigenetic aging: a three-year longitudinal study",
+  "authors": [
+   "Ryosuke Fujii",
+   "Yoshiki Tsuboi",
+   "Hiroya Yamada",
+   "Mirai Yamazaki",
+   "Yoshitaka Ando",
+   "Genki Mizuno",
+   "Hiroaki Ishikawa",
+   "Hiroshi Okumiyama",
+   "Kazuma Murakami",
+   "Riku Umematsu",
+   "Koji Suzuki"
+  ],
+  "authorsShort": "Ryosuke Fujii et al.",
+  "firstAuthor": "Ryosuke Fujii",
+  "journal": "Aging (Albany NY)",
+  "pubDate": "2026-11-27",
+  "doi": "10.18632/aging.206444",
+  "url": "https://doi.org/10.18632/aging.206444",
+  "pmid": null,
+  "pmcid": null,
+  "type": "research",
+  "preprint": false,
+  "openAccess": {
+   "status": "free to read",
+   "isOpen": true,
+   "url": "https://doi.org/10.18632/aging.206444",
+   "source": "free to read on publisher site (full text fetched 2026-11-28; Unpaywall and Crossref list no license yet)"
+  },
+  "whyItMatters": "In 229 older Japanese adults, three years of higher systolic blood pressure and pulse pressure tracked with faster GrimAge and DunedinPACE epigenetic ageing, hinting at one route from long-term blood pressure to heart risk.",
+  "signals": {
+   "citations": {
+    "openalex": null,
+    "semanticScholar": null,
+    "source": "not fetched: paper is days old or newly indexed"
+   },
+   "altmetric": {
+    "score": null,
+    "source": "api.altmetric.com/v1/doi requires an API key since 10 Nov 2025 (HTTP 403); not available"
+   },
+   "newsMentions": null,
+   "newsSource": "not searched (daily sweep)",
+   "journalTier": 1
+  },
+  "synopsisBasis": "abstract+fulltext",
+  "synopsis": {
+   "why": "High blood pressure is the largest single modifiable risk factor for heart attack and stroke worldwide. Doctors usually judge it from one reading, but what may matter more is how much pressure the arteries have been exposed to over years. The biological steps linking that long-term burden to heart disease are not well understood. One idea is that sustained high pressure speeds up biological ageing. Epigenetic clocks, which estimate biological age from DNA methylation tags on DNA, give a way to test this, and some newer clocks such as GrimAge and DunedinPACE are designed to predict disease and death rather than just birthdays.",
+   "did": "The researchers studied 229 Japanese adults with an average age of 65 (49% men) who attended yearly health check-ups for three years in a row, from 2014 to 2016. They measured cumulative blood pressure in two ways: the three-year average, and the area under the curve above set thresholds of 130 mmHg for systolic pressure, 80 mmHg for diastolic pressure and 50 mmHg for pulse pressure (the gap between the two). From genome-wide DNA methylation data they calculated five ageing measures: the Horvath, Hannum, PhenoAge and GrimAge clocks and the DunedinPACE pace-of-ageing score. They then tested links between blood pressure burden and age acceleration, adjusting for other factors.",
+   "found": "In fully adjusted models, a 10 mmHg higher average systolic pressure and a 10-unit higher systolic area under the curve were both linked to faster GrimAge ageing and a faster DunedinPACE pace of ageing. Pulse pressure showed similar links. Diastolic pressure showed no significant associations. The authors say these results suggest that long-term systolic and pulse pressure burden may contribute to faster biological ageing, which could be one route from years of high pressure to heart disease. They argue the work supports keeping systolic and pulse pressure controlled over the long term.",
+   "limits": "This synopsis is based on the abstract plus the paper's own limitations section from the full text. It is an observational study, so it shows association, not cause, and the authors note that residual confounding cannot be ruled out. Blood pressure was measured only once a year and gaps were filled by interpolation, which can add measurement error. The sample is small and came from one small town in Japan, and the authors call the findings very preliminary and not generalisable to other populations. The associations were seen with GrimAge and DunedinPACE; the abstract does not report significant links for the Horvath, Hannum or PhenoAge clocks. The statistical signals were modest, with p-values close to 0.05.",
+   "terms": [
+    {
+     "term": "Cumulative blood pressure burden",
+     "definition": "Total blood-pressure exposure over time, such as a multi-year average or area above a threshold."
+    },
+    {
+     "term": "Pulse pressure",
+     "definition": "Systolic minus diastolic pressure; higher values often reflect stiffer arteries."
+    },
+    {
+     "term": "GrimAge",
+     "definition": "An epigenetic clock trained to predict lifespan and health risk."
+    },
+    {
+     "term": "DunedinPACE",
+     "definition": "A methylation score estimating how fast a person is ageing right now."
+    },
+    {
+     "term": "Epigenetic age acceleration",
+     "definition": "Being biologically older by a methylation clock than one's calendar age predicts."
+    }
+   ]
+  }
  }
 ]
